@@ -1,0 +1,575 @@
+$def with (query1,operator1,query2,operator2,query3,searchEngine1,searchEngine2,searchEngine3,searchEngine4,searchEngine5,radioQE,sources,SEdrop,hop1,hop2,hop3,degree,closeness,pagerank,hop1Win,degreeWin,closenessWin,pagerankWin,degreeIntersection,closenessIntersection,pagerankIntersection,intersectionFinal,intersectionFinal_perKata,QR_final)
+
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>Semantic MSE Unib</title>
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />	
+		<script type="text/javascript" src="/src/jquery-2.1.1.min.js"></script>	
+		<link rel="stylesheet" href="/src/Style_Prototipe2.css" type="text/css" />
+	</head>
+	<body>
+		<div class="wrapper">					
+				<form name="main" method="post">
+				<center>
+					<div class="container">
+						<div class="imageLogo">
+							<h1 type="logo">Semantic MSE UNIB</h1>
+							<!-- img src="/images/logo.png" style="height: 150px; width: 360px" -->
+						</div>
+						
+						<hr>
+						
+						<div class="query">
+							<ul>
+								<li>$:query1.render()</li>
+								<li>$:operator1.render()</li>
+								<li>$:query2.render()</li>
+								<li>$:operator2.render()</li>
+								<li>$:query3.render()</li>
+							</ul>
+						</div>
+						
+						<div class="searchEngine" align="center">
+							<ul>
+							<table class="tg">
+								<tr>
+									<td><label type="checkbox">Search Engine</label></td>
+									<td><label type="checkbox">:</label></td>
+									<td>
+										<li>$:searchEngine1.render()</li>
+										<li><label type="checkbox" for="search_engine1">Google</label></li>
+										<li>$:searchEngine2.render()</li>
+										<li><label type="checkbox" for="search_engine2">Bing</label></li>
+										<li>$:searchEngine3.render()</li>
+										<li><label type="checkbox" for="search_engine3">Lycos</label></li>
+										<li>$:searchEngine4.render()</li>
+										<li><label type="checkbox" for="search_engine4">Exalead</label></li>
+										<li>$:searchEngine5.render()</li>
+										<li><label type="checkbox" for="search_engine5">Ask</label></li>
+									</td>
+								</tr>
+								
+								<tr>
+									<td><label type="checkbox">Query Rewriting</label></td>
+									<td><label type="checkbox">:</label></td>
+									<td>$:radioQE.render()</td>
+								</tr>
+								
+								<tr>
+									<td><label type="checkbox">Source</label></td>
+									<td><label type="checkbox">:</label></td>
+									<td>$:sources.render()</td>
+								</tr>
+								
+							</table>
+							</ul>
+						</div>
+						
+						<div>
+							<ul>
+								<li><input type="submit" name="form_action" value="Search" id="submitButton" /></li>
+							</ul>	
+						</div>		
+					</div><!-- .container-->
+				</center>
+					
+				<div class="result">
+					<center>
+						<table class="tg">
+							<tr>
+								<br>
+								<label type="proses">Query Rewriting Process</label>								
+							</tr>
+						</table>
+					</center>	
+						
+					<table class="tg">
+						<tr>
+							<br>
+						</tr>
+						<tr>
+							<td><label type="indexPage">Go to Search Engine</label></td>
+							<td>$:SEdrop.render()</td>
+							<td/>
+							<td/>
+							<td><input type="submit" name="form_action" id="submitGo" value="See"/><td>
+						</tr>
+					</table>
+					<hr>
+					<br>
+					<table class="tg">
+						<tr>
+							<td><label type="snippet">1.</label></td>
+							<td><label type="snippet">Lakukan crawling dokumen kueri + 'wikipedia' pada mesin pencari, ambil dokumen yang bersumber dari Wikipedia saja (hop 1)</label></td>
+						</tr>
+					</table>
+					
+						<center>						
+							<table class="tg">								
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Hop 1</label>
+											$code:
+											no = []
+											for x in range(len(hop1)):
+												no.append(x+1)
+										<div class="scrollbar_2" id="style-12">
+											$for x in range(len(hop1))
+											<table class="tg">
+												<tr>
+													<td>$:no[x]. </td>
+													<td>$hop1[x]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbar -->	
+									</td>
+							
+							</table>
+						</center>
+					<br>
+					<table class="tg">									
+						<tr>
+							<td><label type="snippet">2.</label></td>
+							<td><label type="snippet">Kunjungi halaman Wikipedia yang diperoleh, crawling kembali untuk mengambil data bagian category, see also, dan related term pada Wikipedia (hop 2)</label></td>								
+						</tr>
+					</table>
+					
+						<center>						
+							<table class="tg">								
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Hop 2 from All Hop 1</label>
+											$code:
+											no = []
+											for x in range(len(hop2)):
+												no.append(x+1)
+										<div class="scrollbar_2" id="style-12">
+											$for x in range(len(hop2))
+											<table class="tg">
+												<tr>
+													<td>$:no[x]. </td>
+													<td>$hop2[x]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbox -->	
+									</td>
+							
+							</table>
+						</center>
+					
+					<br>
+					<table class="tg">
+						<tr>
+							<td><label type="snippet">3.</label></td>
+							<td><label type="snippet">Lakukan kembali langkah kedua untuk setiap data yang diperoleh pada proses kedua (hop 3)</label></td>								
+						</tr>
+					</table>
+						
+						<center>						
+							<table class="tg">								
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Hop 3 from All Hop 2</label>
+											$code:
+											no = []
+											for x in range(len(hop3)):
+												no.append(x+1)
+										<div class="scrollbar_2" id="style-12">
+											$for x in range(len(hop3))
+											<table class="tg">
+												<tr>
+													<td>$:no[x]. </td>
+													<td>$hop3[x]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbox -->
+									</td>
+							
+							</table>
+						</center>						
+					<br>
+					
+					<table class="tg">
+						<tr>
+							<td><label type="snippet">4.</label></td>
+							<td><label type="snippet">Setiap hop 1 yang diperoleh bentuk ke dalam graf berarah (directed graph) dengan bobot untuk setiap hubungan antar node (edge) sesuai hubungan antar data di halaman Wikipedia. Untuk bagian category bobotnya 0.5, see also bobotnya 0.7, dan related term bobotnya 0.6</label></td>								
+						</tr>
+						<tr>
+							<td><label type="snippet">5.</label></td>
+							<td><label type="snippet">Dari graf yang diperoleh cari degree untuk setiap node, closeness centrality, dan PageRank-nya</label></td>								
+						</tr>
+					</table>
+					
+					<center>							
+						$for d in range(len(degree)):										
+							<table class="tg">															
+								<tr>
+									<br>
+									<label type="proses">$degree[d][0]</label>
+								</tr>
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Degree</label>
+											$code:
+											no = []
+											for x in range(len(degree[d][1])):
+												no.append(x+1)
+										<div class="scrollbar-3" id="style-12">
+											$for d2 in range(len(degree[d][1]))
+											<table class="tg">
+												<tr>
+													<td>$:no[d2]. </td>
+													<td>$degree[d][1][d2]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbox -->	
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Closeness</label>
+											$code:
+											no = []
+											for x in range(len(closeness[d][1])):
+												no.append(x+1)
+										<div class="scrollbar-3" id="style-12">
+											$for d2 in range(len(closeness[d][1]))
+											<table class="tg">
+												<tr>
+													<td>$:no[d2]. </td>
+													<td>$closeness[d][1][d2]</td>
+												</tr>
+											</table>				
+										</div><!-- .scrollbox -->	
+									</td>
+									</td>
+									<td>
+									</td>
+									</td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Pagerank</label>
+											$code:
+											no = []
+											for x in range(len(pagerank[d][1])):
+												no.append(x+1)
+										<div class="scrollbar-3" id="style-12">
+											$for d2 in range(len(pagerank[d][1]))
+											<table class="tg">
+												<tr>
+													<td>$:no[d2]. </td>
+													<td>$pagerank[d][1][d2]</td>
+												</tr>
+											</table>			
+										</div><!-- .scrollbox -->	
+									</td>
+								</tr>
+							</table>
+						</center>
+			
+					<table class="tg">
+						<tr>
+							<br>
+						</tr>
+						<tr>
+							<td><label type="snippet">6.</label></td>
+							<td><label type="snippet">Tentukan pemenang antar hop 1 dari setiap kueri utama dengan melihat nilai degree yang diperoleh. Nilai degree yang tertinggi adalah pemenangnya</label></td>								
+						</tr>
+						<tr>
+							<td><label type="snippet"> </label></td>
+							<td><label type="snippet">Pemenang hop 1 dalam kueri ini adalah <label type="proses">$:hop1Win</label></label></td>
+						</tr>
+						<tr>
+							<td><label type="snippet">7.</label></td>
+							<td><label type="snippet">Ambil 100 node teratas (nilai tertinggi) dari masing-masing degree, closeness centrality, dan PageRank dari pemenang hop 1</label></td>
+						</tr>
+					</table>
+					
+						<center>																
+							<table class="tg">															
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Degree</label>
+											$code:
+											no = []
+											for x in range(len(degreeWin)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for y in range(len(degreeWin))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$degreeWin[y]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbox -->	
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Closeness</label>
+											$code:
+											no = []
+											for x in range(len(closenessWin)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for y in range(len(closenessWin))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$closenessWin[y]</td>
+												</tr>
+											</table>				
+										</div><!-- .scrollbox -->	
+									</td>
+									</td>
+									<td>
+									</td>
+									</td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Pagerank</label>
+											$code:
+											no = []
+											for x in range(len(pagerankWin)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for y in range(len(pagerankWin))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$pagerankWin[y]</td>
+												</tr>
+											</table>			
+										</div><!-- .scrollbox -->	
+									</td>
+								</tr>
+							</table>
+						</center>
+					
+					<table class="tg">
+						<tr>
+							<br>
+						</tr>
+						<tr>
+							<td><label type="snippet">8.</label></td>
+							<td><label type="snippet">Proses irisan (intersection) antara degree, closeness centrality, dan PageRank</label></td>								
+						</tr>
+					</table>
+					
+						<center>																
+							<table class="tg">															
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Degree terhadap Closeness dan Pagerank</label>
+											$code:
+											no = []
+											for x in range(len(degreeIntersection)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for y in range(len(degreeIntersection))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$degreeIntersection[y]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbox -->	
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Closeness terhadap Degree dan Pagerank</label>
+											$code:
+											no = []
+											for x in range(len(closenessIntersection)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for y in range(len(closenessIntersection))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$closenessIntersection[y]</td>
+												</tr>
+											</table>				
+										</div><!-- .scrollbox -->	
+									</td>
+									</td>
+									<td>
+									</td>
+									</td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Pagerank terhadap Degree dan Closeness</label>
+											$code:
+											no = []
+											for x in range(len(pagerankIntersection)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for y in range(len(pagerankIntersection))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$pagerankIntersection[y]</td>
+												</tr>
+											</table>			
+										</div><!-- .scrollbox -->	
+									</td>
+								</tr>
+							</table>
+						</center>
+					
+					<table class="tg">
+						<tr>
+							<br>
+						</tr>
+						<tr>
+							<td><label type="snippet">9.</label></td>
+							<td><label type="snippet">Ketiga irisan tersebut di rangking untuk mendapatkan irisan final yang digunakan sebagai kandidat Query Rewriting</label></td>								
+						</tr>
+					</table>
+					
+						<center>																
+							<table class="tg">															
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Irisan Final (kandidat Query Rewriting)</label>
+											$code:
+											no = []
+											for x in range(len(intersectionFinal)):
+												no.append(x+1)
+										<div class="scrollbar-3" id="style-12">
+											$for y in range(len(intersectionFinal))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$intersectionFinal[y]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbox -->	
+									</td>
+								</tr>
+							</table>
+						</center>
+					
+					<table class="tg">
+						<tr>
+							<br>
+						</tr>
+						<tr>
+							<td><label type="snippet">10.</label></td>
+							<td><label type="snippet">Pisah irisan final tersebut menjadi per kata, kata yang sama dengan kata di kueri dan yang merupakan kata stopword dihilangkan</label></td>								
+						</tr>
+					</table>
+					
+						<center>																
+							<table class="tg">															
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">Irisan Final per kata</label>
+											$code:
+											no = []
+											for x in range(len(intersectionFinal_perKata)):
+												no.append(x+1)
+										<div class="scrollbar-3" id="style-12">
+											$for y in range(len(intersectionFinal_perKata))
+											<table class="tg">
+												<tr>
+													<td>$:no[y]. </td>
+													<td>$intersectionFinal_perKata[y]</td>
+												</tr>
+											</table>
+										</div><!-- .scrollbox -->	
+									</td>
+								</tr>
+							</table>
+						</center>
+						
+						<table class="tg">
+							<tr>
+								<td><label type="snippet">11.</label></td>
+								<td><label type="snippet">Ambil kata teratas dari hasil yang diperoleh untuk ditambahkan dalam Query Rewriting</label></td>								
+							</tr>
+							<tr>
+								<br>
+								<td><label type="snippet"> </label></td>
+								<td><label type="snippet">Final Query Rewriting : </label></td>								
+							</tr>
+							<tr>
+								<br>
+								<td><label type="snippet"> </label></td>
+								<td><label type="proses">$:QR_final</label></td>
+							</tr>
+						</table>
+						
+						<center>
+							<table class="tg">
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td><input type="submit" name="form_action" id="submitGo" value="Next"/><td>
+								</tr>
+							</table>
+						</center>
+						
+				</div><!-- .result -->
+			</form>				
+
+						
+			<div class="footer">
+			<br>
+			<label type="footer">&#9400; 2015 Gries Yulianti (G1A011045)
+			<br>
+			All Reserved by Faculty of Engineering, Informatics Engineering Department, University of Bengkulu</label>
+			</div><!-- .footer -->
+		
+		</div><!-- .wrapper -->
+
+	</body>
+</html>

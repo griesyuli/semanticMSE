@@ -1,0 +1,277 @@
+$def with (query1,operator1,query2,operator2,query3,searchEngine1,searchEngine2,searchEngine3,searchEngine4,searchEngine5,radioQE,sources,q1,q1_sinonim,q2,q2_sinonim,q3,q3_sinonim,q1_data_kata,q2_data_kata,q3_data_kata,QR_final)
+
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>Semantic MSE Unib</title>
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />	
+		<script type="text/javascript" src="/src/jquery-2.1.1.min.js"></script>	
+		<link rel="stylesheet" href="/src/Style_Prototipe2.css" type="text/css" />
+	</head>
+	<body>
+		<div class="wrapper">					
+				<form name="main" method="post">
+				<center>
+					<div class="container">
+						<div class="imageLogo">
+							<h1 type="logo">Semantic MSE UNIB</h1>
+							<!-- img src="/images/logo.png" style="height: 150px; width: 360px" -->
+						</div>
+						
+						<hr>
+						
+						<div class="query">
+							<ul>
+								<li>$:query1.render()</li>
+								<li>$:operator1.render()</li>
+								<li>$:query2.render()</li>
+								<li>$:operator2.render()</li>
+								<li>$:query3.render()</li>
+							</ul>
+						</div>
+						
+						<div class="searchEngine" align="center">
+							<ul>
+							<table class="tg">
+								<tr>
+									<td><label type="checkbox">Search Engine</label></td>
+									<td><label type="checkbox">:</label></td>
+									<td>
+										<li>$:searchEngine1.render()</li>
+										<li><label type="checkbox" for="search_engine1">Google</label></li>
+										<li>$:searchEngine2.render()</li>
+										<li><label type="checkbox" for="search_engine2">Bing</label></li>
+										<li>$:searchEngine3.render()</li>
+										<li><label type="checkbox" for="search_engine3">Lycos</label></li>
+										<li>$:searchEngine4.render()</li>
+										<li><label type="checkbox" for="search_engine4">Exalead</label></li>
+										<li>$:searchEngine5.render()</li>
+										<li><label type="checkbox" for="search_engine5">Ask</label></li>
+									</td>
+								</tr>
+								
+								<tr>
+									<td><label type="checkbox">Query Rewriting</label></td>
+									<td><label type="checkbox">:</label></td>
+									<td>$:radioQE.render()</td>
+								</tr>
+								
+								<tr>
+									<td><label type="checkbox">Source</label></td>
+									<td><label type="checkbox">:</label></td>
+									<td>$:sources.render()</td>
+								</tr>
+								
+							</table>
+							</ul>
+						</div>
+						
+						<div>
+							<ul>
+								<li><input type="submit" name="form_action" value="Search" id="submitButton" /></li>
+							</ul>	
+						</div>		
+					</div><!-- .container-->
+				</center>
+					
+					<div class="result">
+						<center>
+						<table class="tg">
+							<tr>
+								<br>
+								<label type="proses">Query Rewriting Process</label>								
+							</tr>
+						</table>
+						</center>
+						
+						<table class="tg">
+							<tr>
+								<br>
+								<td><label type="snippet">1.</label></td>
+								<td><label type="snippet">Ambil sinonim dari setiap kata di kueri dari sumber aplikasi sinonim yang dipilih</label></td>								
+							</tr>
+						</table>
+						
+						<center>						
+							<table class="tg">								
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">First Term : $:q1</label>
+											$code:
+											no = []
+											for x in range(len(q1_sinonim)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for x in range(len(q1_sinonim))
+											<ul>
+												<li>$:no[x]. </li>
+												<li>$q1_sinonim[x]</li>
+											</ul>
+										</div><!-- .scrollbox -->	
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Second Term : $:q2</label>
+											$code:
+											no = []
+											for x in range(len(q2_sinonim)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for x in range(len(q2_sinonim))
+											<ul>
+												<li>$:no[x]. </li>
+												<li>$q2_sinonim[x]</li>
+											</ul>						
+										</div><!-- .scrollbox -->	
+									</td>
+									</td>
+									<td>
+									</td>
+									</td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Third Term : $:q3</label>
+											$code:
+											no = []
+											for x in range(len(q3_sinonim)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for x in range(len(q3_sinonim))
+											<ul>
+												<li>$:no[x]. </li>
+												<li>$q3_sinonim[x]</li>
+											</ul>						
+										</div><!-- .scrollbox -->	
+									</td>
+								</tr>
+							</table>
+						</center>
+						
+						<table class="tg">
+							<tr>
+								<br>
+								<td><label type="snippet">2.</label></td>
+								<td><label type="snippet">Pisah menjadi per kata dari hasil sinonim yang diperoleh, kata yang sama dengan kata sumber sinonim tersebut dan yang merupakan stopword dihilangkan</label></td>								
+							</tr>
+						</table>
+						
+						<center>						
+							<table class="tg">								
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td>
+										<label type="snippet">First Term : $:q1</label>
+											$code:
+											no = []
+											for x in range(len(q1_data_kata)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for x in range(len(q1_data_kata))
+											<ul>
+												<li>$:no[x]. </li>
+												<li>$q1_data_kata[x]</li>
+											</ul>
+										</div><!-- .scrollbox -->	
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Second Term : $:q2</label>
+											$code:
+											no = []
+											for x in range(len(q2_data_kata)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for x in range(len(q2_data_kata))
+											<ul>
+												<li>$:no[x]. </li>
+												<li>$q2_data_kata[x]</li>
+											</ul>						
+										</div><!-- .scrollbox -->	
+									</td>
+									</td>
+									<td>
+									</td>
+									</td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<label type="snippet">Third Term : $:q3</label>
+											$code:
+											no = []
+											for x in range(len(q3_data_kata)):
+												no.append(x+1)
+										<div class="scrollbar" id="style-12">
+											$for x in range(len(q3_data_kata))
+											<ul>
+												<li>$:no[x]. </li>
+												<li>$q3_data_kata[x]</li>
+											</ul>						
+										</div><!-- .scrollbox -->	
+									</td>
+								</tr>
+							</table>
+						</center>
+						
+						<table class="tg">
+							<tr>
+								<td><label type="snippet">3.</label></td>
+								<td><label type="snippet">Ambil kata teratas dari setiap hasil yang diperoleh untuk ditambahkan dalam Query Rewriting, kata yang sama dengan kueri awal dihilangkan (untuk Moby Thesaurus ambil secara acak katanya)</label></td>								
+							</tr>
+							<tr>
+								<br>
+								<td><label type="snippet">4.</label></td>
+								<td><label type="snippet">Final Query Rewriting : </label></td>								
+							</tr>
+							<tr>
+								<br>
+								<td><label type="snippet"> </label></td>
+								<td><label type="proses">$:QR_final</label></td>
+							</tr>
+						</table>
+						<center>
+							<table class="tg">
+								<tr>
+									<br>
+								</tr>
+								<tr>
+									<td><input type="submit" name="form_action" id="submitGo" value="Next"/><td>
+								</tr>
+							</table>
+						</center>
+						
+					</div><!-- .result -->		
+					
+			</form>				
+
+						
+			<div class="footer">
+			<br>
+			<label type="footer">&#9400; 2015 Gries Yulianti (G1A011045)
+			<br>
+			All Reserved by Faculty of Engineering, Informatics Engineering Department, University of Bengkulu</label>
+			</div><!-- .footer -->
+		
+		</div><!-- .wrapper -->
+
+	</body>
+</html>
