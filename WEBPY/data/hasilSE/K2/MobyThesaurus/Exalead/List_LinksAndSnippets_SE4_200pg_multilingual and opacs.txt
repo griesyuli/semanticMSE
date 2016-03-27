@@ -1,0 +1,4 @@
+1 ;*; http://haddouti.de/review-issue.doc ;*; Survey: Multilingual Text Retrieval and Access ;*;  ;*; 
+2 ;*; http://clir.craynaud.com/clir/Survey-MultilingualTextRetrievalandAccess.pdf ;*; Survey-MultilingualTextRetrievalandAccess.pdf ;*;  ;*; 
+3 ;*; http://dhhumanist.org/Archives/Virginia/v04/subject.html ;*; Humanist Archives Vol. 4 by subject ;*;  ;*; 
+4 ;*; http://lists.village.virginia.edu/lists_archive/Humanist/v04/author.html ;*; Humanist Archives Vol. 4 by author ;*;  ;*; 

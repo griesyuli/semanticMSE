@@ -1,0 +1,6 @@
+1 ;*; http://www.coursehero.com/file/4425631/english/ ;*; Nebraska Wesleyan : CS 290 : english ;*;  ;*; 
+2 ;*; http://ergebnis.kilu.de/ergebnis-1c.htm ;*; Hier hat Ihre Suche ein Ende! ;*;  ;*; 
+3 ;*; http://www.cs.hmc.edu/~geoff/courses/cs70/spring01/homework10/ispell.words ;*; ispell.words ;*;  ;*; 
+4 ;*; http://rixstep.com/2/2/20070824,01.shtml ;*; cracklib-small | Rixstep Developers Workshop ;*;  ;*; 
+5 ;*; http://www.nyx.net/~tkell/ManyWords.html ;*; Many words ;*;  ;*; 
+6 ;*; http://www.istrata.net/words.html ;*; words.html ;*;  ;*; 
