@@ -1,0 +1,450 @@
+triangulated irregular network
+geoinformatics
+geodesic grid
+tclx
+teradata geospatial
+snit
+microsoft sql server
+comparison of programming languages
+lgpl
+iso/tc 211
+codasyl
+comparison of web map services
+rasdaman
+2007 software
+spatial econometrics
+class-based programming languages
+recursive partitioning
+bounding volume hierarchy
+redlands, california
+rdf/xml
+business intelligence 2.0
+stack-based virtual machines
+min/max k-d tree
+sqlite
+tagging
+computer languages
+programming languages created in 1988
+gis companies
+distributed computing architecture
+standards
+r+ tree
+geohash
+anti-copyright
+cap theorem
+btree
+hdfs
+companies based in cambridge
+free plotting software
+public domain software
+world wide web consortium standards
+open geospatial consortium
+tkdesk
+list of column-oriented dbmses
+text-oriented programming languages
+metadata
+symbian software
+comparison of data modeling tools
+high-level programming languages
+big data
+database management system
+soundmap
+hilbert curve
+octree
+r-tree
+data-centric programming languages
+folksonomy
+associative model of data
+esri
+open source
+swoogle
+conceptual graph
+graph (mathematics)
+modifiable areal unit problem
+data management
+subpaving
+accumulo
+[78]
+linear octree
+strategic management
+serverless database management systems
+java specification requests
+id tech 6
+bigcouch
+java platform software
+semantic web
+trig
+comparison of object database management systems
+1995 software
+fuzzy architectural spatial analysis
+moore curve
+oracle software
+lamp (software bundle)
+geodemographic segmentation
+jts topology suite
+point access method
+cluster computing
+mapnik
+geomesa
+shapefile
+geometric algorithms
+market research
+lotus notes
+computer science stubs
+list of programming languages
+graph databases
+m-tree
+functional languages
+members of the acadã©mie des beaux-arts
+dynamically typed programming languages
+allegrograph
+java virtual machine
+h2 (dbms)
+sparql
+remote sensing
+client-server database management systems
+graph (data structure)
+comparison of free and open-source software licenses
+alumni of the ã‰cole des beaux-arts
+software companies of sweden
+kd-tree
+itk
+microsoft server technology
+entity-attribute-value model
+spatial relation
+smallworld
+hypergraph
+apache license
+cypher query language
+erlang (programming language)
+criticism of intellectual property
+vmds
+website parse template
+19th-century painters of historical subjects
+r* tree
+free software programmed in c
+comparison of relational database management systems
+university of minnesota software
+comparison of numerical analysis software
+trees (data structures)
+matrix representation
+european union public licence
+19th-century french painters
+space filling curve
+distributed cache
+spatial analysis
+comparison of java virtual machines
+1780 births
+2009 software
+segment tree
+mean
+voxel
+cartography
+python (programming language)
+itcl
+visibility analysis
+expect
+binary space partitioning
+dimensionally extended nine-intersection model
+cross-platform software
+database software stubs
+gis software
+hilbert r-tree
+bibliography file formats
+orientalist painters
+collaborative mapping
+spatial databases
+companies established in 1969
+occupational safety and health
+recipients of the pour le mã©rite (civil class)
+locality preserving hashing
+correlation database
+comparison of application virtual machines
+dutch inventions
+bounding parallelogram
+geometry
+xml-based standards
+spatial query server
+de-9im
+list of graph theory topics
+list of relational database management systems
+ordbms software for linux
+bounding interval hierarchy
+object database
+database models
+neo4j
+polygons
+gpl
+topoquest
+column-oriented database
+tcl programming language family
+fractal curves
+irrlicht engine
+glossary of graph theory
+geocodes
+free and open-source software licenses
+sql server compact
+mining
+free computer libraries
+common language runtime
+cloudant
+rmetrics
+sun microsystems software
+simple features
+apache spark
+geospatial metadata
+berkeley db
+data warehousing products
+simple feature access
+ingres
+free data visualization software
+database engines
+mysql
+linear algebra
+web mapping
+universal networking language
+software using the bsd license
+spidermonkey (software)
+dataportability
+spatial data analysis
+business intelligence
+list of software licenses
+environment modules (software)#modulefiles
+minimum bounding rectangle
+public participation gis (ppgis)
+people from montauban
+list of statistical packages
+types of databases
+prix de rome for painting
+persistence
+database algorithms
+data modeling languages
+spatial epidemiology
+microsoft database software
+boundary problem (in spatial analysis)
+apache software foundation
+dual-licensing
+geographic information science
+web processing service
+column-oriented dbms
+companies based in san bernardino county, california
+knowledge representation
+faceted search
+couchbase server
+graph transformation
+geotools
+off-side rule languages
+data types
+geographic coordinate systems
+node.js
+statistical data types
+rdf database
+dual graph
+market structure and pricing
+geography
+xml
+complete spatial randomness
+semantic network
+comparison of object-relational database management systems
+academic art
+automated exception handling
+intelligence (information gathering)
+rhino (javascript engine)
+algorithms and data structures stubs
+graph theory
+social information processing
+gnu project
+windows server system
+spatial database
+monetdb
+document-oriented database
+well-known text
+interval tree
+multi-model database
+postgis
+history of mining
+software using the apache license
+free statistical software
+rdbms software for linux
+ogre
+free database management systems
+tclmon
+software using the mit license
+wireless locating
+service-oriented architecture
+18th-century french painters
+server-side scripting
+geospatial predictive modeling
+alpha-numeric grid
+gis file formats
+hyperdex
+xotcl
+copyleft
+declarative programming languages
+geostatistics
+numerical analysis software for windows
+healpix
+list of java virtual machines
+new york, ny
+list of publications in graph theory
+apache accumulo
+spatial query
+video game development
+database management systems
+column-oriented dbms software for linux
+french neoclassical painters
+comparison of statistical packages
+minimum bounding box
+z-order (curve)
+free gis software
+ntropy
+geolocation
+ibm db2
+array dbms
+lyce (software bundle)
+java (programming language)
+extrapolation domain analysis
+grid reference
+geocode
+xml database
+statistical software
+computer graphics data structures
+structured storage
+gist
+burials at pã¨re lachaise cemetery
+gnu general public license
+lua-scriptable software
+list of numerical analysis software
+ball tree
+literate programming
+graph drawing
+mapserver
+multivalue
+geocomputation
+object-based spatial database
+web coverage service
+gnu project software
+linter sql rdbms
+cube 2: sauerbraten
+c libraries
+programming with big data in r
+graph database
+cartography stubs
+couchdb
+hadoop
+ibm db2 express-c
+geoserver
+temporal databases
+intellectual property law
+implicit k-d tree
+database index techniques
+flat file database
+apache hadoop
+document-oriented databases
+hilbert curve scheduling
+sierpiå„ski curve
+transaction
+database
+american inventions
+ub-tree
+database stubs
+geographic information system
+sap hana
+triplestore
+nosql
+mnesia
+tcl
+location intelligence
+unix network-related software
+spatial index
+distributed data stores
+geometric data structures
+volunteered geographic information (vgi)
+suitability analysis
+data mining and machine learning software
+programming languages created in 1991
+triangulation (geometry)
+2000 software
+spatialite
+data warehouse
+python for s60
+scripting languages
+utility pole#coordinates on pole tags
+guillotine problem
+query languages
+v8 (javascript engine)
+software companies based in california
+quadtree
+proprietary database management systems
+java platform
+free software license
+free web server software
+cross-platform free software
+object-relational database
+free software programmed in java (programming language)
+list of fractals by hausdorff dimension
+comparison of structured storage software
+redis
+mathematical statistics
+rdfa
+web services
+geographic information systems (gis)
+orientdb
+data analysis
+comparison of tcl integrated development environments
+free software programmed in scala
+z-order curve
+largest empty rectangle
+postgresql
+b-tree
+eu open data portal
+apache cassandra
+object-oriented programming languages
+comparison of integrated development environments for python
+list of jvm languages
+spatiotemporal database
+permissive and copyleft licenses
+network theory
+rdf data access
+numerical analysis software for linux
+computer law
+spatial autocorrelation
+pupils of jacques-louis david
+gpl font exception
+2â€“3â€“4 tree
+java processor
+1969 establishments in california
+products introduced in 2004
+relational database management systems
+3d computer graphics
+oracle spatial
+leap (software bundle)
+geographic information systems
+neogeography
+life science identifiers
+1971 introductions
+university of california, berkeley
+fico
+c-squares
+elongatedness
+r (programming language)
+1867 deaths
+trix
+2â€“3 tree
+list of online map services
+klee's measure problem
+json-ld
+polygon
+x-tree
+tarantool
+free software
+database-related software for linux
+riak
+mongodb
+grass gis
+solutions stack
+grid (spatial index)
+java performance
+space-filling curves
+numerical analysis software for os x
+resource description framework

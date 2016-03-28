@@ -1,0 +1,53 @@
+electronic engineering
+code smell
+computer science portal
+function (programming)
+loop unrolling
+regression testing
+class (computer science)
+information hiding
+object oriented
+list of software engineering topics
+obfuscated code
+copy and paste
+computer bug
+extreme programming
+wikipedia book
+time to market
+cargo cult programming
+list of pioneers in computer science
+women in computing
+design pattern (computer science)
+subtext programming language
+list of publications in computer science
+list of academic computer science departments
+computer science
+don't repeat yourself
+outline of computer science
+list of unsolved problems in computer science
+code duplication
+technology transfer in computer science
+method overloading
+academic genealogy of computer scientists
+inheritance (computer science)
+procedural programming
+source code editor
+copy and paste programming
+revision control
+refactoring
+snippet (programming)
+internet forum
+abstraction (computer science)
+list of computer science conferences
+informatics (academic field)
+algorithm
+anti-patterns
+backward compatibility
+list of computer scientists
+computer engineering
+computer programming
+code refactoring
+branching (software)
+electrical engineering
+boilerplate code
+rule of thumb
