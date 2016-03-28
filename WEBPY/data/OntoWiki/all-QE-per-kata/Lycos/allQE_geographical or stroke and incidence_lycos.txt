@@ -1,0 +1,10 @@
+1 ;*; speech-language
+2 ;*; pathology
+3 ;*; cocaine
+4 ;*; prevention
+5 ;*; medical
+6 ;*; mania
+7 ;*; primary
+8 ;*; standard
+9 ;*; care
+10 ;*; etiology

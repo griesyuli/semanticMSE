@@ -1,0 +1,14 @@
+1 ;*; public
+2 ;*; health
+3 ;*; methamphetamine
+4 ;*; anosognosia
+5 ;*; angiogram
+6 ;*; oclc
+7 ;*; screening
+8 ;*; medicine
+9 ;*; electrocardiogram
+10 ;*; activity
+11 ;*; daily
+12 ;*; living
+13 ;*; occupational
+14 ;*; therapy
