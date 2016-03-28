@@ -1,0 +1,21 @@
+1 ;*; areal
+2 ;*; cartographic
+3 ;*; chorographic
+4 ;*; geodesic
+5 ;*; geodetic
+6 ;*; geographic
+7 ;*; geological
+8 ;*; geophysical
+9 ;*; locational
+10 ;*; navigational
+11 ;*; physiographic
+12 ;*; positional
+13 ;*; regional
+14 ;*; sectional
+15 ;*; situal
+16 ;*; situational
+17 ;*; territorial
+18 ;*; topographic
+19 ;*; zonal
+20 ;*; earth science
+21 ;*; true

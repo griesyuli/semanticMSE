@@ -1,0 +1,6 @@
+1 ;*; alcoholism
+2 ;*; alcohol_addiction
+3 ;*; inebriation
+4 ;*; drunkenness
+5 ;*; dipsomania
+6 ;*; potomania

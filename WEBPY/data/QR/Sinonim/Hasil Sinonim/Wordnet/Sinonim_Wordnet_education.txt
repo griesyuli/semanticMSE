@@ -1,0 +1,11 @@
+1 ;*; education
+2 ;*; instruction
+3 ;*; teaching
+4 ;*; pedagogy
+5 ;*; didactics
+6 ;*; educational_activity
+7 ;*; training
+8 ;*; breeding
+9 ;*; Department_of_Education
+10 ;*; Education_Department
+11 ;*; Education

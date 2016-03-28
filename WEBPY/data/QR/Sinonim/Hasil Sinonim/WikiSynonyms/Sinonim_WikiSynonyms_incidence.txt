@@ -1,0 +1,15 @@
+1 ;*; Angle of incidence
+2 ;*; Benefit incidence
+3 ;*; Cumulative incidence
+4 ;*; Expenditure incidence
+5 ;*; Fiscal incidence
+6 ;*; Incidence (epidemiology)
+7 ;*; Incidence (geometry)
+8 ;*; Incidence algebra
+9 ;*; Incidence geometry
+10 ;*; Incidence list
+11 ;*; Incidence matrix
+12 ;*; Incidence structure
+13 ;*; Incident (disambiguation)
+14 ;*; Plane of incidence
+15 ;*; Tax incidence

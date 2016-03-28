@@ -1,0 +1,27 @@
+1 ;*; Alcoholism
+2 ;*; Alcoholic
+3 ;*; Chronic alcoholic
+4 ;*; Alcohol dependency
+5 ;*; Recovering alcoholic
+6 ;*; Alcoholics
+7 ;*; Drinking problem
+8 ;*; Alchie
+9 ;*; Heavy drinking
+10 ;*; Alcholic
+11 ;*; Alcohol Related Illness
+12 ;*; Alcoholicism
+13 ;*; Alcoholic abuse
+14 ;*; Alcohal addiction
+15 ;*; Wino (slang term)
+16 ;*; Chronic alcoholism
+17 ;*; St. Martin's disease
+18 ;*; Alcohol prevention
+19 ;*; Alcoholism (behavior)
+20 ;*; Alcohol (drug)
+21 ;*; Addiction to alcohol
+22 ;*; Antidipsotropic
+23 ;*; Alchoholism
+24 ;*; Alcohol dependence syndrome
+25 ;*; Heavy drinker
+26 ;*; Alcoholism in Britain
+27 ;*; Alcohol awareness

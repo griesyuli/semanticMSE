@@ -1,0 +1,47 @@
+1 ;*; a habit
+2 ;*; acquired tolerance
+3 ;*; acute alcoholism
+4 ;*; addictedness
+5 ;*; addiction
+6 ;*; alcoholic addiction
+7 ;*; alcoholic psychosis
+8 ;*; amphetamine withdrawal symptoms
+9 ;*; barbiturate addiction
+10 ;*; barbiturism
+11 ;*; bottle nose
+12 ;*; chain smoking
+13 ;*; chronic alcoholism
+14 ;*; cocainism
+15 ;*; crash
+16 ;*; craving
+17 ;*; delirium tremens
+18 ;*; dependence
+19 ;*; dipsomania
+20 ;*; drug addiction
+21 ;*; drug culture
+22 ;*; drug dependence
+23 ;*; ebriosity
+24 ;*; grog blossom
+25 ;*; habitual drunkenness
+26 ;*; habituation
+27 ;*; heavy drinking
+28 ;*; nicotine addiction
+29 ;*; oenomania
+30 ;*; oinomania
+31 ;*; pathological drunkenness
+32 ;*; physical dependence
+33 ;*; problem drinking
+34 ;*; psychological dependence
+35 ;*; tolerance
+36 ;*; withdrawal sickness
+37 ;*; withdrawal symptoms
+38 ;*; alcohol addiction
+39 ;*; inebriation
+40 ;*; drunkenness
+41 ;*; white plague
+42 ;*; potomania
+43 ;*; mania
+44 ;*; passion
+45 ;*; cacoethes
+46 ;*; cirrhosis
+47 ;*; habit

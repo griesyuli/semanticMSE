@@ -1,0 +1,7 @@
+1 ;*; Bond strength
+2 ;*; Orbital overlap
+3 ;*; Overlap (railway signalling)
+4 ;*; Overlap (road)
+5 ;*; Overlap add
+6 ;*; Overlap coefficient
+7 ;*; Reinterpretation

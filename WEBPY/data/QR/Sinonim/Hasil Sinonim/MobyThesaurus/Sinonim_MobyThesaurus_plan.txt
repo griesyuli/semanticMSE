@@ -1,0 +1,419 @@
+1 ;*; action
+2 ;*; adjust
+3 ;*; affair
+4 ;*; aim
+5 ;*; aim at
+6 ;*; alphabet
+7 ;*; ambition
+8 ;*; anagnorisis
+9 ;*; anatomy
+10 ;*; angle
+11 ;*; animus
+12 ;*; anticipate
+13 ;*; approach
+14 ;*; architectonics
+15 ;*; architecture
+16 ;*; argument
+17 ;*; arrange
+18 ;*; arrangement
+19 ;*; art
+20 ;*; aspiration
+21 ;*; aspire after
+22 ;*; aspire to
+23 ;*; atmosphere
+24 ;*; attempt
+25 ;*; await
+26 ;*; background
+27 ;*; be after
+28 ;*; be destined
+29 ;*; be fated
+30 ;*; be imminent
+31 ;*; be to be
+32 ;*; be to come
+33 ;*; beget
+34 ;*; blueprint
+35 ;*; breed
+36 ;*; bring forth
+37 ;*; bring into being
+38 ;*; build
+39 ;*; building
+40 ;*; business
+41 ;*; calculate
+42 ;*; call into being
+43 ;*; cast
+44 ;*; catalog
+45 ;*; catalogue raisonne
+46 ;*; catastrophe
+47 ;*; charactering
+48 ;*; characterization
+49 ;*; chart
+50 ;*; choreography
+51 ;*; clear for action
+52 ;*; clear the decks
+53 ;*; codify
+54 ;*; coin
+55 ;*; color
+56 ;*; come
+57 ;*; come on
+58 ;*; commitment
+59 ;*; complication
+60 ;*; composition
+61 ;*; conceive
+62 ;*; conception
+63 ;*; concert
+64 ;*; concoct
+65 ;*; conformation
+66 ;*; constitution
+67 ;*; construction
+68 ;*; contemplate
+69 ;*; continuity
+70 ;*; contract
+71 ;*; contrivance
+72 ;*; contrive
+73 ;*; conventional representation
+74 ;*; cook up
+75 ;*; coordinate
+76 ;*; counsel
+77 ;*; course of action
+78 ;*; creation
+79 ;*; cure
+80 ;*; cut out
+81 ;*; dance notation
+82 ;*; deal
+83 ;*; delineate
+84 ;*; delineation
+85 ;*; demonstration
+86 ;*; denouement
+87 ;*; depiction
+88 ;*; depictment
+89 ;*; deploy
+90 ;*; desideration
+91 ;*; desideratum
+92 ;*; design
+93 ;*; desire
+94 ;*; destine
+95 ;*; determination
+96 ;*; determine
+97 ;*; develop
+98 ;*; development
+99 ;*; device
+100 ;*; devise
+101 ;*; diagram
+102 ;*; discover
+103 ;*; drama
+104 ;*; draw near
+105 ;*; draw on
+106 ;*; drawing
+107 ;*; dream up
+108 ;*; dress
+109 ;*; drive at
+110 ;*; effect
+111 ;*; effort
+112 ;*; engagement
+113 ;*; engender
+114 ;*; enterprise
+115 ;*; envisage
+116 ;*; envision
+117 ;*; episode
+118 ;*; evolve
+119 ;*; exemplification
+120 ;*; expect
+121 ;*; fable
+122 ;*; fabric
+123 ;*; fabricate
+124 ;*; fabrication
+125 ;*; falling action
+126 ;*; fashion
+127 ;*; fashioning
+128 ;*; figuration
+129 ;*; figure
+130 ;*; fix
+131 ;*; fix up
+132 ;*; fixed purpose
+133 ;*; forecast
+134 ;*; foresee
+135 ;*; foretell
+136 ;*; forethink
+137 ;*; forging
+138 ;*; form
+139 ;*; format
+140 ;*; formation
+141 ;*; formula
+142 ;*; frame
+143 ;*; frame up
+144 ;*; function
+145 ;*; game plan
+146 ;*; generate
+147 ;*; get ready
+148 ;*; getup
+149 ;*; gimmick
+150 ;*; give being to
+151 ;*; give rise to
+152 ;*; go for
+153 ;*; graph
+154 ;*; ground plan
+155 ;*; harbor a design
+156 ;*; harmonize
+157 ;*; hatch
+158 ;*; have every intention
+159 ;*; hieroglyphic
+160 ;*; hope
+161 ;*; iconography
+162 ;*; idea
+163 ;*; ideogram
+164 ;*; illustration
+165 ;*; imagery
+166 ;*; imaging
+167 ;*; improvise
+168 ;*; incident
+169 ;*; intend
+170 ;*; intendment
+171 ;*; intent
+172 ;*; intention
+173 ;*; invent
+174 ;*; lay down
+175 ;*; lay out
+176 ;*; lay plans
+177 ;*; layout
+178 ;*; letter
+179 ;*; lie ahead
+180 ;*; limning
+181 ;*; line
+182 ;*; local color
+183 ;*; logogram
+184 ;*; logograph
+185 ;*; look for
+186 ;*; look forward to
+187 ;*; loom
+188 ;*; make
+189 ;*; make a projection
+190 ;*; make arrangements
+191 ;*; make do with
+192 ;*; make preparations
+193 ;*; make ready
+194 ;*; make up
+195 ;*; makeup
+196 ;*; making
+197 ;*; manufacture
+198 ;*; map
+199 ;*; map out
+200 ;*; mature
+201 ;*; mean
+202 ;*; meaning
+203 ;*; means
+204 ;*; method
+205 ;*; methodize
+206 ;*; mind
+207 ;*; mint
+208 ;*; mobilize
+209 ;*; mold
+210 ;*; molding
+211 ;*; mood
+212 ;*; motif
+213 ;*; motive
+214 ;*; movement
+215 ;*; musical notation
+216 ;*; mythos
+217 ;*; near
+218 ;*; nisus
+219 ;*; normalize
+220 ;*; notation
+221 ;*; notion
+222 ;*; object
+223 ;*; obligation
+224 ;*; operation
+225 ;*; orderliness
+226 ;*; organic structure
+227 ;*; organism
+228 ;*; organization
+229 ;*; organize
+230 ;*; originate
+231 ;*; outline
+232 ;*; pack
+233 ;*; pack the deal
+234 ;*; pattern
+235 ;*; patterning
+236 ;*; peripeteia
+237 ;*; physique
+238 ;*; pictogram
+239 ;*; picturization
+240 ;*; plan ahead
+241 ;*; platform
+242 ;*; plot
+243 ;*; point
+244 ;*; policy
+245 ;*; portraiture
+246 ;*; portrayal
+247 ;*; prearrange
+248 ;*; preconcert
+249 ;*; preconsider
+250 ;*; precontrive
+251 ;*; predesign
+252 ;*; predetermine
+253 ;*; predict
+254 ;*; prefigurement
+255 ;*; premeditate
+256 ;*; preorder
+257 ;*; prep
+258 ;*; prepare
+259 ;*; preresolve
+260 ;*; presentment
+261 ;*; pretreat
+262 ;*; printing
+263 ;*; procedure
+264 ;*; process
+265 ;*; procreate
+266 ;*; production
+267 ;*; program
+268 ;*; project
+269 ;*; projection
+270 ;*; prophesy
+271 ;*; proposal
+272 ;*; propose
+273 ;*; proposition
+274 ;*; prospectus
+275 ;*; provide
+276 ;*; purport
+277 ;*; purpose
+278 ;*; put in shape
+279 ;*; rationalize
+280 ;*; ready
+281 ;*; ready up
+282 ;*; realization
+283 ;*; recognition
+284 ;*; regularize
+285 ;*; regulate
+286 ;*; rendering
+287 ;*; rendition
+288 ;*; representation
+289 ;*; resolution
+290 ;*; resolve
+291 ;*; rig
+292 ;*; rising action
+293 ;*; routinize
+294 ;*; sake
+295 ;*; scenario
+296 ;*; schedule
+297 ;*; schema
+298 ;*; schematize
+299 ;*; scheme
+300 ;*; score
+301 ;*; script
+302 ;*; secondary plot
+303 ;*; set
+304 ;*; set up
+305 ;*; settle
+306 ;*; settle preliminaries
+307 ;*; setup
+308 ;*; sew up
+309 ;*; shape
+310 ;*; shaping
+311 ;*; sketch
+312 ;*; slant
+313 ;*; spawn
+314 ;*; stack the cards
+315 ;*; standardize
+316 ;*; story
+317 ;*; strategy
+318 ;*; strike out
+319 ;*; striving
+320 ;*; structure
+321 ;*; structuring
+322 ;*; study
+323 ;*; subject
+324 ;*; subplot
+325 ;*; switch
+326 ;*; syllabary
+327 ;*; symbol
+328 ;*; synchronize
+329 ;*; system
+330 ;*; systematize
+331 ;*; tablature
+332 ;*; table
+333 ;*; table of contents
+334 ;*; tan
+335 ;*; task
+336 ;*; tectonics
+337 ;*; texture
+338 ;*; thematic development
+339 ;*; theme
+340 ;*; think
+341 ;*; think out
+342 ;*; think up
+343 ;*; threaten
+344 ;*; tissue
+345 ;*; tone
+346 ;*; topic
+347 ;*; treat
+348 ;*; trim
+349 ;*; try out
+350 ;*; tune
+351 ;*; tune up
+352 ;*; twist
+353 ;*; undertaking
+354 ;*; venture
+355 ;*; view
+356 ;*; warp and woof
+357 ;*; way
+358 ;*; weave
+359 ;*; web
+360 ;*; will
+361 ;*; work
+362 ;*; work out
+363 ;*; work out beforehand
+364 ;*; work up
+365 ;*; writing
+366 ;*; programme
+367 ;*; thought
+368 ;*; organisation
+369 ;*; architectural plan
+370 ;*; cogitate
+371 ;*; cerebrate
+372 ;*; create by mental act
+373 ;*; create mentally
+374 ;*; aspire
+375 ;*; attack
+376 ;*; bank
+377 ;*; block
+378 ;*; brew
+379 ;*; calculation
+380 ;*; card
+381 ;*; course
+382 ;*; disposition
+383 ;*; dodge
+384 ;*; draft
+385 ;*; engineer
+386 ;*; foresight
+387 ;*; forethought
+388 ;*; gambit
+389 ;*; game
+390 ;*; guideline
+391 ;*; instigate
+392 ;*; lineup
+393 ;*; maneuver
+394 ;*; manoeuvre
+395 ;*; marshal
+396 ;*; mastermind
+397 ;*; measure
+398 ;*; meditate
+399 ;*; methodology
+400 ;*; mould
+401 ;*; moulder
+402 ;*; mouldy
+403 ;*; order
+404 ;*; path
+405 ;*; picture
+406 ;*; planning
+407 ;*; prearrangement
+408 ;*; prospect
+409 ;*; rationalization
+410 ;*; recipe
+411 ;*; routine
+412 ;*; stratagem
+413 ;*; suggestion
+414 ;*; tactic
+415 ;*; tactics
+416 ;*; time
+417 ;*; timetable
+418 ;*; vision
+419 ;*; writing

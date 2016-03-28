@@ -1,0 +1,33 @@
+1 ;*; Stroke
+2 ;*; Cerebrovascular Accident
+3 ;*; Strokes
+4 ;*; Cerebral accident
+5 ;*; Brain attack
+6 ;*; Ischemic stroke
+7 ;*; Cerebrovascular accidents
+8 ;*; Heart stroke
+9 ;*; Cerebral Haemorrhage
+10 ;*; Cerebrovascular accident
+11 ;*; Brain stroke
+12 ;*; Hemorrhagic stroke
+13 ;*; Cerebral Vascular Accident
+14 ;*; Brain Hemmorage
+15 ;*; Cardio Vascular Accident
+16 ;*; Thrombotic stroke
+17 ;*; Chronic stroke
+18 ;*; Brain Attack
+19 ;*; Cerebrovascular incident
+20 ;*; Stroke unit
+21 ;*; Cerebral stroke
+22 ;*; Cerebrovascular Event
+23 ;*; Cerebral vascular accidents
+24 ;*; Brain Stroke
+25 ;*; Cerebrovascular lesion
+26 ;*; Cerebral vascular accident
+27 ;*; Ischaemic stroke
+28 ;*; Embolic stroke
+29 ;*; Ischaemic hemorragic stroke
+30 ;*; Ischemic hemorragic stroke
+31 ;*; Hemorragic stroke
+32 ;*; Bamford classification
+33 ;*; Brain vascular accident

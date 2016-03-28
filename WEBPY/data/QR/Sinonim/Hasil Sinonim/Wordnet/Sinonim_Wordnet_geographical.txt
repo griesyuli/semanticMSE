@@ -1,0 +1,2 @@
+1 ;*; geographic
+2 ;*; geographical

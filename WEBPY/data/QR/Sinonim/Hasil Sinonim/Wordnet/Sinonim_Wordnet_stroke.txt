@@ -1,0 +1,16 @@
+1 ;*; stroke
+2 ;*; shot
+3 ;*; throw
+4 ;*; cam_stroke
+5 ;*; apoplexy
+6 ;*; cerebrovascular_accident
+7 ;*; CVA
+8 ;*; stroking
+9 ;*; accident
+10 ;*; fortuity
+11 ;*; chance_event
+12 ;*; solidus
+13 ;*; slash
+14 ;*; virgule
+15 ;*; diagonal
+16 ;*; separatrix

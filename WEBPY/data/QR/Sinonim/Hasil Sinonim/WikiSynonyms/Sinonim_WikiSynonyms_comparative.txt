@@ -1,0 +1,6 @@
+1 ;*; Comparative
+2 ;*; Grammatical comparative
+3 ;*; Comparative adjective
+4 ;*; Comparative suffix
+5 ;*; Comparative degree
+6 ;*; Comparitive

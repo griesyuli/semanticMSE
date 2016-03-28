@@ -1,0 +1,142 @@
+1 ;*; a belief
+2 ;*; adage
+3 ;*; ana
+4 ;*; analects
+5 ;*; aphorism
+6 ;*; apothegm
+7 ;*; article of faith
+8 ;*; assignment
+9 ;*; autodidactic
+10 ;*; axiom
+11 ;*; belief
+12 ;*; byword
+13 ;*; canon
+14 ;*; catchword
+15 ;*; chalk talk
+16 ;*; charge
+17 ;*; coeducational
+18 ;*; collected sayings
+19 ;*; command
+20 ;*; commission
+21 ;*; credo
+22 ;*; creed
+23 ;*; cultural
+24 ;*; current saying
+25 ;*; dictate
+26 ;*; dictum
+27 ;*; didactic
+28 ;*; direction
+29 ;*; disciplinary
+30 ;*; discourse
+31 ;*; disquisition
+32 ;*; distich
+33 ;*; doctrine
+34 ;*; dogma
+35 ;*; edifying
+36 ;*; educating
+37 ;*; educational
+38 ;*; educative
+39 ;*; enlightening
+40 ;*; epigram
+41 ;*; exercise
+42 ;*; exhortatory
+43 ;*; exposition
+44 ;*; expression
+45 ;*; faith
+46 ;*; gnome
+47 ;*; golden saying
+48 ;*; harangue
+49 ;*; homework
+50 ;*; homiletic
+51 ;*; homily
+52 ;*; hortatory
+53 ;*; illuminating
+54 ;*; informative
+55 ;*; initiatory
+56 ;*; injunction
+57 ;*; instruction
+58 ;*; instructive
+59 ;*; introductory
+60 ;*; lecture
+61 ;*; lecture-demonstration
+62 ;*; lecturing
+63 ;*; lesson
+64 ;*; maxim
+65 ;*; moral
+66 ;*; moral lesson
+67 ;*; morality
+68 ;*; moralization
+69 ;*; mot
+70 ;*; motto
+71 ;*; object lesson
+72 ;*; oracle
+73 ;*; order
+74 ;*; orthodoxy
+75 ;*; phrase
+76 ;*; pithy saying
+77 ;*; preaching
+78 ;*; preachment
+79 ;*; precept
+80 ;*; preceptive
+81 ;*; prescript
+82 ;*; prescription
+83 ;*; principle
+84 ;*; propaedeutic
+85 ;*; proverb
+86 ;*; proverbial saying
+87 ;*; proverbs
+88 ;*; recital
+89 ;*; recitation
+90 ;*; religion
+91 ;*; religious belief
+92 ;*; religious faith
+93 ;*; saw
+94 ;*; saying
+95 ;*; self-teaching
+96 ;*; sentence
+97 ;*; sententious expression
+98 ;*; sermon
+99 ;*; set task
+100 ;*; skull session
+101 ;*; sloka
+102 ;*; stock saying
+103 ;*; sutra
+104 ;*; system of beliefs
+105 ;*; talk
+106 ;*; task
+107 ;*; tenet
+108 ;*; text
+109 ;*; theology
+110 ;*; tradition
+111 ;*; tuitionary
+112 ;*; verse
+113 ;*; wisdom
+114 ;*; wisdom literature
+115 ;*; wise saying
+116 ;*; witticism
+117 ;*; word
+118 ;*; words of wisdom
+119 ;*; pedagogy
+120 ;*; education
+121 ;*; commandment
+122 ;*; philosophy
+123 ;*; philosophical system
+124 ;*; school of thought
+125 ;*; ism
+126 ;*; educational activity
+127 ;*; activity
+128 ;*; advice
+129 ;*; didactics
+130 ;*; edification
+131 ;*; enlightenment
+132 ;*; guidance
+133 ;*; illumination
+134 ;*; information
+135 ;*; preparation
+136 ;*; school
+137 ;*; schooling
+138 ;*; teach
+139 ;*; training
+140 ;*; tuition
+141 ;*; tutelage
+142 ;*; tutorship

@@ -1,0 +1,50 @@
+1 ;*; at half cock
+2 ;*; baby
+3 ;*; callow
+4 ;*; fledgling
+5 ;*; green
+6 ;*; half-baked
+7 ;*; half-cocked
+8 ;*; half-grown
+9 ;*; hopeful
+10 ;*; ill-digested
+11 ;*; immature
+12 ;*; impubic
+13 ;*; infant
+14 ;*; junior
+15 ;*; juvenal
+16 ;*; juvenile
+17 ;*; maturescent
+18 ;*; minor
+19 ;*; nubile
+20 ;*; pubescent
+21 ;*; raw
+22 ;*; sapling
+23 ;*; slip
+24 ;*; sprig
+25 ;*; stripling
+26 ;*; teenager
+27 ;*; teener
+28 ;*; teenybopper
+29 ;*; underripe
+30 ;*; unfledged
+31 ;*; ungrown
+32 ;*; unmellowed
+33 ;*; unripe
+34 ;*; unseasoned
+35 ;*; young hopeful
+36 ;*; young person
+37 ;*; younger
+38 ;*; youngest
+39 ;*; youngling
+40 ;*; youngster
+41 ;*; youth
+42 ;*; time of life
+43 ;*; teen
+44 ;*; teenage
+45 ;*; teenaged
+46 ;*; young
+47 ;*; jejune
+48 ;*; puerile
+49 ;*; juvenile person
+50 ;*; youth

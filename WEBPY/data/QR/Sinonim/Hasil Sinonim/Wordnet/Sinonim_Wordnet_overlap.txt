@@ -1,0 +1,4 @@
+1 ;*; overlap
+2 ;*; convergence
+3 ;*; intersection
+4 ;*; lap

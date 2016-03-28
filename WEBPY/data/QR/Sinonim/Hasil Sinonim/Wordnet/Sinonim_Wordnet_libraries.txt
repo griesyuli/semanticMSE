@@ -1,0 +1,4 @@
+1 ;*; library
+2 ;*; depository_library
+3 ;*; program_library
+4 ;*; subroutine_library

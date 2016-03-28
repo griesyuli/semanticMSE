@@ -1,0 +1,9 @@
+1 ;*; adolescent
+2 ;*; stripling
+3 ;*; teenage
+4 ;*; teen
+5 ;*; teenager
+6 ;*; teenaged
+7 ;*; jejune
+8 ;*; juvenile
+9 ;*; puerile

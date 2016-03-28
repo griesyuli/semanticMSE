@@ -1,0 +1,28 @@
+1 ;*; accident
+2 ;*; amount
+3 ;*; coming to be
+4 ;*; common occurrence
+5 ;*; commonness
+6 ;*; contingency
+7 ;*; contingent
+8 ;*; degree
+9 ;*; event
+10 ;*; eventuality
+11 ;*; eventuation
+12 ;*; extent
+13 ;*; frequence
+14 ;*; frequency
+15 ;*; habitualness
+16 ;*; materialization
+17 ;*; number
+18 ;*; occurrence
+19 ;*; oftenness
+20 ;*; prevalence
+21 ;*; quantity
+22 ;*; rate
+23 ;*; realization
+24 ;*; relative incidence
+25 ;*; routineness
+26 ;*; usualness
+27 ;*; relative frequency
+28 ;*; optical phenomenon

@@ -1,0 +1,21 @@
+1 ;*; Multilingualism
+2 ;*; Bilingual
+3 ;*; Multilingual person
+4 ;*; Bilingualism
+5 ;*; Trilingual
+6 ;*; Multilanguage
+7 ;*; Quadrilingual
+8 ;*; Multi-lingual
+9 ;*; Bilangual
+10 ;*; Multilingual
+11 ;*; Polylingual
+12 ;*; Multi-lingualism
+13 ;*; Bi-lingual
+14 ;*; M17n
+15 ;*; Bilingualness
+16 ;*; Trilingualism
+17 ;*; List of polyglots
+18 ;*; Multilingual language
+19 ;*; Multilinguality
+20 ;*; Ambilingualism
+21 ;*; Ambilingual

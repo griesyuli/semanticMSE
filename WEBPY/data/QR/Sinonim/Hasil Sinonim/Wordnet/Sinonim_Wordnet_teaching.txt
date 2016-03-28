@@ -1,0 +1,11 @@
+1 ;*; teaching
+2 ;*; instruction
+3 ;*; pedagogy
+4 ;*; precept
+5 ;*; commandment
+6 ;*; education
+7 ;*; didactics
+8 ;*; educational_activity
+9 ;*; teach
+10 ;*; learn
+11 ;*; instruct

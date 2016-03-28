@@ -1,0 +1,35 @@
+1 ;*; autodidactic
+2 ;*; coeducational
+3 ;*; didactic
+4 ;*; disciplinary
+5 ;*; edifying
+6 ;*; educating
+7 ;*; educational
+8 ;*; educative
+9 ;*; enlightening
+10 ;*; exhortatory
+11 ;*; homiletic
+12 ;*; hortatory
+13 ;*; illuminating
+14 ;*; informative
+15 ;*; initiatory
+16 ;*; instructive
+17 ;*; introductory
+18 ;*; lecturing
+19 ;*; preaching
+20 ;*; preceptive
+21 ;*; propaedeutic
+22 ;*; self-teaching
+23 ;*; teaching
+24 ;*; tuitionary
+25 ;*; taste
+26 ;*; appreciation
+27 ;*; discernment
+28 ;*; perceptiveness
+29 ;*; ethnic
+30 ;*; ethnical
+31 ;*; social
+32 ;*; content
+33 ;*; cognitive content
+34 ;*; mental object
+35 ;*; cultivation

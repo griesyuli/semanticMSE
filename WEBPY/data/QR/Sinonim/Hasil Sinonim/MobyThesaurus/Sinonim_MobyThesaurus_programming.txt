@@ -1,0 +1,265 @@
+1 ;*; Beveridge Plan
+2 ;*; Cultural Revolution
+3 ;*; Fair Deal
+4 ;*; Great Society
+5 ;*; Marshall Plan
+6 ;*; New Deal
+7 ;*; New Frontier
+8 ;*; Philharmonic concert
+9 ;*; Point Four
+10 ;*; Square Deal
+11 ;*; affair
+12 ;*; agenda
+13 ;*; announcement
+14 ;*; annunciation
+15 ;*; approach
+16 ;*; arrange
+17 ;*; arrangement
+18 ;*; attack
+19 ;*; attempt
+20 ;*; austerity program
+21 ;*; automate
+22 ;*; automatize
+23 ;*; band concert
+24 ;*; batting order
+25 ;*; beadroll
+26 ;*; beat into
+27 ;*; bill
+28 ;*; bill of fare
+29 ;*; blueprint
+30 ;*; blueprinting
+31 ;*; book
+32 ;*; brainwash
+33 ;*; budget
+34 ;*; bulletin board
+35 ;*; business
+36 ;*; cadastre
+37 ;*; calculate
+38 ;*; calculation
+39 ;*; calendar
+40 ;*; card
+41 ;*; carte du jour
+42 ;*; cast
+43 ;*; catalog
+44 ;*; catechize
+45 ;*; census
+46 ;*; census report
+47 ;*; chamber concert
+48 ;*; charting
+49 ;*; checklist
+50 ;*; checkroll
+51 ;*; circular
+52 ;*; commitment
+53 ;*; communique
+54 ;*; conception
+55 ;*; concert
+56 ;*; condition
+57 ;*; contract
+58 ;*; contrivance
+59 ;*; contrive
+60 ;*; cut out
+61 ;*; deal
+62 ;*; declaration
+63 ;*; declaration of policy
+64 ;*; design
+65 ;*; device
+66 ;*; devise
+67 ;*; disposition
+68 ;*; docket
+69 ;*; dramatis personae
+70 ;*; edict
+71 ;*; effort
+72 ;*; encyclical
+73 ;*; engagement
+74 ;*; enroll
+75 ;*; enter
+76 ;*; enterprise
+77 ;*; enumerate
+78 ;*; enunciation
+79 ;*; envisagement
+80 ;*; figure
+81 ;*; figuring
+82 ;*; file
+83 ;*; five-year plan
+84 ;*; forecast
+85 ;*; foresight
+86 ;*; forethought
+87 ;*; frame
+88 ;*; game
+89 ;*; graphing
+90 ;*; ground plan
+91 ;*; guidelines
+92 ;*; head count
+93 ;*; honor roll
+94 ;*; idea
+95 ;*; imbue
+96 ;*; impanel
+97 ;*; implant
+98 ;*; impregnate
+99 ;*; impress
+100 ;*; inculcate
+101 ;*; index
+102 ;*; indoctrinate
+103 ;*; infix
+104 ;*; infuse
+105 ;*; inoculate
+106 ;*; instill
+107 ;*; intend
+108 ;*; intention
+109 ;*; inventory
+110 ;*; issue
+111 ;*; itemize
+112 ;*; jury list
+113 ;*; jury panel
+114 ;*; keep score
+115 ;*; keynote address
+116 ;*; keynote speech
+117 ;*; lay plans
+118 ;*; layout
+119 ;*; line
+120 ;*; line up
+121 ;*; lineup
+122 ;*; list
+123 ;*; list of agenda
+124 ;*; long-range plan
+125 ;*; make a projection
+126 ;*; make arrangements
+127 ;*; manifesto
+128 ;*; mapping
+129 ;*; master plan
+130 ;*; menu
+131 ;*; method
+132 ;*; methodize
+133 ;*; methodology
+134 ;*; musical performance
+135 ;*; musical program
+136 ;*; muster
+137 ;*; muster roll
+138 ;*; nose count
+139 ;*; notice
+140 ;*; notification
+141 ;*; obligation
+142 ;*; operation
+143 ;*; operations research
+144 ;*; order of business
+145 ;*; organization
+146 ;*; organize
+147 ;*; party platform
+148 ;*; performance
+149 ;*; philharmonic
+150 ;*; pigeonhole
+151 ;*; plan
+152 ;*; plan ahead
+153 ;*; plank
+154 ;*; planning
+155 ;*; planning function
+156 ;*; platform
+157 ;*; playbill
+158 ;*; policy
+159 ;*; polity
+160 ;*; poll
+161 ;*; pop concert
+162 ;*; pops
+163 ;*; popular concert
+164 ;*; position paper
+165 ;*; post
+166 ;*; prearrange
+167 ;*; prearrangement
+168 ;*; procedure
+169 ;*; proclamation
+170 ;*; program of action
+171 ;*; program of music
+172 ;*; program of operation
+173 ;*; programma
+174 ;*; project
+175 ;*; prom
+176 ;*; promenade concert
+177 ;*; pronouncement
+178 ;*; pronunciamento
+179 ;*; property roll
+180 ;*; proposition
+181 ;*; prospectus
+182 ;*; protocol
+183 ;*; public notice
+184 ;*; questionnaire
+185 ;*; rationalization
+186 ;*; rationalize
+187 ;*; recital
+188 ;*; register
+189 ;*; report
+190 ;*; returns
+191 ;*; robotize
+192 ;*; roll
+193 ;*; roll call
+194 ;*; roster
+195 ;*; rota
+196 ;*; schedule
+197 ;*; schema
+198 ;*; schematism
+199 ;*; schematization
+200 ;*; schematize
+201 ;*; scheme
+202 ;*; scheme of arrangement
+203 ;*; score
+204 ;*; scroll
+205 ;*; service of music
+206 ;*; servo-control
+207 ;*; set up
+208 ;*; setup
+209 ;*; shape
+210 ;*; slate
+211 ;*; statement
+212 ;*; strategic plan
+213 ;*; strategy
+214 ;*; symphony concert
+215 ;*; system
+216 ;*; systematization
+217 ;*; systematize
+218 ;*; tabulate
+219 ;*; tactical plan
+220 ;*; tactics
+221 ;*; tally
+222 ;*; task
+223 ;*; tax roll
+224 ;*; the big picture
+225 ;*; the picture
+226 ;*; timetable
+227 ;*; ukase
+228 ;*; undertaking
+229 ;*; venture
+230 ;*; way
+231 ;*; white book
+232 ;*; white paper
+233 ;*; work
+234 ;*; work out
+235 ;*; work up
+236 ;*; working plan
+237 ;*; programme
+238 ;*; system of rules
+239 ;*; thought
+240 ;*; computer program
+241 ;*; computer programme
+242 ;*; software
+243 ;*; software system
+244 ;*; software package
+245 ;*; package
+246 ;*; course of study
+247 ;*; curriculum
+248 ;*; syllabus
+249 ;*; information
+250 ;*; info
+251 ;*; broadcast
+252 ;*; show
+253 ;*; political platform
+254 ;*; political program
+255 ;*; document
+256 ;*; written document
+257 ;*; papers
+258 ;*; promulgation
+259 ;*; create by mental act
+260 ;*; create mentally
+261 ;*; calibrate
+262 ;*; course
+263 ;*; guideline
+264 ;*; picture
+265 ;*; time

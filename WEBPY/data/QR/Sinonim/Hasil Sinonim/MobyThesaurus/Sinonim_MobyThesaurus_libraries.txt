@@ -1,0 +1,143 @@
+1 ;*; ALA
+2 ;*; American Library Association
+3 ;*; Bodleian Library
+4 ;*; British Museum
+5 ;*; Festschrift
+6 ;*; Indian reservation
+7 ;*; Library of Congress
+8 ;*; Vatican Library
+9 ;*; ana
+10 ;*; anthology
+11 ;*; aquarium
+12 ;*; archives
+13 ;*; armory
+14 ;*; arsenal
+15 ;*; atelier
+16 ;*; athenaeum
+17 ;*; attic
+18 ;*; back number
+19 ;*; bank
+20 ;*; basement
+21 ;*; bay
+22 ;*; bibliotheca
+23 ;*; bin
+24 ;*; bird sanctuary
+25 ;*; body
+26 ;*; bonded warehouse
+27 ;*; book wagon
+28 ;*; bookcase
+29 ;*; bookery
+30 ;*; bookmobile
+31 ;*; bookroom
+32 ;*; box
+33 ;*; bunker
+34 ;*; buttery
+35 ;*; cargo dock
+36 ;*; cellar
+37 ;*; chest
+38 ;*; chrestomathy
+39 ;*; circulating library
+40 ;*; closet
+41 ;*; collectanea
+42 ;*; collection
+43 ;*; compilation
+44 ;*; conservatory
+45 ;*; copy
+46 ;*; corpus
+47 ;*; crate
+48 ;*; crib
+49 ;*; cupboard
+50 ;*; data
+51 ;*; depository
+52 ;*; depot
+53 ;*; dock
+54 ;*; drawer
+55 ;*; dump
+56 ;*; edition
+57 ;*; exchequer
+58 ;*; florilegium
+59 ;*; forest preserve
+60 ;*; fund
+61 ;*; game reserve
+62 ;*; glory hole
+63 ;*; godown
+64 ;*; hold
+65 ;*; holdings
+66 ;*; hutch
+67 ;*; impression
+68 ;*; issue
+69 ;*; lending library
+70 ;*; library edition
+71 ;*; locker
+72 ;*; loft
+73 ;*; lumber room
+74 ;*; lumberyard
+75 ;*; magasin
+76 ;*; magazine
+77 ;*; menagerie
+78 ;*; museum
+79 ;*; national forest
+80 ;*; national park
+81 ;*; number
+82 ;*; office
+83 ;*; paradise
+84 ;*; park
+85 ;*; preserve
+86 ;*; printing
+87 ;*; public library
+88 ;*; rack
+89 ;*; raw data
+90 ;*; reading room
+91 ;*; rental library
+92 ;*; repertory
+93 ;*; repository
+94 ;*; reservation
+95 ;*; reserve
+96 ;*; reservoir
+97 ;*; rick
+98 ;*; sail loft
+99 ;*; sanctuary
+100 ;*; school edition
+101 ;*; series
+102 ;*; set
+103 ;*; shelf
+104 ;*; stack
+105 ;*; stack room
+106 ;*; stacks
+107 ;*; state forest
+108 ;*; stock room
+109 ;*; storage
+110 ;*; store
+111 ;*; storehouse
+112 ;*; storeroom
+113 ;*; studio
+114 ;*; study
+115 ;*; supply base
+116 ;*; supply depot
+117 ;*; tank
+118 ;*; trade book
+119 ;*; trade edition
+120 ;*; treasure
+121 ;*; treasure house
+122 ;*; treasure room
+123 ;*; treasury
+124 ;*; vat
+125 ;*; vault
+126 ;*; volume
+127 ;*; warehouse
+128 ;*; wilderness preserve
+129 ;*; wildlife preserve
+130 ;*; wine cellar
+131 ;*; workroom
+132 ;*; zoo
+133 ;*; room
+134 ;*; aggregation
+135 ;*; accumulation
+136 ;*; assemblage
+137 ;*; depository library
+138 ;*; deposit
+139 ;*; program library
+140 ;*; subroutine library
+141 ;*; building
+142 ;*; edifice
+143 ;*; zoo

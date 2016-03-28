@@ -1,0 +1,35 @@
+1 ;*; Library
+2 ;*; Libraries
+3 ;*; Libary
+4 ;*; Research library
+5 ;*; University libraries
+6 ;*; Library stacks
+7 ;*; Book stacks
+8 ;*; Library (institution)
+9 ;*; Stack (library)
+10 ;*; Book stack
+11 ;*; Reference library
+12 ;*; Library card
+14 ;*; Liberry
+15 ;*; Reference libraries
+16 ;*; Research libraries
+17 ;*; Readingroom
+18 ;*; Reading-room
+19 ;*; Readingrooms
+20 ;*; Reading-rooms
+21 ;*; Reading rooms
+22 ;*; Writingroom
+23 ;*; Writing-room
+24 ;*; Writing room
+25 ;*; Writingrooms
+26 ;*; Writing-rooms
+27 ;*; Writing rooms
+28 ;*; Library Archive1
+29 ;*; Archival library
+31 ;*; The internet and libraries
+32 ;*; The Impact of Internet Search Engines on Libraries
+33 ;*; Internet Search Engines and Libraries
+34 ;*; Social networking and British libraries
+35 ;*; Social media and UK libraries
+36 ;*; Social Networking and UK Libraries
+37 ;*; Internet search engines and libraries

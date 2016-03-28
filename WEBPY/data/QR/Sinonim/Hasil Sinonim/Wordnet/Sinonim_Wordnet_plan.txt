@@ -1,0 +1,8 @@
+1 ;*; plan
+2 ;*; program
+3 ;*; programme
+4 ;*; design
+5 ;*; architectural_plan
+6 ;*; be_after
+7 ;*; project
+8 ;*; contrive

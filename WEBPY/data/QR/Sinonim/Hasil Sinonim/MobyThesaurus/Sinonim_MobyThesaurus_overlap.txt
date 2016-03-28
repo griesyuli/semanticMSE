@@ -1,0 +1,148 @@
+1 ;*; accord
+2 ;*; accordance
+3 ;*; affinity
+4 ;*; agree
+5 ;*; agreement
+6 ;*; answer to
+7 ;*; applique
+8 ;*; arch over
+9 ;*; assent
+10 ;*; assort with
+11 ;*; be consistent
+12 ;*; be of one
+13 ;*; be uniform with
+14 ;*; bedizenment
+15 ;*; bestraddle
+16 ;*; bestride
+17 ;*; bridge
+18 ;*; check
+19 ;*; chime
+20 ;*; chorus
+21 ;*; cohere
+22 ;*; coherence
+23 ;*; coincide
+24 ;*; coincidence
+25 ;*; compatibility
+26 ;*; concert
+27 ;*; concord
+28 ;*; concordance
+29 ;*; concur
+30 ;*; conform
+31 ;*; conform with
+32 ;*; conformance
+33 ;*; conformation
+34 ;*; conformity
+35 ;*; congeniality
+36 ;*; congruence
+37 ;*; congruency
+38 ;*; congruity
+39 ;*; consist with
+40 ;*; consistency
+41 ;*; consonance
+42 ;*; consort
+43 ;*; cooperate
+44 ;*; cooperation
+45 ;*; correspond
+46 ;*; correspondence
+47 ;*; dovetail
+48 ;*; duplication
+49 ;*; duplication of effort
+50 ;*; embellishment
+51 ;*; equivalence
+52 ;*; expletive
+53 ;*; extend over
+54 ;*; extravagance
+55 ;*; fall in together
+56 ;*; fat
+57 ;*; featherbedding
+58 ;*; filling
+59 ;*; fit together
+60 ;*; flap
+61 ;*; fly
+62 ;*; frill
+63 ;*; frills
+64 ;*; frippery
+65 ;*; gingerbread
+66 ;*; go together
+67 ;*; go with
+68 ;*; hang over
+69 ;*; hang together
+70 ;*; harmonize
+71 ;*; harmony
+72 ;*; hit
+73 ;*; hold together
+74 ;*; imbricate
+75 ;*; imbrication
+76 ;*; interlock
+77 ;*; intersect
+78 ;*; intersection
+79 ;*; jibe
+80 ;*; jut
+81 ;*; lap
+82 ;*; lap over
+83 ;*; lie over
+84 ;*; lock
+85 ;*; luxury
+86 ;*; match
+87 ;*; needlessness
+88 ;*; oneness
+89 ;*; ornamentation
+90 ;*; overadornment
+91 ;*; overarch
+92 ;*; overhang
+93 ;*; overlapping
+94 ;*; overlay
+95 ;*; overlayer
+96 ;*; overlie
+97 ;*; override
+98 ;*; padding
+99 ;*; parallel
+100 ;*; parallelism
+101 ;*; payroll padding
+102 ;*; peace
+103 ;*; pleonasm
+104 ;*; prolixity
+105 ;*; rapport
+106 ;*; redundance
+107 ;*; redundancy
+108 ;*; register
+109 ;*; register with
+110 ;*; respond to
+111 ;*; ride
+112 ;*; self-consistency
+113 ;*; shingle
+114 ;*; sing in chorus
+115 ;*; sort with
+116 ;*; span
+117 ;*; square
+118 ;*; square with
+119 ;*; stand together
+120 ;*; superfluity
+121 ;*; superfluousness
+122 ;*; symmetry
+123 ;*; sync
+124 ;*; synchronism
+125 ;*; tally
+126 ;*; tautology
+127 ;*; timing
+128 ;*; uniformity
+129 ;*; union
+130 ;*; unison
+131 ;*; unisonance
+132 ;*; unnecessariness
+133 ;*; verbosity
+134 ;*; convergence
+135 ;*; representation
+136 ;*; mental representation
+137 ;*; internal representation
+138 ;*; concurrence
+139 ;*; conjunction
+140 ;*; co-occurrence
+141 ;*; co-occur
+142 ;*; cooccur
+143 ;*; cover
+144 ;*; extend
+145 ;*; answer
+146 ;*; arch
+147 ;*; fold
+148 ;*; verbosity

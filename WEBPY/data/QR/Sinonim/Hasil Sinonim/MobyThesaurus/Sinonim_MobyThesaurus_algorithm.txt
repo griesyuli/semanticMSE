@@ -1,0 +1,56 @@
+1 ;*; Arabic numerals
+2 ;*; MO
+3 ;*; Roman numerals
+4 ;*; algorism
+5 ;*; applied mathematics
+6 ;*; approach
+7 ;*; attack
+8 ;*; binary system
+9 ;*; course
+10 ;*; decimal system
+11 ;*; duodecimal system
+12 ;*; fashion
+13 ;*; figures
+14 ;*; form
+15 ;*; guise
+16 ;*; hexadecimal system
+17 ;*; higher mathematics
+18 ;*; line
+19 ;*; line of action
+20 ;*; lines
+21 ;*; manner
+22 ;*; manner of working
+23 ;*; math
+24 ;*; mathematic
+25 ;*; mathematics
+26 ;*; means
+27 ;*; method
+28 ;*; methodology
+29 ;*; mode
+30 ;*; mode of operation
+31 ;*; mode of procedure
+32 ;*; modus operandi
+33 ;*; numbers
+34 ;*; octal system
+35 ;*; order
+36 ;*; practice
+37 ;*; procedure
+38 ;*; proceeding
+39 ;*; process
+40 ;*; pure mathematics
+41 ;*; routine
+42 ;*; style
+43 ;*; system
+44 ;*; tack
+45 ;*; technique
+46 ;*; the drill
+47 ;*; the how
+48 ;*; the way of
+49 ;*; tone
+50 ;*; way
+51 ;*; wise
+52 ;*; algorithmic rule
+53 ;*; algorithmic program
+54 ;*; rule
+55 ;*; formula
+56 ;*; wise

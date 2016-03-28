@@ -1,0 +1,36 @@
+1 ;*; affinitive
+2 ;*; analogical
+3 ;*; analogous
+4 ;*; appertaining
+5 ;*; approximate
+6 ;*; associative
+7 ;*; collatable
+8 ;*; commensurable
+9 ;*; commensurate
+10 ;*; comparable
+11 ;*; congenial
+12 ;*; connective
+13 ;*; correlative
+14 ;*; en rapport
+15 ;*; equivalent
+16 ;*; like
+17 ;*; linking
+18 ;*; matchable
+19 ;*; much at one
+20 ;*; near
+21 ;*; parallel
+22 ;*; pertaining
+23 ;*; pertinent
+24 ;*; proportionable
+25 ;*; proportional
+26 ;*; proportionate
+27 ;*; referable
+28 ;*; referring
+29 ;*; relating
+30 ;*; relational
+31 ;*; relative
+32 ;*; similar
+33 ;*; sympathetic
+34 ;*; relation
+35 ;*; adjective
+36 ;*; sympathetic

@@ -1,0 +1,28 @@
+1 ;*; Database
+2 ;*; Database Applications
+3 ;*; Data base
+4 ;*; Databases
+5 ;*; Data Base
+6 ;*; Database instance
+7 ;*; Computer database
+8 ;*; Database programming
+9 ;*; Database development
+10 ;*; Databank
+11 ;*; Forensic database
+12 ;*; Db management
+13 ;*; Data maintenance
+14 ;*; Data bases
+15 ;*; Relation-valued attribute
+16 ;*; Information Principle
+17 ;*; Query Processing
+18 ;*; Database query
+19 ;*; Public database
+20 ;*; D-base
+21 ;*; Computer Databases
+22 ;*; DB file
+23 ;*; Database queries
+24 ;*; Data-base
+25 ;*; Scientific database
+26 ;*; Research database
+27 ;*; Numeric database
+28 ;*; General-purpose DBMS

@@ -1,0 +1,526 @@
+1 ;*; Jacksonian epilepsy
+2 ;*; Rolandic epilepsy
+3 ;*; abdominal epilepsy
+4 ;*; abuse
+5 ;*; access
+6 ;*; accomplished fact
+7 ;*; accomplishment
+8 ;*; ache
+9 ;*; achievement
+10 ;*; aching
+11 ;*; act
+12 ;*; acta
+13 ;*; action
+14 ;*; activated epilepsy
+15 ;*; ad hoc measure
+16 ;*; adventure
+17 ;*; affect epilepsy
+18 ;*; akinetic epilepsy
+19 ;*; aneurysm
+20 ;*; angina
+21 ;*; angina pectoris
+22 ;*; answer
+23 ;*; aortic insufficiency
+24 ;*; aortic stenosis
+25 ;*; apoplectic stroke
+26 ;*; apoplexy
+27 ;*; approach
+28 ;*; arrest
+29 ;*; arrhythmia
+30 ;*; arteriosclerosis
+31 ;*; artifice
+32 ;*; assay
+33 ;*; atherosclerosis
+34 ;*; atrial fibrillation
+35 ;*; attack
+36 ;*; attempt
+37 ;*; auricular fibrillation
+38 ;*; autonomic epilepsy
+39 ;*; band
+40 ;*; bang
+41 ;*; bar
+42 ;*; bash
+43 ;*; bat
+44 ;*; beat
+45 ;*; beating
+46 ;*; belt
+47 ;*; beriberi heart
+48 ;*; bid
+49 ;*; biff
+50 ;*; bit
+51 ;*; blarney
+52 ;*; bleed
+53 ;*; bleed white
+54 ;*; blockage
+55 ;*; blow
+56 ;*; bonk
+57 ;*; breakup
+58 ;*; breath
+59 ;*; brush
+60 ;*; butter
+61 ;*; butter up
+62 ;*; cardiac arrest
+63 ;*; cardiac epilepsy
+64 ;*; cardiac insufficiency
+65 ;*; cardiac shock
+66 ;*; cardiac stenosis
+67 ;*; cardiac thrombosis
+68 ;*; carditis
+69 ;*; caress
+70 ;*; cataclysm
+71 ;*; catalepsy
+72 ;*; cataplexy
+73 ;*; chop
+74 ;*; climax
+75 ;*; clip
+76 ;*; clonic spasm
+77 ;*; clonus
+78 ;*; clout
+79 ;*; clump
+80 ;*; congenital heart disease
+81 ;*; contact
+82 ;*; contrivance
+83 ;*; convulsion
+84 ;*; cor biloculare
+85 ;*; cor juvenum
+86 ;*; cor triatriatum
+87 ;*; coronary
+88 ;*; coronary insufficiency
+89 ;*; coronary thrombosis
+90 ;*; cortical epilepsy
+91 ;*; countermove
+92 ;*; coup
+93 ;*; course of action
+94 ;*; crack
+95 ;*; cramp
+96 ;*; cross-hatching
+97 ;*; cursive epilepsy
+98 ;*; cut
+99 ;*; cutaneous sense
+100 ;*; dash
+101 ;*; dealings
+102 ;*; deed
+103 ;*; delineation
+104 ;*; demarche
+105 ;*; device
+106 ;*; diagonal
+107 ;*; diastolic hypertension
+108 ;*; diastrophism
+109 ;*; dig
+110 ;*; dint
+111 ;*; diplegia
+112 ;*; dirty work
+113 ;*; disaster
+114 ;*; distress
+115 ;*; diurnal epilepsy
+116 ;*; dodge
+117 ;*; doing
+118 ;*; doings
+119 ;*; dolor
+120 ;*; donkeywork
+121 ;*; dotted line
+122 ;*; drain
+123 ;*; drub
+124 ;*; drubbing
+125 ;*; drudgery
+126 ;*; drumming
+127 ;*; eclampsia
+128 ;*; effort
+129 ;*; embolism
+130 ;*; employment
+131 ;*; encased heart
+132 ;*; endeavor
+133 ;*; endocarditis
+134 ;*; enterprise
+135 ;*; epilepsia
+136 ;*; epilepsia gravior
+137 ;*; epilepsia major
+138 ;*; epilepsia minor
+139 ;*; epilepsia mitior
+140 ;*; epilepsia nutans
+141 ;*; epilepsia tarda
+142 ;*; epilepsy
+143 ;*; epitasis
+144 ;*; essay
+145 ;*; example
+146 ;*; expedient
+147 ;*; experiment
+148 ;*; exploit
+149 ;*; extrasystole
+150 ;*; fag
+151 ;*; fait accompli
+152 ;*; falling sickness
+153 ;*; fatigue
+154 ;*; fatty heart
+155 ;*; feat
+156 ;*; feel
+157 ;*; feel up
+158 ;*; feeling
+159 ;*; fibroid heart
+160 ;*; fingertip caress
+161 ;*; fit
+162 ;*; flash
+163 ;*; flask-shaped heart
+164 ;*; flick
+165 ;*; fling
+166 ;*; flourish
+167 ;*; focal epilepsy
+168 ;*; fondle
+169 ;*; frenzy
+170 ;*; frictionize
+171 ;*; frosted heart
+172 ;*; fusillade
+173 ;*; gambit
+174 ;*; gest
+175 ;*; gesture
+176 ;*; get around
+177 ;*; gimmick
+178 ;*; glance
+179 ;*; go
+180 ;*; grand mal
+181 ;*; graze
+182 ;*; grief
+183 ;*; grind
+184 ;*; grip
+185 ;*; hachure
+186 ;*; hairline
+187 ;*; hairy heart
+188 ;*; half a jiffy
+189 ;*; half a mo
+190 ;*; half a second
+191 ;*; half a shake
+192 ;*; hand
+193 ;*; hand-mindedness
+194 ;*; handiwork
+195 ;*; handwork
+196 ;*; happening
+197 ;*; hatching
+198 ;*; haute mal
+199 ;*; heart attack
+200 ;*; heart block
+201 ;*; heart condition
+202 ;*; heart disease
+203 ;*; heart failure
+204 ;*; hemiplegia
+205 ;*; high blood pressure
+206 ;*; hint
+207 ;*; hit
+208 ;*; honey
+209 ;*; hurt
+210 ;*; hypertension
+211 ;*; hypertensive heart disease
+212 ;*; hysterical epilepsy
+213 ;*; ictus
+214 ;*; ill-use
+215 ;*; impose upon
+216 ;*; improvisation
+217 ;*; industry
+218 ;*; infantile paralysis
+219 ;*; injury
+220 ;*; instant
+221 ;*; iota
+222 ;*; ischemic heart disease
+223 ;*; jab
+224 ;*; jiff
+225 ;*; jiffy
+226 ;*; job
+227 ;*; jolly
+228 ;*; jury-rig
+229 ;*; jury-rigged expedient
+230 ;*; kid along
+231 ;*; kiss
+232 ;*; knead
+233 ;*; knock
+234 ;*; labor
+235 ;*; lambency
+236 ;*; lap
+237 ;*; larval epilepsy
+238 ;*; laryngeal epilepsy
+239 ;*; laryngospasm
+240 ;*; last expedient
+241 ;*; last resort
+242 ;*; last shift
+243 ;*; latent epilepsy
+244 ;*; lay it on
+245 ;*; lesion
+246 ;*; lick
+247 ;*; lick of work
+248 ;*; light touch
+249 ;*; line
+250 ;*; lineation
+251 ;*; lockjaw
+252 ;*; make use of
+253 ;*; makeshift
+254 ;*; maneuver
+255 ;*; manipulate
+256 ;*; manual labor
+257 ;*; mark
+258 ;*; massage
+259 ;*; matter
+260 ;*; matutinal epilepsy
+261 ;*; means
+262 ;*; measure
+263 ;*; menstrual epilepsy
+264 ;*; microsecond
+265 ;*; milk
+266 ;*; millisecond
+267 ;*; minute
+268 ;*; misuse
+269 ;*; mitral insufficiency
+270 ;*; mitral stenosis
+271 ;*; moil
+272 ;*; moment
+273 ;*; motion
+274 ;*; move
+275 ;*; movement
+276 ;*; musicogenic epilepsy
+277 ;*; myocardial infarction
+278 ;*; myocardial insufficiency
+279 ;*; myocarditis
+280 ;*; myoclonous epilepsy
+281 ;*; myovascular insufficiency
+282 ;*; nasty blow
+283 ;*; nocturnal epilepsy
+284 ;*; nose
+285 ;*; nuzzle
+286 ;*; occlusion
+287 ;*; occurrence
+288 ;*; offer
+289 ;*; oil
+290 ;*; operation
+291 ;*; orgasm
+292 ;*; overdo it
+293 ;*; overt act
+294 ;*; overthrow
+295 ;*; ox heart
+296 ;*; pain
+297 ;*; palpitation
+298 ;*; palsy
+299 ;*; pang
+300 ;*; paralysis
+301 ;*; paralytic stroke
+302 ;*; paraplegia
+303 ;*; paresis
+304 ;*; paroxysm
+305 ;*; paroxysmal tachycardia
+306 ;*; passage
+307 ;*; passion
+308 ;*; pat
+309 ;*; pelt
+310 ;*; performance
+311 ;*; pericarditis
+312 ;*; pet
+313 ;*; petit mal
+314 ;*; physiologic epilepsy
+315 ;*; pile
+316 ;*; pis aller
+317 ;*; play on
+318 ;*; play up to
+319 ;*; plunk
+320 ;*; poke
+321 ;*; polio
+322 ;*; poliomyelitis
+323 ;*; pound
+324 ;*; premature beat
+325 ;*; presume upon
+326 ;*; proceeding
+327 ;*; production
+328 ;*; pseudoaortic insufficiency
+329 ;*; psychic epilepsy
+330 ;*; psychomotor epilepsy
+331 ;*; pulmonary insufficiency
+332 ;*; pulmonary stenosis
+333 ;*; pulsation
+334 ;*; pulse
+335 ;*; punch
+336 ;*; quake
+337 ;*; rap
+338 ;*; rat race
+339 ;*; reflex epilepsy
+340 ;*; res gestae
+341 ;*; resort
+342 ;*; resource
+343 ;*; rheumatic heart disease
+344 ;*; rotatoria
+345 ;*; round heart
+346 ;*; rub
+347 ;*; rub against
+348 ;*; rub down
+349 ;*; rub noses
+350 ;*; sclerosis
+351 ;*; score
+352 ;*; scrap
+353 ;*; scut work
+354 ;*; sec
+355 ;*; second
+356 ;*; seizure
+357 ;*; sense of touch
+358 ;*; sensory epilepsy
+359 ;*; sensory paralysis
+360 ;*; serial epilepsy
+361 ;*; sexual climax
+362 ;*; shake
+363 ;*; shake-up
+364 ;*; shift
+365 ;*; shock
+366 ;*; shot
+367 ;*; slam
+368 ;*; slash
+369 ;*; slavery
+370 ;*; slog
+371 ;*; slug
+372 ;*; smack
+373 ;*; smash
+374 ;*; soap
+375 ;*; sock
+376 ;*; soft-soap
+377 ;*; soften up
+378 ;*; solution
+379 ;*; soothe
+380 ;*; sore
+381 ;*; sore spot
+382 ;*; spadework
+383 ;*; spasm
+384 ;*; splash
+385 ;*; split second
+386 ;*; stab
+387 ;*; step
+388 ;*; stitch
+389 ;*; stony heart
+390 ;*; stopgap
+391 ;*; stoppage
+392 ;*; stratagem
+393 ;*; streak
+394 ;*; streaking
+395 ;*; stress
+396 ;*; stress of life
+397 ;*; striation
+398 ;*; strike
+399 ;*; string along
+400 ;*; strip
+401 ;*; stripe
+402 ;*; striping
+403 ;*; stroke of policy
+404 ;*; stroke of work
+405 ;*; strong bid
+406 ;*; stunt
+407 ;*; sublineation
+408 ;*; suck dry
+409 ;*; suffering
+410 ;*; suggestion
+411 ;*; swat
+412 ;*; sweat
+413 ;*; swing
+414 ;*; swipe
+415 ;*; tachycardia
+416 ;*; tactic
+417 ;*; tactile sense
+418 ;*; taction
+419 ;*; take advantage of
+420 ;*; tap
+421 ;*; tardy epilepsy
+422 ;*; task
+423 ;*; tattoo
+424 ;*; temblor
+425 ;*; temporary expedient
+426 ;*; tender spot
+427 ;*; tentative
+428 ;*; tentative poke
+429 ;*; tetanus
+430 ;*; tetany
+431 ;*; thing
+432 ;*; thing done
+433 ;*; throb
+434 ;*; throes
+435 ;*; thromboembolism
+436 ;*; thrombosis
+437 ;*; thump
+438 ;*; thwack
+439 ;*; tick
+440 ;*; tidal wave
+441 ;*; tiresome work
+442 ;*; toil
+443 ;*; tonic epilepsy
+444 ;*; tonic spasm
+445 ;*; torsion spasm
+446 ;*; touch
+447 ;*; tour de force
+448 ;*; transaction
+449 ;*; traumatic epilepsy
+450 ;*; travail
+451 ;*; treadmill
+452 ;*; trial
+453 ;*; trial and error
+454 ;*; trice
+455 ;*; trick
+456 ;*; tricuspid insufficiency
+457 ;*; tricuspid stenosis
+458 ;*; trismus
+459 ;*; trump
+460 ;*; try
+461 ;*; tsunami
+462 ;*; turn
+463 ;*; turtle heart
+464 ;*; twink
+465 ;*; twinkle
+466 ;*; twinkling
+467 ;*; twitch
+468 ;*; two shakes
+469 ;*; ucinate epilepsy
+470 ;*; underline
+471 ;*; underlining
+472 ;*; underscore
+473 ;*; underscoring
+474 ;*; undertaking
+475 ;*; upheaval
+476 ;*; use
+477 ;*; use ill
+478 ;*; varicose veins
+479 ;*; varix
+480 ;*; ventricular fibrillation
+481 ;*; virgule
+482 ;*; visitation
+483 ;*; wallop
+484 ;*; whack
+485 ;*; whisper
+486 ;*; whop
+487 ;*; wink
+488 ;*; work
+489 ;*; work on
+490 ;*; work upon
+491 ;*; working hypothesis
+492 ;*; working proposition
+493 ;*; works
+494 ;*; wound
+495 ;*; wrench
+496 ;*; yerk
+497 ;*; manoeuvre
+498 ;*; play
+499 ;*; throw
+500 ;*; cam stroke
+501 ;*; cerebrovascular accident
+502 ;*; CVA
+503 ;*; touching
+504 ;*; stroking
+505 ;*; oarsman
+506 ;*; rower
+507 ;*; solidus
+508 ;*; separatrix
+509 ;*; punctuation
+510 ;*; punctuation mark
+511 ;*; print
+512 ;*; locomotion
+513 ;*; travel
+514 ;*; motility
+515 ;*; row
+516 ;*; flatter
+517 ;*; blandish
+518 ;*; blockade
+519 ;*; cajole
+520 ;*; earthquake
+521 ;*; heart
+522 ;*; impact
+523 ;*; lash
+524 ;*; sharpen
+525 ;*; sweep
+526 ;*; swoop

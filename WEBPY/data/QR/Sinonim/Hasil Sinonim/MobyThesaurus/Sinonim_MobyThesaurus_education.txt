@@ -1,0 +1,77 @@
+1 ;*; accomplishments
+2 ;*; acculturation
+3 ;*; acquisition of knowledge
+4 ;*; acquisitions
+5 ;*; attainments
+6 ;*; broadening the mind
+7 ;*; catechization
+8 ;*; civility
+9 ;*; civilization
+10 ;*; coaching
+11 ;*; course of study
+12 ;*; cultivation
+13 ;*; culture
+14 ;*; didactics
+15 ;*; direction
+16 ;*; drilling
+17 ;*; edification
+18 ;*; enculturation
+19 ;*; enlightenment
+20 ;*; erudition
+21 ;*; guidance
+22 ;*; illumination
+23 ;*; indoctrination
+24 ;*; information
+25 ;*; instruction
+26 ;*; intellectual acquirement
+27 ;*; knowledge
+28 ;*; learning
+29 ;*; lesson
+30 ;*; liberal education
+31 ;*; literacy
+32 ;*; lore
+33 ;*; mastery of skills
+34 ;*; memorization
+35 ;*; mental cultivation
+36 ;*; mental culture
+37 ;*; pedagogics
+38 ;*; pedagogy
+39 ;*; polish
+40 ;*; private teaching
+41 ;*; programmed instruction
+42 ;*; reeducation
+43 ;*; refinement
+44 ;*; schooling
+45 ;*; self-instruction
+46 ;*; self-teaching
+47 ;*; socialization
+48 ;*; sophistication
+49 ;*; spoon-feeding
+50 ;*; store of knowledge
+51 ;*; storing the mind
+52 ;*; teaching
+53 ;*; training
+54 ;*; tuition
+55 ;*; tutelage
+56 ;*; tutorage
+57 ;*; tutoring
+58 ;*; tutorship
+59 ;*; upbringing
+60 ;*; educational activity
+61 ;*; activity
+62 ;*; content
+63 ;*; cognitive content
+64 ;*; mental object
+65 ;*; acquisition
+66 ;*; profession
+67 ;*; breeding
+68 ;*; upbringing
+69 ;*; Department of Education
+70 ;*; Education Department
+71 ;*; Education
+72 ;*; executive department
+73 ;*; accomplishment
+74 ;*; attainment
+75 ;*; inspiration
+76 ;*; preparation
+77 ;*; scholarship
