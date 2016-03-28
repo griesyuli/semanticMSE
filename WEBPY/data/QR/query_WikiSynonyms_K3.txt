@@ -1,0 +1,30 @@
+(adolescent and alcoholism) adolescence teenage alcoholic
+(adolescent or alcoholism) adolescence teenage alcoholic
+(database and overlap) application data bond
+(database or overlap) application data bond
+(multilingual and opacs) multilingualism bilingual office
+(multilingual or opacs) multilingualism bilingual office
+(programming and algorithm) computer software algorithmics
+(programming or algorithm) computer software algorithmics 
+(roadmap and plan) maturity road disambiguation
+(roadmap or plan) maturity road disambiguation
+(comparative and education and methodology) grammatical educational research
+(comparative and education or methodology) grammatical educational research
+(comparative or education and methodology) grammatical educational research
+(comparative or education or methodology) grammatical educational research
+(culturally and responsive and teaching) culture responsiveness education
+(culturally and responsive or teaching) culture responsiveness education
+(culturally or responsive and teaching) culture responsiveness education
+(culturally or responsive or teaching) culture responsiveness education
+(geographical and stroke and incidence) geography cerebrovascular angle
+(geographical and stroke or incidence) geography cerebrovascular angle
+(geographical or stroke and incidence) geography cerebrovascular angle
+(geographical or stroke or incidence) geography cerebrovascular angle
+(indexing and digital and libraries) array disambiguation libary
+(indexing and digital or libraries) array disambiguation libary
+(indexing or digital and libraries) array disambiguation libary
+(indexing or digital or libraries) array disambiguation libary
+(java and applet and programming) disambiguation applett computer
+(java and applet or programming) disambiguation applett computer
+(java or applet and programming) disambiguation applett computer
+(java or applet or programming) disambiguation applett computer

@@ -1,0 +1,30 @@
+(adolescent and alcoholism) stripling alcohol
+(adolescent or alcoholism) stripling alcohol
+(database and overlap) convergence intersection
+(database or overlap) convergence intersection
+(multilingual and opacs)
+(multilingual or opacs)
+(programming and algorithm) scheduling algorithmic
+(programming or algorithm) scheduling algorithmic
+(roadmap and plan) program programme
+(roadmap or plan) program programme
+(comparative and education and methodology) degree instruction
+(comparative and education or methodology) degree instruction
+(comparative or education and methodology) degree instruction
+(comparative or education or methodology) degree instruction
+(culturally and responsive and teaching) antiphonal instruction
+(culturally and responsive or teaching) antiphonal instruction
+(culturally or responsive and teaching) antiphonal instruction
+(culturally or responsive or teaching) antiphonal instruction
+(geographical and stroke and incidence) geographic shot
+(geographical and stroke or incidence) geographic shot
+(geographical or stroke and incidence) geographic shot
+(geographical or stroke or incidence) geographic shot
+(indexing and digital and libraries) index depository
+(indexing and digital or libraries) index depository
+(indexing or digital and libraries) index depository
+(indexing or digital or libraries) index depository
+(java and applet and programming) coffee scheduling
+(java and applet or programming) coffee scheduling
+(java or applet and programming) coffee scheduling
+(java or applet or programming) coffee scheduling
