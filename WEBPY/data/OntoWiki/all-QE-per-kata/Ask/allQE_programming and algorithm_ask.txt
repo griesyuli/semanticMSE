@@ -1,0 +1,9 @@
+1 ;*; coding
+2 ;*; theory
+3 ;*; interpolation
+4 ;*; data
+5 ;*; mining
+6 ;*; computational
+7 ;*; geometry
+8 ;*; complexity
+9 ;*; dijkstras

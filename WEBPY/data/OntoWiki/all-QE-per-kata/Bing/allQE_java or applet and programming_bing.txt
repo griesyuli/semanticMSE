@@ -1,0 +1,10 @@
+1 ;*; open
+2 ;*; source
+3 ;*; netbeans
+4 ;*; video
+5 ;*; game
+6 ;*; console
+7 ;*; gnu
+8 ;*; compiler
+9 ;*; concurrent
+10 ;*; computing

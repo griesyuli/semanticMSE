@@ -1,0 +1,15 @@
+1 ;*; history
+2 ;*; technology
+3 ;*; technological
+4 ;*; change
+5 ;*; revolution
+6 ;*; emerging
+7 ;*; philosophy
+8 ;*; transfer
+9 ;*; civil
+10 ;*; engineering
+11 ;*; environmental
+12 ;*; research
+13 ;*; development
+14 ;*; nanotechnology
+15 ;*; transhumanism
