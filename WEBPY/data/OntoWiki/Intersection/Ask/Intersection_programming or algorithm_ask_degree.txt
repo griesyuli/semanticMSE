@@ -1,0 +1,6 @@
+1 ;*; data mining ;*; 
+2 ;*; coding theory ;*; 
+3 ;*; interpolation ;*; 
+4 ;*; computational geometry ;*; 
+5 ;*; computational complexity theory ;*; 
+6 ;*; dijkstras algorithm ;*; 

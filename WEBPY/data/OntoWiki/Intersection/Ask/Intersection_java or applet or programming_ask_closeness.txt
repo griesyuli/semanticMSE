@@ -1,0 +1,18 @@
+1 ;*; applet ;*; 
+2 ;*; plug-in computing ;*; 
+3 ;*; java programming language ;*; 
+4 ;*; sun microsystems ;*; 
+5 ;*; java platform ;*; 
+6 ;*; html ;*; 
+7 ;*; javafx ;*; 
+8 ;*; java virtual machine ;*; 
+9 ;*; command-line interface ;*; 
+10 ;*; bytecode ;*; 
+11 ;*; java performance ;*; 
+12 ;*; javascript ;*; 
+13 ;*; linux ;*; 
+14 ;*; mouse computing ;*; 
+15 ;*; html5 ;*; 
+16 ;*; java servlet ;*; 
+17 ;*; web page ;*; 
+18 ;*; unix ;*; 
