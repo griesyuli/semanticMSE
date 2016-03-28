@@ -1,0 +1,15 @@
+1 ;*; common object request broker architecture ;*; 
+2 ;*; data warehouse ;*; 
+3 ;*; document-oriented database ;*; 
+4 ;*; iso 639 ;*; 
+5 ;*; distributed database management system ;*; 
+6 ;*; data dictionary ;*; 
+7 ;*; comparison of relational database management systems ;*; 
+8 ;*; comparison of object-relational database management systems ;*; 
+9 ;*; data definition language ;*; 
+10 ;*; data control language ;*; 
+11 ;*; international organization for standardization ;*; 
+12 ;*; .net framework ;*; 
+13 ;*; data manipulation language ;*; 
+14 ;*; database transaction ;*; 
+15 ;*; database management system ;*; 
