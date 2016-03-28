@@ -1,0 +1,16 @@
+1 ;*; historical linguistics ;*; 46 ;*; 
+2 ;*; comparative method linguistics ;*; 40 ;*; 
+3 ;*; lexicostatistics ;*; 39 ;*; 
+4 ;*; glottochronology ;*; 36 ;*; 
+5 ;*; comparative linguistics ;*; 33 ;*; 
+6 ;*; phonology ;*; 32 ;*; 
+7 ;*; mass lexical comparison ;*; 32 ;*; 
+8 ;*; phoneme ;*; 28 ;*; 
+9 ;*; language comparison ;*; 28 ;*; 
+10 ;*; language family ;*; 27 ;*; 
+11 ;*; proto-language ;*; 26 ;*; 
+12 ;*; indo-european languages ;*; 24 ;*; 
+13 ;*; indo-european ;*; 22 ;*; 
+14 ;*; grammatical conjugation ;*; 16 ;*; 
+15 ;*; cognate ;*; 16 ;*; 
+16 ;*; celtic languages ;*; 11 ;*; 

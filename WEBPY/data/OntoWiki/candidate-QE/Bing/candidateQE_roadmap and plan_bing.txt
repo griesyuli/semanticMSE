@@ -1,0 +1,12 @@
+1 ;*; history of technology ;*; 38 ;*; 
+2 ;*; technological change ;*; 35 ;*; 
+3 ;*; technological revolution ;*; 30 ;*; 
+4 ;*; emerging technologies ;*; 25 ;*; 
+5 ;*; philosophy of technology ;*; 24 ;*; 
+6 ;*; technology transfer ;*; 23 ;*; 
+7 ;*; civil engineering ;*; 19 ;*; 
+8 ;*; environmental technology ;*; 19 ;*; 
+9 ;*; research and development ;*; 16 ;*; 
+10 ;*; nanotechnology ;*; 16 ;*; 
+11 ;*; transhumanism ;*; 15 ;*; 
+12 ;*; engineering ;*; 10 ;*; 

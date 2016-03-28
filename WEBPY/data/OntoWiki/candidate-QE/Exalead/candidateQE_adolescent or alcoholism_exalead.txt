@@ -1,0 +1,17 @@
+1 ;*; alcoholic beverage ;*; 52 ;*; 
+2 ;*; psychological trauma ;*; 47 ;*; 
+3 ;*; psychoactive drug ;*; 44 ;*; 
+4 ;*; amphetamine ;*; 42 ;*; 
+5 ;*; internet addiction disorder ;*; 39 ;*; 
+6 ;*; drug tolerance ;*; 37 ;*; 
+7 ;*; rape ;*; 30 ;*; 
+8 ;*; nmda receptor ;*; 29 ;*; 
+9 ;*; alcoholism in family systems ;*; 29 ;*; 
+10 ;*; european union ;*; 25 ;*; 
+11 ;*; workaholic ;*; 24 ;*; 
+12 ;*; ibogaine ;*; 24 ;*; 
+13 ;*; hallucinogen ;*; 22 ;*; 
+14 ;*; anxiety ;*; 19 ;*; 
+15 ;*; naltrexone ;*; 19 ;*; 
+16 ;*; synapse ;*; 17 ;*; 
+17 ;*; cannabis drug ;*; 11 ;*; 

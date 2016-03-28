@@ -1,0 +1,18 @@
+1 ;*; universal decimal classification ;*; 53 ;*; 
+2 ;*; science ;*; 45 ;*; 
+3 ;*; outline of applied science ;*; 44 ;*; 
+4 ;*; outline of science ;*; 42 ;*; 
+5 ;*; outline of earth science ;*; 40 ;*; 
+6 ;*; knowledge representation ;*; 39 ;*; 
+7 ;*; outline of social science ;*; 37 ;*; 
+8 ;*; outline of natural science ;*; 34 ;*; 
+9 ;*; library of congress classification ;*; 32 ;*; 
+10 ;*; computer science ;*; 31 ;*; 
+11 ;*; information science ;*; 31 ;*; 
+12 ;*; controlled vocabularies ;*; 30 ;*; 
+13 ;*; dewey decimal classification ;*; 24 ;*; 
+14 ;*; zoology ;*; 23 ;*; 
+15 ;*; outline of physics ;*; 20 ;*; 
+16 ;*; sound ;*; 16 ;*; 
+17 ;*; outline of painting ;*; 14 ;*; 
+18 ;*; publications ;*; 12 ;*; 
