@@ -1,0 +1,1 @@
+database or overlap :*: database schema , temporal database , spatial database , boyce-codd normal form ;*; 
