@@ -1,0 +1,16 @@
+1 ;*; comparative method linguistics ;*; 
+2 ;*; historical linguistics ;*; 
+3 ;*; phoneme ;*; 
+4 ;*; phonology ;*; 
+5 ;*; lexicostatistics ;*; 
+6 ;*; glottochronology ;*; 
+7 ;*; grammatical conjugation ;*; 
+8 ;*; indo-european languages ;*; 
+9 ;*; indo-european ;*; 
+10 ;*; language family ;*; 
+11 ;*; comparative linguistics ;*; 
+12 ;*; language comparison ;*; 
+13 ;*; proto-language ;*; 
+14 ;*; celtic languages ;*; 
+15 ;*; mass lexical comparison ;*; 
+16 ;*; cognate ;*; 

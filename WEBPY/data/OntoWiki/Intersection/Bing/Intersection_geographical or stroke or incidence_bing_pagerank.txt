@@ -1,0 +1,9 @@
+1 ;*; electrocardiogram ;*; 
+2 ;*; occupational therapy ;*; 
+3 ;*; angiogram ;*; 
+4 ;*; screening medicine ;*; 
+5 ;*; anosognosia ;*; 
+6 ;*; activities of daily living ;*; 
+7 ;*; oclc ;*; 
+8 ;*; methamphetamine ;*; 
+9 ;*; public health ;*; 

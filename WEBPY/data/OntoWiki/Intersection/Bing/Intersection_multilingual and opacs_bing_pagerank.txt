@@ -1,0 +1,17 @@
+1 ;*; knowledge representation ;*; 
+2 ;*; information science ;*; 
+3 ;*; outline of science ;*; 
+4 ;*; dewey decimal classification ;*; 
+5 ;*; outline of applied science ;*; 
+6 ;*; outline of earth science ;*; 
+7 ;*; outline of social science ;*; 
+8 ;*; outline of natural science ;*; 
+9 ;*; universal decimal classification ;*; 
+10 ;*; science ;*; 
+11 ;*; sound ;*; 
+12 ;*; zoology ;*; 
+13 ;*; library of congress classification ;*; 
+14 ;*; publications ;*; 
+15 ;*; outline of painting ;*; 
+16 ;*; outline of physics ;*; 
+17 ;*; computer science ;*; 
