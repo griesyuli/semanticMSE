@@ -1,0 +1,30 @@
+(adolescent and alcoholism) alcoholic beverage
+(adolescent or alcoholism) alcoholic beverage
+(database and overlap) spatial analysis
+(database or overlap) crystallography diffraction
+(multilingual and opacs) universal decimal
+(multilingual or opacs) universal decimal
+(programming and algorithm) computer science
+(programming or algorithm)
+(roadmap and plan)
+(roadmap or plan) project management
+(comparative and education and methodology) educational technology
+(comparative and education or methodology) educational technology
+(comparative or education and methodology) educational technology
+(comparative or education or methodology) educational technology
+(culturally and responsive and teaching) family planning
+(culturally and responsive or teaching) family planning
+(culturally or responsive and teaching) family planning
+(culturally or responsive or teaching) family planning
+(geographical and stroke and incidence) energy policy
+(geographical and stroke or incidence) energy policy
+(geographical or stroke and incidence) energy policy
+(geographical or stroke or incidence) energy policy
+(indexing and digital and libraries)
+(indexing and digital or libraries)
+(indexing or digital and libraries)
+(indexing or digital or libraries)
+(java and applet and programming)
+(java and applet or programming)
+(java or applet and programming)
+(java or applet or programming)

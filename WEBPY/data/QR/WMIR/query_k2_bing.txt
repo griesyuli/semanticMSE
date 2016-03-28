@@ -1,0 +1,30 @@
+(adolescent and alcoholism) alcoholic beverage
+(adolescent or alcoholism) alcoholic beverage
+(database and overlap) sql data
+(database or overlap) spatial analysis
+(multilingual and opacs) universal decimal
+(multilingual or opacs) taraxacum optical
+(programming and algorithm) donald knuth
+(programming or algorithm) coding theory
+(roadmap and plan) history technology
+(roadmap or plan) history technology
+(comparative and education and methodology) historical linguistics
+(comparative and education or methodology) historical linguistics
+(comparative or education and methodology) historical linguistics
+(comparative or education or methodology) historical linguistics
+(culturally and responsive and teaching) critical pedagogy
+(culturally and responsive or teaching) critical pedagogy
+(culturally or responsive and teaching) critical pedagogy
+(culturally or responsive or teaching) critical pedagogy
+(geographical and stroke and incidence) public health
+(geographical and stroke or incidence) public health
+(geographical or stroke and incidence) public health
+(geographical or stroke or incidence) public health
+(indexing and digital and libraries) preservation internet
+(indexing and digital or libraries) preservation internet
+(indexing or digital and libraries) preservation internet
+(indexing or digital or libraries) preservation internet
+(java and applet and programming) common object
+(java and applet or programming) open source
+(java or applet and programming) open source
+(java or applet or programming) common object

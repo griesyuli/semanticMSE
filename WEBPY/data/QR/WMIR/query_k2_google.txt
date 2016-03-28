@@ -1,0 +1,30 @@
+(adolescent and alcoholism) alcoholic beverage
+(adolescent or alcoholism) alcoholic beverage
+(database and overlap) temporal time
+(database or overlap) temporal time
+(multilingual and opacs) online public
+(multilingual or opacs) online public
+(programming and algorithm) coding theory
+(programming or algorithm) coding theory
+(roadmap and plan) history technology
+(roadmap or plan) hamas palestinian
+(comparative and education and methodology) positivism social
+(comparative and education or methodology) list sovereign
+(comparative or education and methodology) positivism social
+(comparative or education or methodology) positivism social
+(culturally and responsive and teaching) critical pedagogy
+(culturally and responsive or teaching) critical pedagogy
+(culturally or responsive and teaching) critical pedagogy
+(culturally or responsive or teaching) critical pedagogy
+(geographical and stroke and incidence) public health
+(geographical and stroke or incidence) public health
+(geographical or stroke and incidence) speech-language pathology
+(geographical or stroke or incidence) speech-language pathology
+(indexing and digital and libraries) list project
+(indexing and digital or libraries) list project
+(indexing or digital and libraries) list project
+(indexing or digital or libraries) list project
+(java and applet and programming) common object
+(java and applet or programming) common object
+(java or applet and programming) common object
+(java or applet or programming) common object
