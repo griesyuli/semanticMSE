@@ -1,0 +1,14 @@
+1 ;*; hamas ;*; 41 ;*; 
+2 ;*; palestinian political violence ;*; 37 ;*; 
+3 ;*; state of palestine ;*; 36 ;*; 
+4 ;*; two-state solution ;*; 34 ;*; 
+5 ;*; war of attrition ;*; 29 ;*; 
+6 ;*; operation summer rains ;*; 28 ;*; 
+7 ;*; six-day war ;*; 27 ;*; 
+8 ;*; israeli-occupied territories ;*; 27 ;*; 
+9 ;*; arab peace initiative ;*; 27 ;*; 
+10 ;*; west bank ;*; 16 ;*; 
+11 ;*; palestinian people ;*; 14 ;*; 
+12 ;*; yom kippur war ;*; 14 ;*; 
+13 ;*; united nations ;*; 14 ;*; 
+14 ;*; israel police ;*; 13 ;*; 

@@ -1,0 +1,13 @@
+1 ;*; list of digital library projects ;*; 40 ;*; 
+2 ;*; project gutenberg ;*; 34 ;*; 
+3 ;*; information science ;*; 32 ;*; 
+4 ;*; digital libraries ;*; 28 ;*; 
+5 ;*; internet archive ;*; 27 ;*; 
+6 ;*; public domain ;*; 24 ;*; 
+7 ;*; google books ;*; 23 ;*; 
+8 ;*; library of congress ;*; 19 ;*; 
+9 ;*; university of michigan ;*; 19 ;*; 
+10 ;*; arxiv ;*; 18 ;*; 
+11 ;*; list of open-access journals ;*; 18 ;*; 
+12 ;*; humanities ;*; 16 ;*; 
+13 ;*; digital library ;*; 14 ;*; 
