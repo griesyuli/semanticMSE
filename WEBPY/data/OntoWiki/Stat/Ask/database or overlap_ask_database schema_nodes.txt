@@ -1,0 +1,307 @@
+delete (sql)
+end-user
+concepts
+nosql
+table (database)
+data types
+data hierarchy
+conceptual schema
+information management
+computer files
+identity transform
+star schema
+directory (file systems)
+dataspaces
+r1soft hot copy (linux)
+entity-attribute-value model
+sequence space
+core architecture data model
+reasoning
+transaction processing
+computer file systems
+update (sql)
+data modeling languages
+view model
+d (data language specification)
+comparison of object-relational database management systems
+xml
+xml information set
+physical data model
+formal language
+bidirectionalization
+mathematical notation
+comparison of relational database management systems
+relational database
+online analytical processing
+equiconsistency
+semantic heterogeneity
+ontology alignment
+transact-sql
+data structure
+publisher item identifier
+data modeling
+universal data element framework
+applied sciences
+data dictionary
+indexing
+informative modeling
+subroutine
+refactoring
+digital object identifier
+tablespace
+abstract data types
+enumeration
+interrupt
+truth table
+query languages
+data stream processing with sql
+net (topology)
+database normalization
+crossref
+file system management
+datafile
+wikibook sql
+computer languages
+data definition language
+vocabulary onesource
+linux distributions
+data wrangling
+schematron
+application checkpointing
+document structure description
+document modeling
+proprietary database management systems
+w3c xml schema
+column (database)
+orcid
+herbrandization
+metadata
+software package (installation)
+architectural pattern (computer science)
+oracle database
+microsoft volume shadow copy
+d4 (programming language)
+computer occupations
+database schema
+enterprise application integration
+computer-aided software engineering tools
+metadata publishing
+comparison of database tools
+event handler
+representation term
+minimal mappings
+relational databases
+abstract object
+mathematical object
+transclusion
+cross-platform software
+university of cambridge computer laboratory
+view (database)
+prenex normal form
+command-query separation
+database specialists
+knowledge representation and reasoning
+priority queue
+semantic mapper
+skolem normal form
+application discovery and understanding
+snapshot (computer storage)
+declarative programming languages
+commonsense knowledge base
+mathematical structure
+file system directories
+computer storage
+materialized view
+computer backup
+national information systems security glossary
+set (mathematics)
+types of databases
+database design
+database theory
+big structure
+comparison of data modeling tools
+mathematical objects
+schema matching
+data quality
+iso standards
+type system
+snowflake schema
+oracle rdb
+data type
+insert (sql)
+ontology
+data mapping
+lã¶wenheim number
+federated database system
+database management systems
+index (search engine)
+data structures
+associative array
+programming constructs
+grammar framework
+type theory
+circular buffer
+database management system
+evaluation strategy
+permutation
+xml-based standards
+queue (data structure)
+bots
+economic term stubs
+on-line encyclopedia of integer sequences
+data integration
+index (database)
+table (information)
+database trigger
+system image
+pood
+list of relational database management systems
+datacite
+ordbms software for linux
+object identifier
+document type definition
+namespace routing language
+principle of orthogonal design
+metadata standards
+run book automation
+coroutines
+list of xml schemas
+metadata modeling
+row (database)
+source code
+synonym (database)
+concept map
+c data types
+ottoql
+storage hypervisor
+database storage structures
+semantic translation
+holism
+rdbms
+relational model
+sequence
+1969 introductions
+conceptual framework
+subroutines
+enterprise architecture
+structuring information
+extension by definitions
+persistence (computer science)
+pmid
+list of logic symbols
+fault-tolerant computer systems
+the third manifesto
+data management
+systems of formal logic
+deque
+lifo
+second-order logic
+data manipulation language
+data element definition
+type (model theory)
+electronic documents
+permalink
+mindmap
+database language
+knowledge representation
+integrated development environments
+package management systems
+conceptual graphs
+predicate logic
+operator overloading
+semantics
+database integrity
+kind
+tarski's world
+ontology double articulation
+valuation-based system
+database administration tools
+semantic spectrum
+function (mathematics)
+functional programming
+oasis cam
+semantic web
+1969 in computer science
+xml schema
+digital identity
+object-role modeling
+online transaction processing
+theoretical computer science
+data model
+sequences and series
+higher-order logic
+virtual column
+concept mapping
+oracle software
+database constraints
+personal knowledge base
+schema (disambiguation)
+clix
+zachman framework
+formal method
+field (computer science)
+formal languages
+world wide web consortium standards
+metadata registry
+relation (database)
+end-to-end data integrity
+model theory
+combinatorics on words
+linux stubs
+english inventions
+schema crosswalk
+lvm snapshots (linux)
+universally unique identifier
+economics terminology
+reference models
+select (sql)
+data warehouse
+database system
+entity-relationship model
+iso/iec 11179
+openvms
+three schema approach
+predicate calculus
+mumps
+entityâ€“relationship model
+academic publishing
+ontology engineering
+persistence
+queueing theory
+information technology management
+stored procedure
+integrity constraints
+database index techniques
+object-relationship modelling
+philosophy of mathematics
+programming paradigms
+programming language concepts
+scientific modeling
+recurrence relation
+namespace-based validation dispatching language
+logical data model
+string (computer science)
+sql
+database stubs
+relational database management systems
+stack
+relational algebra
+database administrator
+data (computing)
+modular programming
+data control language
+database
+conceptual model (computer science)
+identifiers
+index locking
+hierarchical model
+scientific literature
+acl2
+list of erp software packages
+databases
+information systems
+elementary mathematics
+relax ng
+data element
+xslt
+method (computer programming)
