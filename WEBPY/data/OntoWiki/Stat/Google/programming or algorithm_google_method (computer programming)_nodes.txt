@@ -1,0 +1,260 @@
+lambda calculus
+groovy
+liskov substitution principle
+xml transformation language
+data types
+structure chart
+common object request broker architecture
+information hiding
+plug-in (computing)
+joose javascript meta object system
+prototype-based programming
+programming language topics
+type system
+java portal
+cades
+creational pattern
+technical communication
+list of java virtual machines
+implementation
+javaone
+j.e.l. peck
+surrogate model
+jeroo
+duck typing
+javapedia
+class-based programming languages
+comparison of revision control software
+method overloading
+design by contract
+computing terminology
+"operator overloading, free pascal manual"
+computer bus
+snippet (programming)
+checksum algorithms
+abstract data types
+interrupt
+operators (programming)
+jvm programming languages
+generic eclipse modeling system
+drakon
+issn
+comparison of programming languages (object-oriented programming)
+constructionist design methodology
+change control
+no more operator overloading – features removed from c and c++
+conway's law
+object-oriented analysis and design
+library (computing)
+c++
+book publishing
+object creation
+java platform
+coden
+programming paradigms
+method engineering
+kermeta
+object process methodology
+list of object-oriented programming languages
+mof queries/views/transformations
+algebraic data type
+statically typed programming languages
+list of java apis
+revision control systems
+procedure (computer science)
+comp.lang.java faq question 6.9: why isn't there operator overloading?
+class (computer science)
+scientific modeling
+software design
+event handler
+object-relational mapping
+finalizer
+superclass
+object association
+domain-specific modeling
+hard disk drive interface
+transclusion
+cross-platform software
+asin
+metacase tool
+idef4
+university of cambridge computer laboratory
+list of revision control software
+object-relational impedance mismatch
+modularity (programming)
+c programming language family
+command-query separation
+business interoperability interface
+unified modeling language
+operators in c and c++
+list of group-0 isbn publisher codes
+comparison of programming languages
+metaclass
+special:booksources
+metadata
+template method pattern
+source code
+programming language concepts
+c.h.a. koster
+database theory
+interfaces
+revision control
+balance (accounting)
+comparison of java and c++
+minimal evaluation
+destructor (computer science)
+bookselling
+common lisp object system
+polymorphism (computer science)
+opaque data type
+database management systems
+iswn
+lccn
+dalvik
+model-driven architecture
+programming constructs
+constructor
+comparison of programming paradigms
+programming languages created in 1995
+concept (generic programming)
+computer architecture
+evaluation strategy
+global constructor
+"why does go not support overloading of methods and operators?"
+object-oriented programming languages
+computer-aided software engineering
+javassist
+political science terms
+switch statement
+isbn
+object lifetime
+vd 16
+vd 17
+software configuration management
+sun microsystems
+nassi–shneiderman diagram
+"report on the algorithmic language algol 68, section 10.2.2."
+"implementing operators for your class"
+java.sun.com
+coroutines
+implementation (computer science)
+list of jvm languages
+object database
+structured programming
+generalized algebraic data type
+java (programming language)
+ettn
+java language
+holism
+model driven engineering
+international standard book number
+changelog
+kind (type theory)
+destructor
+accounting terminology
+system f
+graal
+[35]
+application binary interface
+distributed revision control
+constructor (computer science)
+ismn
+openjava
+isan
+class diagram
+function overloading
+polymorphic code
+object modeling language
+computer programming portal
+architecture description language
+iso standards
+issues in overloading
+polymorphism in object-oriented programming
+object (computer science)
+link
+method (computer programming)
+universal identifiers
+java specification requests
+isrc
+software development process
+operator overloading
+^
+moose perl meta object system
+"operator overloading, delphi manual"
+subroutine
+inheritance semantics
+list of system quality attributes
+transformation language
+function (mathematics)
+functional programming
+david parnas
+library science
+viatra
+distributed revision control systems
+method overriding
+design
+iswc
+abstraction layer
+encapsulation (object-oriented programming)
+class-based programming
+resource acquisition is initialization
+class (computer programming)
+abstraction inversion
+estc
+1-57610-777-9
+requirements analysis
+operator (programming)
+distributed component object model
+meta-model
+openc++
+data governance
+oclc
+initial algebra
+functional specification
+cohesion
+1966 introductions
+application software
+modular programming
+"a history of c++: 1979−1991 - page 12"
+formal methods
+interface description language
+lepus3
+interface (computer science)
+subroutines
+sici
+object-oriented programming
+business reference model
+versioning file system
+b.j. mailloux
+book terminology
+a. van wijngaarden
+software componentry
+accounting stubs
+((constructor))
+type class
+meta-object protocol
+type theory
+modaf meta-model
+istc
+component-based software engineering
+implementation inheritance
+concurrent programming languages
+php magic methods overriding class properties
+list of group-1 isbn publisher codes
+application programming interface
+"c++ faq lite: what are the benefits of operator overloading?"
+structured design
+domain specific language
+doi
+coupling
+software versioning
+database
+inheritance
+comparison of c# and java
+the third manifesto
+registration authority
+databases
+virtual methods
+allocation site
+virtual inheritance
+identifiers
