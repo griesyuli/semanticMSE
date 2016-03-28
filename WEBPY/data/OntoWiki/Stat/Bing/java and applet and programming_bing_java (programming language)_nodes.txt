@@ -1,0 +1,2632 @@
+c--
+directed graph
+structure chart
+sun workstations
+tclx
+2003 introductions
+lvm
+bytecode
+lustre (file system)
+testing high-performance computing applications
+discontinued operating systems
+versioning file systems
+video game console
+xsun
+concurrent computing
+endianness
+groovy server pages
+companies listed on the new york stock exchange
+method overloading
+comparison of multi-paradigm programming languages
+monodevelop
+computer networking
+2005 software
+java community process
+via openbook
+swinglabs
+be file system
+chapel
+history of haiku (operating system)
+sun netra
+commons
+free software culture and documents
+d-bus
+anti-copyright
+"hello, world!" program
+statically typed programming languages
+netbeans
+programming languages with an iso standard
+freebasic
+1977 software
+container (data structure)
+essays by eric s. raymond
+companies portal
+self-hosting software
+object type
+freebsd foundation
+intel gma
+asin
+public domain software
+open source definition
+mysql
+non-governmental organizations based in the united states
+python implementations
+apache struts
+processing.js
+text-oriented programming languages
+metadata
+andrew file system
+global education learning community
+exception handling
+oak apple day
+gnu compiler for java
+cspd
+static program analysis
+open-source robotics
+portable software
+open-source governance
+programming libraries
+list of file systems, the distributed parallel fault-tolerant file system section
+list of xml schemas
+apple portal
+secure shell filesystem
+object lifetime
+vd 16
+vd 17
+the cathedral and the bazaar
+java desktop system
+unix
+list of eclipse-based software
+history of free software
+ultra network technologies
+9p
+coffee portal
+sun enterprise
+2003 establishments in florida
+natural language and computing
+comparison of programming languages (syntax)
+open source
+jar (file format)
+guy l. steele, jr.
+sun386i
+home computer hardware companies
+open-source software hosting facilities
+linux adoption
+operating system comparisons
+supercomputing in japan
+open formats
+object modeling language
+polymorphism in object-oriented programming
+defensive programming
+recurring events established in 1996
+software development by platforms
+jdk enhancement proposal
+binary recompiler
+software that uses qt
+fortran compilers
+free data analysis software
+electrical network
+sun cloud
+digital rights
+search-based software engineering
+2008 software
+oracle software
+microconsole
+software development process
+free system software
+media transfer protocol
+software development kits
+java card
+oclc
+why's (poignant) guide to ruby
+generic java
+open format
+colocation center
+people in information technology
+richard stallman
+code reuse
+globalization
+actionscript
+nhibernate
+just-in-time compilation
+prototype-based programming languages
+video games portal
+cyberspace
+actor model
+soname
+1985 software
+open64
+vaporware
+second screen
+binary xml
+self-interpreter
+software using the ncsa license
+hot beverages
+disambiguation pages
+priority queue
+bottom-up parsing
+2002 software
+1969 in the united states
+sun one
+binary blob
+wildcard (java)
+linux foundation
+visual user environment
+key-value database
+apse
+orphan works
+r1000
+xlib
+window managers
+international components for unicode
+global information system
+static (keyword)
+o'reilly media books
+dynamic-link library
+free educational software
+open-source office suites
+[35]
+haiku vector icon format
+computing portal
+apache license
+criticism of intellectual property
+comparison of operating systems
+win32 thread information block
+glassfish
+computer networking portal
+tclmon
+boost software license
+virtual machine escape
+fortress (programming language)
+typescript
+web service providers
+digital freedom
+list of films in the public domain in the united states
+list of languages without official status
+classes of computers
+linux integrated development environments
+networking hardware companies
+sco–linux controversies
+gnu/linux naming controversy
+type systems
+oracle iplanet web server
+mobile software programming tools
+binary translation
+embedded operating systems
+formal specification languages
+tablet operating systems
+natural user interface
+software engineering papers
+voxel
+comparison of ssh clients
+dynamic programming languages
+lzjb
+freeware
+2001 introductions
+window-based operating systems
+variadic function
+social movements
+lifo
+emscripten
+input method editor
+open access (publishing)
+globalization terminology
+software development kit
+lists of events
+bootstrapping (compilers)
+anderson powerpole
+ptolemy project
+free security software
+template method pattern
+java syntax
+wlst
+apple inc. litigation
+java concurrency
+andy bechtolsheim
+project hosting websites
+java development kit
+dutch inventions
+open source vs. closed source
+homesteading the noosphere
+corporeal mime
+openssh
+iswc
+javafx
+language binding
+crusoe
+1999 establishments in maryland
+javanese alphabet
+unix programming tools
+clojure
+list of web browsers
+software patent debate
+1999 software
+reference implementation
+java.sun.com
+handheld tv game
+digitaleurope
+computing platform
+program analysis
+comparison of cpu architectures
+vhdl
+oracle acquisitions
+comparison of command shells
+open-source record label
+list of kde applications
+look and feel
+reiser4
+jsr 250: common annotations for the java platform
+concept (generic programming)
+operating systems
+list of free software project directories
+fair dealing
+computer programming portal
+sun microsystems software
+video game consoles
+permissive free software licence
+python syntax and semantics
+data hierarchy
+modular data center
+freedom isn't free
+niklaus wirth
+free software programmed in basic
+pipeline (unix)
+type polymorphism
+estc
+language code
+2012 software
+ergonomics
+trusted solaris
+companies based in redmond, washington
+wtfpl
+open content alliance
+server room environment monitoring system
+linux documentation project
+journalism portal
+free and open-source software
+user experience
+opentracker
+freedesktop.org
+lepus3
+blender foundation
+open content
+1996 software
+perl object environment
+smart pointer
+internet services supporting openid
+index of android os articles
+liquid and digits
+rich internet applications
+dominant design
+test items
+halloween documents
+1998 software
+"c++ faq lite: what are the benefits of operator overloading?"
+swingworker
+mozilla foundation
+pattern matching programming languages
+os x
+the third manifesto
+von neumann architecture
+oracle clinical
+c++ compilers
+wikimedia foundation
+virtual machine
+xampp
+companies based in toronto
+patent law
+windows command prompt
+data types
+list of group-1 isbn publisher codes
+ftps
+protocol
+linux distributions
+technical communication
+free software foundation of india
+non-blocking algorithm
+reference (computer science)
+clients (computing)
+lisp programming language family
+fantom (programming language)
+outline of computer science
+scrubbing
+hardware restrictions
+sun microsystems people
+linux kernel-supported file systems
+1983 establishments in the united states
+kphp
+cryptography
+setjmp/longjmp
+book terminology
+basic compilers
+triple fault
+object copy
+skeuomorph
+iso/iec jtc 1
+personal computing
+limitations and exceptions to copyright
+instance variable
+wheels (operating system)
+runz
+acorn computers
+mozilla thunderbird
+gpgpu
+product key
+clickonce
+compilers
+reference
+text entry interface
+1985 introductions
+american brands
+open compute project
+graphical user interface elements
+list of free software for web 2.0 services
+free pdf software
+hammer
+comparison of data serialization formats
+linux containers
+procedural programming languages
+johan hendrik caspar kern
+c file input/output
+lists of software
+xotcl
+memory management unit
+copyleft
+apache velocity
+codeplex
+boost library
+pixel aspect ratio
+web server software programmed in java
+pejoratives
+weblogic server
+darwin (operating system)
+software release
+unreachable memory
+list of proprietary software for linux
+non-profit organizations based in france
+standard widget toolkit
+html5
+oracle openworld
+news
+veritas file system
+polymorphism (computer science)
+2000s documentary films
+rich internet application
+gnavi
+berkeley software distribution
+windows communication foundation
+dalvik
+patrick naughton
+low-level programming language
+canonical ltd.
+software using the artistic license
+international standard
+ubuntu foundation
+free software lists and comparisons
+oberon (programming language)
+indonesian beverages
+dvd copy control association, inc. v. kaleidescape, inc.
+google tax
+game localization
+1954 births
+structured programming
+computer companies of the united states
+virtual reality
+github
+sun microprocessors
+oak (programming language)
+d (programming language)
+hacker (programmer subculture)
+netbeans bluej edition
+wired.com
+jnode
+software version histories
+resource management
+free-culture movement
+open-source license
+graphical control elements
+list of plants poisonous to equines
+jeroo
+end user
+erc32
+memory pool
+numerical programming languages
+amazon machine image
+aix
+acm/ieee supercomputing conference
+gnu
+list of document markup languages
+sun management center
+comparison of office suites
+freenet
+scott mcnealy
+dos on ibm pc compatibles
+openbsd foundation
+list of software engineering topics
+gratis versus libre
+file (command)
+gpl linking exception
+1966 introductions
+object file
+tiobe index
+computer graphics
+mobile modem
+68k microprocessors
+structural type system
+free web software
+be sample code license
+colinux
+tree (set theory)
+tablet computers
+mozilla (mascot)
+programming language implementation
+open implementation
+legacy code
+intellectual property law
+java backporting tools
+open-source power
+ibm websphere application server
+history of web browsers
+tree testing (information architecture)
+open music model
+function pointer
+portal
+businesspeople in software
+home video game console
+technology companies based in the san francisco bay area
+unicore
+arthur van hoff
+business law
+modula-3
+project harmony (foss group)
+list of debuggers
+list of gnu packages
+server message block
+alchemy catalyst
+geobrowsing
+the document foundation
+public domain day
+oracle corporation
+google catalogs
+office suites for windows
+web applications
+advertising slogans
+foundations based in the united states
+history of linux
+laptop
+the free software definition
+unlockable games
+plug-in
+redwood city, california
+transaction processing
+dos issues
+list of java virtual machines
+commercial use of copyleft works
+category:xml
+scientific revolution
+ease
+opencl
+firefox release history
+list of formerly proprietary software
+2000 software
+list of video game consoles
+computer programming tool stubs
+java programming
+web browser (layout) engines
+secure shell
+hazard pointer
+priority inversion
+motif (software)
+javascript dialect engines
+programming languages created in the 1980s
+video game terminology
+design by contract
+da vinci machine
+microcontroller
+"operator overloading, free pascal manual"
+digital rights organizations
+supercomputing in europe
+list of reflective programming languages and platforms
+companies in the nasdaq-100 index
+elementary os
+static library
+companies based in santa clara, california
+language localization
+exception handling syntax
+works about information economics
+publicly traded companies of the united states
+ecma standards
+eager evaluation
+computer display standard
+clone (linux system call)
+groovy (programming language)
+naming controversies
+public domain music
+comparison of open-source software hosting facilities
+leap (software bundle)
+supply chain software companies
+free software programmed in java (programming language)
+non-profit organizations based in maryland
+it portal
+java naming and directory interface
+release engineering
+data-centric programming languages
+naked objects
+homebrew (video games)
+javascript syntax
+comparison of layout engines (ecmascript)
+comparison of open-source wireless drivers
+java platform
+scala (programming language)
+copyright licenses (category)
+fifo (computing and electronics)
+goethe oak
+technology companies of the united states
+comparison of tcl integrated development environments
+amber (processor core)
+programming languages created in 2011
+atari st software
+programming languages created in 2012
+programming languages created in 2014
+william haskell alsup
+downstream (software development)
+abstract window toolkit
+architecture of windows nt
+business terms
+google x
+web programming
+the grinder
+javac
+alcelaphinae
+anti-pattern
+computer occupations
+googlization
+array programming
+geometric primitive
+server farm
+list of open-source healthcare software
+programming tools for windows
+xiph.org foundation
+source code escrow
+gij
+opensolaris network virtualization and resource control
+free software foundation
+virtual appliance
+zero install
+names
+apple media events
+machine code
+comparison of source code hosting facilities
+file transfer protocol
+integrated development environments
+oracle secure global desktop
+arrays
+software using the gpl license
+paging
+linked data structure
+method overriding
+gift economy
+open software foundation
+image packaging system
+ddoc
+openbsd
+list of functional programming topics
+kwin
+enterprise javabeans
+thread pool pattern
+alphabetical list of programming languages
+9965 gnu
+retail companies of the united states
+comparison of open source operating systems
+kde e.v.
+free software
+webos
+windows forms
+san francisco bay area portal
+free license
+proprietary software
+read-eval-print loop
+glossary of video terms
+indonesia portal
+list of imperative programming languages
+apache incubator
+application programming interfaces
+comparison of layout engines (xml)
+project valhalla
+disaster recovery
+backporting
+list of basic dialects
+morfik
+comparison of web search engines
+articles with example clojure code
+business software
+history of tablet computers
+list of software forks
+minix file system
+max (software)
+metasploit project
+software wars
+raid
+list of jboss software
+camera phone
+snit
+copy protection
+linux distribution
+educational programming language
+comparison of programming languages
+skin (computing)
+linux drivers
+geist (company)
+c standard library
+haiku (operating system)
+list of acquisitions by oracle
+array slicing
+cachefs
+non-local variable
+monolithic kernels
+design rationale
+class-based programming languages
+operator (programming)
+smartphone
+hypertext transfer protocol
+midlet
+name mangling
+lightweight unix-like systems
+stack-based virtual machines
+tablet computer
+open security
+jamvm
+gnome foundation
+amsterdam compiler kit
+permissive license
+computer files
+freemarker
+free hardware
+ultrabook
+interpreters (computing)
+standards
+openbsd timeline
+software optimization
+variable (programming)
+standard library
+vector-based graphical user interface
+programming language classification
+sysin
+symbian foundation
+java compiler
+oxygene (programming language)
+platform technology
+1997 essays
+list of xml markup languages
+1983 introductions
+android-x86
+ibm software
+eiffel (programming language)
+1990 introductions
+software design description
+nis+
+sourceforge.net
+free software portal
+online services comparisons
+dosbox
+software development
+java platform, micro edition
+javaserver faces
+alias analysis
+software testing
+queue
+"a history of c++: 1979−1991 - page 12"
+delimiter
+afrikaans words and phrases
+internet portal
+quercus
+jhtml
+red hat
+comparison of html parsers
+"report on the algorithmic language algol 68, section 10.2.2."
+licensing
+nested function
+open-source hardware
+publish–subscribe pattern
+history of software engineering
+programming languages created in 2003
+programming languages created in 2001
+the book of mozilla
+programming languages created in 2007
+programming languages created in 2004
+distributed data storage systems
+computer crime
+1969 introductions
+open knowledge foundation
+perl
+crowdsourcing
+circle-ellipse problem
+archive formats
+p-code machine
+category:xml-based standards
+data management
+open knowledge definition (okd)
+comparison of open source and closed source
+ultra-mobile pc
+1976 establishments in california
+issues in overloading
+anonymous recursion
+commercial open-source applications
+picojava
+mach (kernel)
+free compilers and interpreters
+inheritance semantics
+functional programming
+flow-based programming
+xml protocol
+software forks
+display technology companies
+stream
+floppy disk-based operating systems
+criticisms of software and websites
+cloud computing providers
+data model
+hsa foundation members
+cluster computing
+meta-modeling
+rolling release
+microprofessor i
+swedish
+signal programming
+list of operating systems
+open-source software development
+languages of malaysia
+mobile linux
+subroutines
+pointer (computer programming)
+xhtml
+wintel
+free special purpose file systems
+history of the internet
+copyright licenses
+microsoft initiatives
+c sharp programming language family
+public copyright licenses
+programming language concepts
+universal v. reimerdes
+dynamically typed programming languages
+mixin
+java virtual machine
+blackberry thumb
+computer security procedures
+history of video games
+c++ syntax
+hierarchical model
+bill gates
+print server
+usage share of operating systems
+head-mounted display
+linker (computing)
+free-software events
+pontifical catholic university of rio de janeiro
+vala (programming language)
+brazilian inventions
+open microprocessors
+galaxy ft-1500
+pointer
+javaone
+network information service
+operating system distributions bootable from read-only media
+free content licenses
+return type
+javapedia
+physical theatre
+user interface design
+non-profit organizations based in san francisco, california
+european union public licence
+pattern matching
+discuss
+basic for qt
+html decimal character rendering
+rooting (android os)
+the c++ programming language
+criticism of linux
+lazarus component library
+sun constellation system
+servant
+type system
+permissive free software licences
+koppisetti srinivas
+xrml
+gtkmm
+communication
+computing platforms
+open standard
+compiz
+programming paradigm
+league for programming freedom
+dalvik (software)
+avionics programming languages
+sun servers
+disaster recovery plan
+formerly proprietary software
+free integrated development environments
+list of important publications in computer science#compilers
+lua (programming language)
+bibliography file formats
+internet
+computer hardware
+server-side javascript
+creative commons licences
+telegraphy
+free pascal
+geeknet
+cryptography portal
+mime
+documentary films about free software
+open graphics project
+open source geospatial foundation
+recurring events established in 2007
+bsd daemon
+oracle solaris studio
+native (computing)
+jacobsen v. katzer
+comparison of type systems
+set (abstract data type)
+comparison of programming paradigms
+mobile operating systems
+class variable
+swing
+jonas application server
+pl/pgsql
+facebook software
+gnu icecat
+-zilla (suffix)
+product lifecycle management
+pseudocode
+veritas volume manager
+interface control document
+array
+image processing
+fox toolkit
+storage hypervisor
+sun open storage
+sparcstation
+openoffice.org
+gnu lightning
+finnish inventions
+tcl programming language family
+java package
+list of trademarked open-source software
+computer security policy
+list of bsd operating systems
+api writer
+gilad bracha
+btrfs
+personaljava
+computer standards
+cryptography law
+law stubs
+long-term support
+x-based libraries
+defeasible reasoning
+automatic memory management
+dual licensing
+google logo
+companies in the dow jones industrial average
+applet
+free software websites
+parallel array
+browser
+unified extensible firmware interface#secure boot
+microkernel
+lists of programming languages
+trs-80 color computer
+sun-4
+computer networks
+memory management (operating systems)
+public domain in the united states
+sun-1
+sun-2
+sun-3
+partitioned global address space
+total cost of ownership
+field (computer science)
+l4 microkernel family
+remote procedure call
+mozilla public license
+solaris (operating system)
+rule of the shorter term
+computer russification
+hotspot
+scientific language
+interface (computing)
+linux portal
+open-source computer hardware
+pluggable look and feel
+software using the cddl license
+license manager
+virtual machines
+google street view
+open-source software security
+universal turing machine
+programming languages created in the 1970s
+open source initiative
+apache software foundation
+os x text editors
+binary code compatibility
+supercomputing in india
+open data
+articles with example tcl code
+english phrases
+list of widget toolkits
+floss weekly
+project zero
+plant common name disambiguation pages
+cli attributes
+free and open-source graphics device driver
+distinguishable interfaces
+sun certified professional
+freertos
+off-side rule languages
+common object request broker architecture
+wikipedia:wikimedia foundation
+interface (java)
+computer terminal
+standard streams
+menuconfig
+itk
+xml
+minimal evaluation
+category:free software programmed in scala
+callan data systems
+list of linux distributions
+gnu classpath
+digital rights management
+rhino (javascript engine)
+bsd authentication
+general graphics interface
+data modeling
+image resolution
+gnu project
+comparison of programming languages (mapping)
+list of command-line interpreters
+bertos
+html element
+software patent
+companies initially financed with venture capital
+message-oriented middleware
+object-oriented analysis and design
+gnat modified general public license
+c++
+techno-progressivism
+wildfly
+book publishing
+mammals of africa
+ebml
+prototype-based programming
+fork (software development)
+mozilla application suite
+abstract data type
+media technology
+rdbms software for linux
+programming language topics
+oracle vm
+sun vdi
+development software companies
+metacompiler
+list of filename extensions (alphabetical)
+gnome
+template metaprogramming
+call stack
+windows aero
+programming languages
+c3 linearization
+data drilling
+free software companies
+android version history
+java bytecode instruction listings
+data structures
+sparc
+jovial
+patentleft
+nullable type
+serialization
+ibm system object model
+generic programming
+mono
+electronic frontier foundation
+jungle computing
+technological change
+smart contract
+inheritance (object-oriented programming)
+history of firefox
+googlebot
+moolit
+continuation
+companies established in 1976
+class-based programming
+companies established in 1975
+software testing portal
+performance analysis
+technology websites
+organisations based in thiruvananthapuram
+websites by company
+runtime library
+invariant based programming
+comparison of basic instructions of programming languages
+international standard book number
+desktop environments
+abdul kalam
+avian
+pirate party
+real versus nominal value
+software using the eclipse license
+eclipse (software)
+laptops
+metacompilation
+method (computer programming)
+languages of suriname
+ironpython
+e-reader
+science and technology in the san francisco bay area
+^
+languages of indonesia
+erika enterprise
+comparison of c sharp and java
+php-gtk
+list of object-oriented programming languages
+arm architecture
+bsd licenses
+mobile device
+the code
+java programming language
+intrapixel and interpixel processing
+international trade
+comparison of operating system kernels
+category:software using the mit license
+pirates of silicon valley
+jikes
+index of internet-related articles
+comparison of audio player software
+internets
+1-57610-777-9
+hack (programming language)
+eldred v. ashcroft
+method stub
+computer workstations
+dragonfly bsd
+java annotation
+damaged good
+event dispatching thread
+smalltalk
+batch file
+graphical user interface � comparison to other interfaces
+cc0
+list of php accelerators
+html
+reliability engineering
+open rights group
+turfing
+concurrent data structure
+eclipse ide
+ecmascript for xml
+server sprawl
+.properties
+free software projects
+list of open-source software packages
+object windows library
+self-hosting
+google maps
+secure digital music initiative
+apple public source license
+primitive types
+free device drivers
+identifiers
+java database connectivity
+oracle certification program
+java class file
+list of php editors
+unix variants
+apache harmony
+assembly language
+interrupt
+composite data types
+graphical control element
+media server
+parrot virtual machine
+gdk
+companies based in tokyo
+mobile phones
+public domain film
+samba
+microsoft open specification promise
+criticism of java
+supercomputers
+gnu manifesto
+1991 software
+oracle weblogic server
+shared source
+netapp
+application retirement
+computer science
+google platform
+international symposium on memory management
+swig
+constructor (object-oriented programming)
+command-line interface
+programming language standards
+internet os
+list of free and open source software packages
+abstract data types
+commodore vic-20 software
+dalvik virtual machine
+real-time operating systems
+[10]
+oberon programming language family
+sun acquisition by oracle
+server hardware
+free software movement
+coden
+contract law
+traits class
+comparison of web application frameworks
+cranbrook educational community alumni
+[1]
+political party
+venture capital
+tinyos
+live cd
+software design
+list of inferno applications
+copyright term extension act
+apache tomee
+software quality
+nvidia tesla personal supercomputer
+content (media)
+rich internet application frameworks
+list of revision control software
+packet analyzer
+501(c)(3) nonprofit organizations
+programming language
+icon design
+mobile broadband
+james gosling
+history of mozilla application suite
+software patents and free software
+php accelerator
+transcompiler
+arts
+data centers
+google web toolkit
+word coinage
+java version history
+uefi secure boot
+graal
+google+
+object code
+organic user interface
+unix system v
+compiler construction
+videophone
+threads (computing)
+netbook
+software license agreement
+pascal compilers
+reference type
+public domain enhancement act
+comparison of computer shells
+address constant
+arm operating systems
+nassi–shneiderman diagram
+enlightenment foundation libraries
+inductive functional programming
+modeling language
+free and open-source software organizations
+internet encyclopedias
+jar hell
+permissive and copyleft licenses
+openmoko
+software protection dongle
+circular buffer
+thread (computing)
+computer conferences
+zero one infinity
+free software movement karnataka
+graphics hardware and foss
+distributed revision control
+java processor
+javanese language
+type introspection
+comparison of c# and java
+w3c (x)html validator
+variable (computer programming)
+nilfs
+julia (programming language)
+computer security
+multitasking
+mummers play
+javastation
+monopoly
+handheld game console
+dumbphone
+byzantine fault tolerance
+php programming language
+java enterprise platform
+iplanet
+list of file systems
+turbo c sharp
+objective-c
+toronto school of communication theory
+software anomalies
+wiki communities
+educational foundations
+license proliferation
+root squash
+distributed file system
+pixel art scaling algorithms
+virtual memory
+gnu general public license
+android software development
+don't be evil
+consumer organizations
+portal software
+sparc microprocessor architecture
+reduced instruction set computer
+free documentation generators
+pear
+jetty (web server)
+symbos
+concurrent programming languages
+compile and go loader
+list of free-software events
+list of computer size categories
+disk file systems
+java bytecode
+domain specific language
+memory overcommitment
+display technology
+software metering
+window manager
+interaction design
+common development and distribution license
+mit license
+tombstone diagram
+internet advertising
+application virtualization
+widget toolkits
+critical section
+software dvd players
+list of gnome applications
+filename extensions
+tcl/java
+debuggers
+application binary interface
+electronics companies
+rtos
+cloud storage
+computer multitasking
+digital asset management
+tud:os
+diskless workstations
+list of file formats
+headless browser
+supercomputer
+free software licence
+google code
+comparison of open source software hosting facilities
+software developer
+iup
+sharpdevelop
+censorship by google
+comparison of programming languages (object-oriented programming)
+revolution os
+1977 establishments in california
+no more operator overloading – features removed from c and c++
+subject–verb–object languages
+microdata (html)
+domain-specific language
+gnu bazaar
+ismn
+pedagogic integrated development environments
+companies based in trondheim
+communicating sequential processes
+discontinued programming languages
+de facto standard
+data serialization formats
+fellows of the british computer society
+design
+qml
+query
+batch processing
+list of google apps for android
+arachne
+paper launch
+comparison of integrated development environments for java
+world wide web consortium standards
+dcom
+dcop
+1975 establishments in new mexico
+stanford graduate school of business alumni
+overhead code
+floss manuals
+list of tools for static code analysis
+gnu free documentation license
+pure (programming language)
+vala
+tree (graph theory)
+artistic license
+platform virtualization
+microsoft portal
+sysout
+cpu design
+web hosting service
+high-level programming languages
+iso standards
+third platform
+time-triggered system
+title bar
+measuring programming language popularity
+lldb (debugger)
+tree (data structure)
+putty
+google chrome experiments
+web browsers
+free word processors
+microsoft visual studio
+list of google domains
+hello world program examples
+list of free and open-source software packages
+swing (java)
+standard streams in openvms
+debugger
+dancing trees
+drakon
+pointer swizzling
+jruby
+functional reactive programming
+list of important publications in operating systems
+squawk virtual machine
+floating licensing
+microcomputer software
+comparison of open-source operating systems
+platform-enabled website
+virtual backup appliance
+java programming language family
+remote file system
+pixel art
+sparc enterprise
+write once, run anywhere
+pixar
+deque
+mozilla
+openframeworks
+gpl font exception
+redirection (computing)
+dubious
+wbxml
+microsoft windows security technology
+operators in c and c++
+operators (programming)
+american websites
+history of programming languages
+java platform software
+iswn
+icedtea
+software transactional memory
+1995 software
+central apparatus room
+list of important publications in concurrent, parallel, and distributed computing
+computer accessibility
+comparison of mysql database engines
+apache tomcat
+viral phenomenon
+google videos
+console game
+programming languages created in 1972
+memory debugger
+list of unix programs
+application layer protocols
+pl/sql
+voluntary collective licensing
+turing completeness
+public domain image resources
+dedicated console
+minix 3
+css
+thread safety
+display server
+network simulation
+functional languages
+drjava
+format war
+linux on the desktop
+linux programming tools
+python decorators
+sun visualization system
+abstraction (computer science)
+in the beginning... was the command line
+organizations established in 1985
+lightweight linux distribution
+php extension community library
+virtual world
+orthogonal instruction set
+business models for open source software
+list of gnu software
+business models for open-source software
+international data group
+opaque binary blob
+embedded systems
+internationalization and localization
+globalization management system
+gnu lesser general public license
+programming languages used in most popular websites
+comparison of mobile operating systems
+open system
+attribute grammar
+stack (abstract data type)
+gnu compiler collection
+java portal
+software derived from or incorporating wine
+curl (programming language)
+the open source definition
+creational pattern
+dumbshow
+non-timber forest products
+array programming languages
+deep web
+protothreads
+companies listed on nasdaq
+user interface
+odrl
+comparison of relational database management systems
+filename extension
+sunpci
+trees (data structures)
+multithreading (computer hardware)
+client (computing)
+mobile operating system
+influence of the ibm pc on the personal computer market
+profiling (computer programming)
+comparison of network diagram software
+python programming portal
+javaserver pages
+internet exchange point
+hackathon
+website stubs
+basic programming language family
+visual component library
+map (higher-order function)
+gradle
+programming languages created in 1986
+programming languages created in 1987
+apache tapestry
+el expressions
+basic interpreters
+emulation software
+bluej
+software reliability testing
+floating (dance)
+python (programming language)
+comp.lang.java faq question 6.9: why isn't there operator overloading?
+os x user interface
+comparison of database tools
+expect
+software comparisons
+programming language theory
+open look
+web application frameworks
+pizza (programming language)
+multi-paradigm programming languages
+glossary of operating systems terms
+copyright status of work by the u.s. government
+language primitive
+sun ray
+hibernate (java)
+demand paging
+portable audio player manufacturers
+google acquisitions
+sbt
+calling convention
+dexel
+community source
+oracle technology network
+dynamic array
+opensparc
+assembly languages
+c# syntax
+android studio
+event-driven programming
+region-based memory management
+tracing just-in-time compilation
+loader (computing)
+list of object-relational mapping software
+dataflow programming
+network computer (brand)
+open innovation
+category:procedural programming languages
+computing commands
+telecommunications network
+system image
+gluegen
+associative array
+template processor
+monkeybars framework
+object database
+google guice
+comparison of bsd operating systems
+os x programming tools
+gpl
+pseudolocalization
+computer hardware stubs
+animal mascots
+public domain calculator
+jad (file format)
+list of amp packages
+definition of free cultural works
+free and open-source software licenses
+free culture movement
+comparison of programming languages (string functions)
+software licenses
+object-oriented user interface
+microsoft windows
+freedom of panorama
+commons-based peer production
+terminal emulator
+translation
+harvard university alumni
+java awt native interface
+function (mathematics)
+wireless security
+computer hardware companies
+virtual disk image
+self-modifying code
+coffee beverages
+berne convention for the protection of literary and artistic works
+debugging
+software using the bsd license
+all rights reversed
+java platform, enterprise edition
+public copyright license
+warrants issued in hong kong stock exchange
+comparison of documentation generators
+c libraries
+special:booksources
+fltk
+economics terminology
+sablevm
+widget toolkit
+software architecture
+sun ultra series
+associative arrays
+object-oriented programming
+autovivification
+architecture description language
+cover oregon
+hdfs
+template engines
+numerical linear algebra
+non-profit technology
+beanshell
+genie
+list of liberated software
+list of java keywords
+istc
+design pattern (computer science)
+data center infrastructure management
+markup languages
+ireview
+list of quercus species
+programming languages created by women
+list of games released on linux
+pascal programming language
+microsoft
+registration authority
+cde
+weld cdi
+tcp wrapper
+xcode
+stunnel
+a/ux
+singularity (operating system)
+sparse array
+control flow
+language industry
+syllable desktop
+punycode
+stack-based memory allocation
+market structure and pricing
+copyright
+java collections framework
+google portal
+mobile server
+programming language comparisons
+object (computer science)
+outline of perl
+open-source economics
+varargs in java programming language
+social information processing
+notation
+projects established in 1998
+java device platform
+educational operating systems
+compiler
+open-source-appropriate technology
+smalltalk programming language family
+companies established in 1982
+library (computing)
+opensolaris
+java (programming language) libraries
+dos software
+hardware description language
+set
+variable (computer science)
+linux software
+software using the mit license
+comparison of programming languages (strings)
+google ventures
+utility software types
+commodore 64 software
+ohloh
+history of free and open-source software
+page table
+shell script
+n-tuple
+internet properties established in 1998
+list of macintosh software
+processing (programming language)
+comparison of debuggers
+bounds checking
+comparison of free software licenses
+oracle grid engine
+kparts
+stack machine
+systemtap
+stack overflow
+software using the psf license
+webby award winners
+trusted computing group
+interfaces
+javascript
+dosemu
+mozilla corporation software rebranded by the debian project
+comparison of programming languages (array)
+companies based in cupertino, california
+microkernel-based operating systems
+free content
+utah data center
+living people
+ungoogleable
+free software community
+model-driven architecture
+orthodox file manager
+"operator overloading, delphi manual"
+type theory
+free knowledge
+queueing theory
+agglutinative languages
+language-based system
+java.net
+iec standards
+sun microsystems
+compression file systems
+leon
+apple inc.
+network file systems
+linux
+free software programmed in c++
+perl data language
+framework class library
+java
+fagaceae
+arm big.little
+rights expression language
+isc license
+destructor
+ucsd pascal
+automatic memory allocation
+key-value data store
+javafx script
+history of software
+function overloading
+dynamization
+ncurses
+solid-state computer storage
+electronics companies of the united states
+list of data structures
+visual studio xml comments
+property (programming)
+diseconomy of scale
+freedom of information
+harvard architecture
+vectored exception handling
+operator overloading
+transliteration
+massachusetts institute of technology
+disjoint set
+key field
+theatrical occupations
+common language infrastructure
+garbage collection (computer science)
+dalvik turbo virtual machine
+bookmarklet
+ross technology, inc.
+sun blade
+java native access
+array data type
+computing stubs
+electronics portal
+operating system technology
+videolan
+console war
+c syntax
+graal (compiler)
+sun xvm
+software project management
+android (operating system) development software
+digital geometry
+comparison of java and c#
+vendor lock-in
+free software project foundations
+webgl
+core dump
+free market
+lip sync
+minix
+human interface guidelines
+google (verb)
+type rules
+ceylon (programming language)
+itcl
+x.org foundation
+new media
+server (computing)
+motion picture association of america
+multiple inheritance
+advocacy groups
+widget engine
+debian free software guidelines
+sshfs
+stack
+project gutenberg
+license compatibility
+mobile information device profile
+juzu web framework
+software versioning
+variable-length array
+trusted computing
+signedness
+american inventions
+java native interface
+the open knowledge foundation
+local variable
+information and communication technologies for development
+sunos
+high priority free software projects
+sociocultural globalization
+memory leak
+java coffee
+unix network-related software
+modula programming language family
+java development tools
+programming languages created in 1999
+java management extensions
+programming languages created in 1995
+programming languages created in 1991
+programming languages created in 1993
+wayland
+linux companies
+events (computing)
+java applet
+recording industry association of america
+python for s60
+plain old documentation
+business software companies
+pascal programming language family
+google services
+license-free software
+capability immaturity model
+comparison of c# and vb.net
+j.e.l. peck
+shotwell
+internet protocol based network software
+javascript programming language family
+activex
+portable object
+microformat
+obfuscated code
+kotlin (programming language)
+free software license
+list of computer system manufacturers
+list of mergers and acquisitions by google
+programming paradigms
+left child-right sibling binary tree
+revision control
+mirror (programming)
+javabean
+shape analysis
+google
+variadic templates
+foloi oak forest
+list of open source android applications
+extensible syntax programming languages
+zk (framework)
+beos api
+comparison of ssh servers
+jstik
+computer architecture
+computer weekly
+companies established in 1998
+multinational companies headquartered in the united states
+unified modeling language
+register-based virtual machines
+1998 establishments in california
+coding conventions
+shared resource
+public domain
+list of java apis
+destructor (computer programming)
+internet hosting service
+solaris software
+adobe coldfusion
+graphics hardware
+"implementing operators for your class"
+digital technology
+for loop
+iso 29110
+run command
+list of hello world program examples
+chief operating officers
+b-tree
+anti-patterns
+programming constructs
+apple computer, inc. v. microsoft corp.
+economic term stubs
+object-oriented programming languages
+silence
+computer science books
+comparison of integrated development environments for python
+online companies
+open service interface definitions
+donar's oak
+free web browsers
+erp software companies
+idef4
+software patent law
+c (programming language)
+clustering
+narratology
+grub
+numerical analysis software for linux
+opentravel alliance
+kernel debugger
+open source university meetup
+apple inc. operating systems
+comparison of the java and .net platforms
+coffee varieties
+articles with example smalltalk code
+cryptographic software
+interpreter directive
+staroffice
+apple campus
+websphere application server
+mobile phone manufacturers
+technology neologisms
+toplink
+doi
+link
+isrc
+calico
+history of mozilla firefox
+java web start
+outline of the internet
+nmon
+open-source political campaign
+microsoft visual studio express
+server-side
+[5]
+aspect-oriented software development
+list of gps software for mobile phones
+system.map
+comparison of smartphones
+resource acquisition is initialization
+list of indonesian beverages
+class diagram
+distributed component object model
+open-source religion
+this (computer programming)
+curl
+sourceforge
+liberty alliance
+dom events
+mutator method
+interface description language
+manifest typing
+ibm common user access
+delimiter-separated values
+virtualization software
+zlib license
+next-generation secure computing base
+llvm
+multi-core (computing)
+beos
+website localization
+stream (computing)
+excelsior jet
+attribute (computing)
+science and technology think tanks
+list of beos programs
+alpha software
+free software stubs
+software development philosophies
+objectweb asm
+java applets
+list of machine languages
+interruptible operating system
+forge (software)
+hardware restriction
+pointer analysis
+web browser
+software companies based in the san francisco bay area
+atgoogletalks
+american computer businesspeople
+floating point
+list of eclipse projects
+os/2
+servers (computing)
+gambas
+compile farm
+pixel advertising
+reactos
+duke university law school
+peering
+linus torvalds � possible nsa approach
+digital imaging
+programming domain
+java remote method invocation
+american libertarians
+comparison of revision control software
+android rooting
+jazelle
+openwindows
+software peter principle
+facebook
+gtk+
+computer programmers
+chu space
+jvm programming languages
+scientific essays
+programming languages created in 1988
+component object model
+aqua (user interface)
+scripting language
+programming languages created in 1983
+outline of google
+loadable kernel module
+list of apple inc. slogans
+type safety
+zk
+javanativecompiler
+zend server
+windows presentation foundation
+1995 introductions
+newark, california
+trusted network connect
+magic cookie
+reunion
+minix-vmd
+computer security portal
+separation of concerns
+bjarne stroustrup
+object-relational impedance mismatch
+plan 9 from bell labs
+tkdesk
+people from columbus, indiana
+x window system
+open packaging conventions
+distributed computing
+c.h.a. koster
+embrace, extend and extinguish
+laplet
+java ee version history
+apache attic
+object type (object-oriented programming)
+home server
+mindset
+unix software
+hypervisor
+x86 operating systems
+tree structure
+play!
+global constructor
+"why does go not support overloading of methods and operators?"
+office suites for os x
+glossary of legal terms in technology
+firefox
+gtk+ d support
+collaborative intelligence
+semantic html
+banyumasan language
+linux kernel
+java servlet
+eclipse foundation
+proprietary hardware
+ettn
+microcomputer stubs
+computer network
+devops
+comparison of java and android api
+next
+region code
+embedded linux
+computer jargon
+stack-oriented programming language
+self-reference
+isan
+projects established in 2000
+novena
+slab allocation
+java.lang.reflect
+ecos
+java specification requests
+television technology
+netscape
+javapi
+openjdk
+life sciences division of google x
+jboss enterprise application platform
+inter-process communication
+thymeleaf
+array access analysis
+information technology portal
+comparison of file systems
+memory management
+common intermediate language
+bookselling
+parallel computing
+user interface techniques
+generics in java
+javadoc
+lamp (software bundle)
+subscriber identity module
+dvd copy control association, inc. v. bunner
+megafauna of africa
+exception safety
+((constructor))
+realnetworks, inc. v. dvd copy control association, inc.
+code navigation tools
+open source philosophy
+gcj
+office suites for linux
+input/output
+pen computing
+category:software using the zlib license
+hans ras
+eros microkernel family
+list of programming languages
+linux kernel-supported distributed file systems
+2002 introductions
+project looking glass
+inferno (operating system)
+java.lang
+release management
+high integrity programming language
+english-language films
+rose (compiler framework)
+persistent data structure
+xmpp standards foundation
+tethering
+comparison of video player software
+wireless sensor network
+client-server database management systems
+variadic macro
+cloud clients
+issn
+grails
+software companies established in 1999
+comparison of free and open-source software licenses
+object-oriented
+network file system
+allocation site
+bounded pointer
+sun fire
+comparison of programming languages (list comprehension)
+computer libraries
+bill joy
+java apis
+free culture
+checksum algorithms
+systems programming languages
+transifex
+free network-related software
+sun java system
+ext4
+c++ programming language family
+history of the graphical user interface
+dereferenceable uniform resource identifier
+oracle user group
+free software operating systems
+free software programmed in c
+bus factor
+comparison of application servers
+human–computer interaction
+pixel
+billion laughs
+python
+armulator
+microsoft visual c#
+computer file formats
+metro design language
+world wide web
+xpcom
+computer icon
+list (abstract data type)
+edit
+comparison of java virtual machines
+office suites
+.net
+sun modular datacenter
+computing websites
+physical computing
+news websites
+double-chance function
+intellectual property activism
+bonobo
+crm software companies
+internet companies of the united states
+escape sequence
+web literacy
+data room
+open design
+object-relational mapping
+enterprise software
+object association
+1999 books
+j sharp
+ikvm.net
+popping
+creative commons
+cross-platform software
+list of sun microsystems employees
+escape analysis
+1987 software
+wsadmin
+xruby
+object-based programming languages
+global variable
+list of 3d graphics apis
+computer graphics portal
+seamonkey
+amulet microprocessor
+commercial off-the-shelf
+oberon (operating system)
+applications of distributed computing
+software package data exchange
+comparison of application virtual machines
+sparcle
+maxine virtual machine
+list of xml and html character entity references
+stereoscopy
+vinod khosla
+product activation
+open source software
+windows file types
+list of open-source video games
+distributed computing architecture
+internet metaphors
+network operating system
+switch statement
+isbn
+dynamic web page
+sunview
+digital art
+free beer
+screen protector
+inner class
+free database management systems
+all pages with titles containing "hotspot"
+replicant (operating system)
+free computer libraries
+common language runtime
+c compilers
+tuple
+dock (os x)
+atari 8-bit family software
+free data visualization software
+software freedom conservancy
+subroutine
+software using the apache license
+millar v taylor
+trait (computer programming)
+javaserver pages standard tag library (jstl)
+3d computer graphics
+c++ standard library
+software using the lgpl license
+cross-platform
+list of compilers
+clig
+do while loop
+environment modules (software)#modulefiles
+partial evaluation
+code smell
+software companies based in washington (state)
+free and open source software
+list of free software web applications
+internet terminology
+c sharp (programming language)
+aspect-oriented programming
+open publishing
+fab tree hab
+.net programming languages
+graphical user interface
+american technology chief executives
+role-oriented programming
+console manufacturer
+copyleft media
+bidirectional script support
+event stream processing
+beerware
+component-based software engineering
+concurrent mark sweep collector
+copyright law
+point (typography)
+dual-licensing
+software platform
+instruction set architectures
+software engineering
+software industry in india
+zfs
+list of commercial open-source applications
+contributor license agreement
+reflection (computer programming)
+vulnerability management
+sing#
+sparc microprocessor products
+databases
+free mobile software
+neher–mcgrath
+all pages beginning with "hotspot"
+dynamic infrastructure
+console user interface
+wimp (computing)
+contiki
+internet properties established in 1999
+copyfraud
+mobile internet device
+machine code monitor
+aros research operating system
+free computer programming tools
+illumos
+free uml tools
+list of mobile software distribution platforms
+computer file systems
+supercomputing in pakistan
+personal digital assistant
+proprietary firmware
+automated exception handling
+sdl passolo
+phalanger
+gnu interpreter for java
+arm accredited engineer
+ada (programming language)
+outline of c++
+double-ended queue
+articles with example ruby code
+list of group-0 isbn publisher codes
+pypy
+php syntax and semantics
+service data object
+theatrical genres
+qt
+staged event-driven architecture
+x10
+list of countries' copyright length
+iso/iec 12207
+retrocomputing
+distributed file systems
+ultimate++
+unix wars
+free statistical software
+nominal type system
+market share of operating systems
+software maintenance
+viral license
+international organization for standardization
+glocalization
+class (computer science)
+bloom filter
+string literal
+service-oriented architecture
+network software stubs
+history of human–computer interaction
+type signature
+foreach loop
+trusted platform module
+oracle v. google
+numerical analysis software for windows
+ms-dos
+xjack
+software deployment
+source code
+internet protocols
+ruby (programming language)
+central processing unit
+darpa
+console application
+timeline of operating systems
+tagged pointer
+auto_ptr
+modprobe
+swift
+university of california, berkeley
+plugin
+comparison of linux distributions
+smart tv
+comparison of java and c++
+qfs
+software license
+list of data structures: data types
+cinder
+animation software
+comparison of integrated development environments
+foreign function interface
+class (computer programming)
+google software
+books by eric s. raymond
+primitive data type
+spring web flow
+theme (computing)
+declarative programming
+lobbying organizations
+java (programming language)
+open source lab (book)
+p/invoke
+free software foundation europe
+primitive wrapper class
+free virtualization software
+business object (computer science)
+json
+nixon diamond
+von neumann programming languages
+books about free software
+java platform, standard edition
+graphical user interfaces
+while loop
+gigapixel image
+presentation layer protocols
+universal identifiers
+mklinux
+mesa (programming language)
+smartphones
+literate programming
+straw man proposal
+lccn
+source port
+inversion of control
+distributed data storage
+comparison of x window system desktop environments
+application posture
+organizations established in 1998
+greenfoot
+gnu project software
+openair
+motif
+share-alike
+race condition
+direct rendering infrastructure
+comparison of c# and visual basic .net
+refs
+internet communications engine
+sheaf (mathematics)
+java (island)
+gosu (programming language)
+posse project
+criticism of google
+cjk
+telecommunications engineering
+smartbook
+opaque pointer
+uml partners
+libre knowledge
+spring framework
+griffon
+abstract interpretation
+a. van wijngaarden
+open-source software
+http
+category:free software lists and comparisons
+user interfaces
+weak reference
+ecma international
+openoffice
+alternative terms for free software
+implementation inheritance
+document object model
+php
+network operations center
+organizations established in 2003
+software bugs
+data center
+computer programming
+ecmascript
+opendwg
+closed source software
+virtual inheritance
+oracle linux
+dialect (computing)
+free software movement of india
+free software programmed in ruby
+non-profit organizations based in florida
+xen
+list of programming language researchers
+plumbr
+steve jobs
+server room
+tcl
+connected limited device configuration
+human–machine interaction
+java logging frameworks
+index checking
+virtual synchrony
+data modeling languages
+software release life cycle
+book
+supercomputing in china
+data structure
+jython
+sociology of knowledge
+32x28px
+syntax highlighting
+open publication license-licensed works
+prebinding
+scripting languages
+comparison of tablet computers
+home computer software
+file server
+glass (software bundle)
+list of laptop brands and manufacturers
+fortran programming language family
+java (software platform)
+free html editors
+web development software
+software that uses cairo
+open system (computing)
+cross-platform free software
+kdl
+thousand oaks, california
+kde
+storage technology corporation
+syntax (programming languages)
+dart (programming language)
+openness
+list of os x technologies
+category
+timeline of web browsers
+human communication
+c programming language family
+timeline of video game console releases in north america
+plain old data structure
+list of software development philosophies
+eclipse public license
+persistence frameworks
+seed7
+freshmeat
+majc
+articles with example racket code
+javanese literature
+2001 films
+outline of free software
+comparison of programming languages (basic instructions)
+free software programmed in scala
+google balloon internet
+algol programming language family
+microkernels
+spark (programming language)
+current events portal
+smart cow problem
+copyfree
+network effect
+sun microsystems laboratories
+carnegie mellon university software
+write anywhere file layout
+freedos
+abstract type
+window (computing)
+mono (software)
+cades
+mert
+storage violation
+information appliances
+web browser history
+list of jvm languages
+event-driven architecture
+cray cs6400
+enterprise risk management
+lcd crosstalk
+ravenscar profile
+holism
+o'reilly media
+buffer overflow
+computer law
+computer companies established in 1977
+apple ii software
+free software foundation latin america
+garbage collection
+apache geronimo
+oxygene
+list of software licenses
+pentile matrix family
+xerox
+bsd license
+breadcrumb (navigation)
+gifar
+computer science portal
+libreplanet
+c to java virtual machine compilers
+digital photography
+java class library
+operating system
+component library for cross platform
+free and open source software licenses
+semantics encoding
+companies based in mountain view, california
+library science
+sgml
+computer graphics data structures
+record
+international nongovernmental organizations
+open systems interconnection
+wireless networking
+software portal
+kerberos
+kaffe
+open sources: voices from the open source revolution
+shell (computing)
+oracle applications
+lfs
+hvac
+decision tree
+companies based in redwood shores, california
+bachelor of science in information technology
+object-oriented operating system
+retail software
+private equity portfolio companies
+bounds checking elimination
+information appliance
+google china
+application programming interface
+mobile browser
+oak
+programming language topic stubs
+android (operating system)
+open research
+operating system projects
+sici
+companies formerly listed on nasdaq
+television terminology
+native development kit
+outlines
+pantomime
+open-source movement
+simultaneous multithreading
+list of ecmascript engines
+covariance and contravariance (computer science)
+list of c++ compilers
+source-to-source compilers
+b.j. mailloux
+history of mozilla thunderbird
+string (computer science)
+source code repository
+list of free and open-source android applications
+php magic methods overriding class properties
+debian
+free java implementations
+java performance
+educational programming languages
+standard template library
+jscript
+numerical analysis software for os x
+gnustep
+jeb decompiler
+hessla
+phraseapp
+open source ecology
+commodore 128 software
+vliw
+imperative programming
+queue (abstract data type)
