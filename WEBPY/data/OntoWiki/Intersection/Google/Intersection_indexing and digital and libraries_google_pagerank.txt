@@ -1,0 +1,13 @@
+1 ;*; digital libraries ;*; 
+2 ;*; university of michigan ;*; 
+3 ;*; list of digital library projects ;*; 
+4 ;*; project gutenberg ;*; 
+5 ;*; library of congress ;*; 
+6 ;*; information science ;*; 
+7 ;*; list of open-access journals ;*; 
+8 ;*; humanities ;*; 
+9 ;*; digital library ;*; 
+10 ;*; public domain ;*; 
+11 ;*; internet archive ;*; 
+12 ;*; google books ;*; 
+13 ;*; arxiv ;*; 

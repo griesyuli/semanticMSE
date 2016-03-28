@@ -1,0 +1,7 @@
+1 ;*; cocaine ;*; 
+2 ;*; speech-language pathology ;*; 
+3 ;*; prevention medical ;*; 
+4 ;*; primary prevention ;*; 
+5 ;*; mania ;*; 
+6 ;*; etiology ;*; 
+7 ;*; standard of care ;*; 

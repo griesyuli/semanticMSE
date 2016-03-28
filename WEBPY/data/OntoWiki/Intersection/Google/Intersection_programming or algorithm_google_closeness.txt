@@ -1,0 +1,13 @@
+1 ;*; information theory ;*; 
+2 ;*; artificial neural network ;*; 
+3 ;*; estimation theory ;*; 
+4 ;*; evolutionary computation ;*; 
+5 ;*; coding theory ;*; 
+6 ;*; jaccard index ;*; 
+7 ;*; gradient descent ;*; 
+8 ;*; dijkstras algorithm ;*; 
+9 ;*; bicubic interpolation ;*; 
+10 ;*; hamming distance ;*; 
+11 ;*; expectation-maximization algorithm ;*; 
+12 ;*; genetic algorithms ;*; 
+13 ;*; connected-component labeling ;*; 

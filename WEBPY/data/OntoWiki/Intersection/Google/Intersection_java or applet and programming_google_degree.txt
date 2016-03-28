@@ -1,0 +1,14 @@
+1 ;*; common object request broker architecture ;*; 
+2 ;*; public domain ;*; 
+3 ;*; operator overloading ;*; 
+4 ;*; programming language ;*; 
+5 ;*; object-oriented programming ;*; 
+6 ;*; copyleft ;*; 
+7 ;*; linux ;*; 
+8 ;*; comparison of programming languages ;*; 
+9 ;*; smartphone ;*; 
+10 ;*; application programming interface ;*; 
+11 ;*; memory management ;*; 
+12 ;*; free software foundation ;*; 
+13 ;*; open source initiative ;*; 
+14 ;*; java virtual machine ;*; 
