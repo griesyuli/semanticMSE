@@ -1,0 +1,1298 @@
+database-centric architecture
+iso 11784 & 11785
+alias (sql)
+globalization terminology
+computer data
+houses completed in 1724
+iterator
+iso 14644-9
+electronic commerce
+os/2
+international standard text code
+grid computing
+video compression picture types
+conceptual graphs
+iso 7001
+iso 7002
+academic programming languages
+rolex milgauss
+metamodeling
+filename extensions
+iso 18245
+conformity assessment
+freedesktop.org
+iso 25964
+national institute of standards and technology
+reverse geocoding
+comparison of programming languages
+110 film
+software development kit
+iso 15706-2
+iso 27799
+d (data language specification)
+xml
+security of automated teller machines
+watch
+iso 13584
+list of color film systems
+codasyl
+î“-valerolactone
+invariant (mathematics)
+lossless compression algorithms
+transaction-safe fat file system
+iso 13399
+java remote method invocation
+1986 establishments in the united states
+transparency (human-computer interaction)
+stationery
+question-focused dataset
+types of words
+ansi escape code
+list of file formats
+antimagnetic watch
+national pipe thread
+iso 5775
+iso 5776
+cursor (databases)
+british standard pipe thread
+ibm fellow
+audiogram
+health informatics
+ibm flashsystem
+graphics software stubs
+donald d. chamberlin
+adaptive server enterprise
+ibm hursley
+iso/ieee 11073
+application programming interface
+list of 3d graphics apis
+isofix
+crossref
+iso/iec 14443
+iso/iec 17025
+wavelets
+computer languages
+quantifier (logic)
+branch (computer science)
+distributed computing architecture
+distributed data store
+digital economy
+portable object (computing)
+country codes
+microdata (html)
+domain-specific language
+olap
+centralized database
+ismn
+column (database)
+orcid
+pentax auto 110
+fault tolerant system
+international standard serial number
+design of the fat file system
+iso/iec 80000
+iso/iec 5218
+file allocation table
+iso 14001
+james mcnerney
+statically typed programming languages
+vhdl
+formatfactory
+database replication
+quality management system
+yoda conditions
+transport infrastructure
+server-side javascript
+1977 software
+database integrity
+iso-timeml
+online database
+iso 15022
+ibm canada head office building
+iso/iec 10967
+internet governance organizations
+sierpinski triangle
+ibm deep thunder
+acid
+as 9100
+panzergewinde
+data synchronization
+ibm purequery
+iso 8583
+computer file systems
+international standard identifier for libraries and related organizations
+real time database
+extract, transform, load
+fluent interface
+dcop
+dynamic dispatch
+codd's 12 rules
+iso 259
+drive letter assignment
+metadata
+computer storage
+category:database management systems
+drop (sql)
+diving watch
+payroll
+backronym
+iso/tr 11941
+list of iec standards
+astronomical acronyms
+commit (sql)
+iso/tc 176
+provisioning
+routing protocol
+international standard name identifier
+âœ‰
+insert (sql)
+self service
+iso 10303
+iso/iec 8859-16
+iso 25178
+inductive programming
+data warehouse appliance
+asin
+data virtualization
+listener fatigue
+xpdl
+torque
+institute of environmental sciences and technology
+ansi standards
+tree structure
+iso 9
+iso 7736
+database management system
+iso 21500
+iso 2
+iso 3
+iso 1
+iso 6
+iso 7
+iso 4
+iso 5
+iso 10303-21
+iso 14644-8
+database trigger
+ibm system/38
+vd 16
+iso 639-2
+iso 10303-28
+object identifier
+iso/iec 27001:2013
+very large business applications
+1250 renã©-lã©vesque
+list of official languages
+combinator library
+api
+names
+chemical file format
+ibm toronto software lab
+data-centric programming languages
+ibm haifa research laboratory
+resource description framework
+history of ibm
+comparison of business process modeling notation tools
+algol programming language family
+mrsid
+document management system
+iso 11992
+abbreviations
+ecma standards
+dynamically typed programming languages
+automated cash handling
+platform-enabled website
+djvu
+programming domain
+film formats
+application binary interface
+list of constructed languages
+acrostic
+iso 14644-2
+data management
+lisp programming language family
+isan
+ibm jstart
+iso, sil, and bcp language codes for constructed languages
+computer security standards
+an thread
+http
+iso 3864
+envelope
+c. j. date
+category:film formats
+software emulation
+floppy disk
+stability theory
+b:structured query language
+data processing
+master data management
+java specification requests
+iso 22000
+mechanical standards
+ibm facilities
+iso 15897
+disambiguation pages
+ibm
+legacy system
+semantic spectrum
+functional programming
+iso 39001
+hierarchical query
+slowly changing dimension
+automated teller machines
+software transactional memory
+ibm rome software lab
+data remanence
+dos technology
+iteration in programming
+comparison of object database management systems
+sedatives
+full text search
+iswc
+oclc
+iso 639-3
+iso 690
+iso 639-1
+hydrography
+iso 639-6
+iso 639-5
+iso/iec 11404
+iso 14644-1
+ibm websphere
+iso 14644-3
+iso 14644-4
+iso 14644-5
+iso 14644-6
+iso 14644-7
+quantifier variance
+linux kernel-supported file systems
+update (sql)
+alpha (programming language)
+ibm rochester
+kde platform
+shim (computing)
+iso 217
+iso 216
+wavelet
+universally unique identifier
+iso/iec 8820-5
+lossy compression algorithms
+pl/sql
+standard of good practice
+three schema approach
+jpeg xr
+organizations with general consultative status to the united nations economic and social council
+mumps
+iso 19114
+iso 19115
+ibm china research laboratory
+common public license
+service component architecture
+list of programming languages
+organizations established in 1918
+history of the internet
+wan optimization
+commercial processing workload
+global positioning system
+iso 31
+iso 9985
+iso/iec 2022
+ibm research â€“ ireland
+shopping cart software
+fixpoint
+iso 11940
+iso 965
+name mangling
+international standard recording code
+api writer
+international standard audiovisual number
+software as a service
+iso 6166
+high integrity programming language
+organizations established in 1986
+data
+having (sql)
+graph database
+fips 10-4
+a440 (pitch standard)
+iso/iec 21827
+iso/iec jtc 1/sc 2
+sparql
+ibm microprocessors
+iso 31-10
+active record pattern
+international bank account number
+hierarchical model
+iso 31-11
+iso 80000-3
+iso 80000-2
+iso 80000-1
+iso 15189
+iso 31-12
+iso 80000-5
+iso 80000-4
+ansi c
+iso/iec 8859-5
+embedded systems
+apse
+delete (sql)
+wikipedia:issn
+sql/psm
+java apis
+comparison of file systems
+data acquisition
+checksum algorithms
+basic programming language
+xml and mime
+iso 14224
+iso 8000
+list of widget toolkits
+imperial units
+list of fictional espionage organizations
+sql problems requiring cursors
+iso 6709
+teller system
+ibm redbooks
+[35]
+content sniffing
+technical communication
+business process modelling
+list of relational database management systems
+iso 843
+iso 11898
+cypher query language
+ibm informix
+foreign function interface
+attractor
+test (unix)
+iso 10962
+html
+uniqueness quantification
+metacompiler
+comparison of relational database management systems
+document style semantics and specification language
+filename extension
+humanâ€“computer interaction
+ibm and the holocaust
+transact-sql
+internationalization and localization
+iso/iec 17024
+scientific data archiving
+automated teller machine
+lists of countries
+fips 140-2
+data dictionary
+distributed database management system
+hard disk drive
+regulation of medical devices
+iso 2145
+ccir (itu) 468 noise weighting
+iso 8178
+windows communication foundation
+wikibook sql
+eastman kodak photographic films
+iso/iec 9995
+computer file formats
+audiometry
+basic programming language family
+windows disk file systems
+1966 introductions
+iso 14644
+database normalization
+html decimal character rendering
+distributed cache
+geographic information systems
+common criteria
+data definition language
+1918 establishments in the united states
+medical technology
+semantic warehousing
+backward compatibility
+graph databases
+iso 13406-2
+change data capture
+evaluation assurance level
+enterprise information integration
+prototype-based programming languages
+image compression
+list of free file formats
+codegear software
+information technology management
+document-oriented databases
+forward compatibility
+harvey mudd college
+acronyms
+computing platforms
+dart (programming language)
+iso 3307
+microsoft application programming interfaces
+open standard
+mumps programming language
+fuel oil
+refactoring
+iso 2788
+metadata registry
+webp
+bpel
+correlated subquery
+ansi asc x12
+cross-platform software
+list of ecmascript engines
+iso/iec 19752
+cell (microprocessor)
+iso 9984
+multi-paradigm programming languages
+iso 16750
+ftam
+library of congress
+open database connectivity
+consumability
+iso 19011
+hibernate (java)
+geoportal
+d-bus
+programming language standards
+institute of nuclear materials management
+special:booksources
+serial numbers
+cloud infrastructure management interface
+data grid
+database model
+plumbing
+iso 1745
+iso/ts 16949
+iso 10383
+applications of distributed computing
+organizations established in 1947
+correlation database
+iso standards
+lists of database management software
+v:2-c (8-d): file formats, transformation, migration
+ibm centers for advanced studies
+css
+iso 15398
+iso 9897
+list of xml and html character entity references
+federated database system
+reverse star schema
+template:issn
+international standard musical work code
+ibm almaden research center
+international standard music number
+iswn
+charles babbage institute
+iso 2711
+iso 898
+ibm india research laboratory
+advanced video attribute terminal assembler and recreator
+operating systems timeline
+ibm's the great mind challenge
+comparison of programming paradigms
+language binding
+windows file types
+windows components
+iso
+altimetry
+portmanteau
+grade ii* listed buildings in hampshire
+iso 8691
+mozilla application suite
+category:procedural programming languages
+create (sql)
+minolta 110 zoom slr
+pl/pgsql
+world geodetic system
+iso 7200
+data integrity
+ibm mainframe operating systems
+c programming language family
+isbl
+aix
+iso 2240
+magic number (programming)
+knowledge interchange format
+koenigs function
+metadata standards
+ibm selectric typewriter
+iso 6523
+component-based software engineering
+ibm information management software
+database models
+db(a)
+computer standards
+quality
+data mapping
+ietf language tag
+internet research task force
+iso/iec 10116
+shock resistant watch
+iso member bodies
+category:databases
+business process model and notation
+domestic implements
+iso/iec 38500
+envelopes
+amalgamation (names)
+persistent programming languages
+iso 14698-2
+iso/iec 27000-series
+eftpos
+global business organization
+business continuity
+free and open-source software licenses
+firebird (database server)
+data domain
+iso/iec 27001:2005
+126 film
+architecture description language
+lists of abbreviations
+permalink
+domain analysis
+ibm virtual universe community
+create, read, update and delete
+list of japanese latin alphabetic abbreviations
+jbig
+data hierarchy
+alphaworks
+iso/iec 27000
+iso/iec 27003
+iso/iec 27002
+iso/iec 27005
+iso/iec 27004
+.ql
+iso/iec 27006
+iso 4157
+jpeg 2000
+iso 1989
+iso 10206
+iso/iec 646
+iso 13490
+list of filename extensions (alphabetical)
+threaded pipe
+control character
+iso 11170
+list of basic dialects
+ansi art
+data set
+representational state transfer
+iso 9241
+network software stubs
+multi-model database
+failover
+game theory
+iso/iec 42010
+publisher item identifier
+idempotent
+guidelines for the definition of managed objects
+horsepower-hour
+estc
+film format
+pronom technical registry
+database constraints
+language code
+armscii
+internet slang
+iso 3977
+ibm cloud computing
+business intelligence
+internet engineering task force
+history of ibm mainframe operating systems
+event-driven process chains
+horsepower
+-onym
+object file
+geotagging
+programming language classification
+schema matching
+datasheet
+graphics file formats
+iso 14651
+workflow patterns
+1967 introductions
+iso/iec 8859
+ibm austin research laboratory
+select (sql)
+ecw (file format)
+c sharp (programming language)
+drug culture
+database stubs
+types of databases
+ansi asc x9
+common table expression
+biological data
+ibm global services
+.net programming languages
+iso 80000-7
+structured programming languages
+list of imperative programming languages
+types of business entity
+superkey
+iso 80000-6
+types of e-commerce
+toponym resolution
+ghb
+capitalization
+iso 2709
+sql data access
+platform virtualization
+payment systems
+internet message access protocol
+donald chamberlin
+iso/iec tr 12182
+british standard brass thread
+iso 3166-1
+iso 3166-2
+iso 3166-3
+bs 7799
+statistics
+specification and description language
+united states library of congress stubs
+iso/iec 15504
+computer data processing
+programming paradigm
+test management
+iso 80000-8
+programming languages created in 1964
+iso 9660
+binary code compatibility
+pdp-11
+iso 1413
+column-oriented dbms
+ibm sql/ds
+iso 50001
+reachability
+iso 1000
+knowledge representation
+profile scripting language
+markup languages
+databases
+faceted search
+concurrency control
+relational database management system
+ibm hakozaki facility
+dynamic infrastructure
+identifiers
+bell-lapadula model
+triplestore
+ibm academy of technology
+graph transformation
+iso 15686
+process driven messaging service
+scripting languages
+accredited crane operator certification
+object model
+common object request broker architecture
+computer files
+iso/iec 27001
+iso 14971
+rdf database
+international electrotechnical commission
+foreign key
+isrc
+iso/iec 8859-10
+iso/iec 8859-11
+iso/iec 8859-12
+iso/iec 8859-13
+iso/iec 8859-14
+iso/iec 8859-15
+comparison of object-relational database management systems
+language families and languages
+international business
+decision support system
+least fixed point
+cross-platform
+web development
+flag day (software)
+octopiler
+iso/iec 27007
+breadcrumb (navigation)
+relational database
+deep thought (chess computer)
+iso/iec 9126
+ibm research â€“ africa
+audio engineering
+electronic business
+object-based programming languages
+return address
+itu-t recommendations
+banking equipment
+data modeling
+iso/iec 18014
+ada (programming language)
+business intelligence tools
+data farming
+china compulsory certificate
+book terminology
+hydroxy acids
+country houses in hampshire
+programming languages created in the 1980s
+object database
+document-oriented database
+mime.types
+interoperability
+utility computing
+cachã© objectscript
+car safety
+medical equipment
+initialized sign
+nomenclator
+declarative programming languages
+banking technology
+systems programming languages
+rolap
+federal information processing standard
+iso/iec 12207
+c++
+dynamic web page
+avionics programming languages
+book publishing
+existential quantification
+iso 9362
+iso/iec 15288
+iso/iec 19794-5
+list of acronyms
+ibm research
+ibm power systems
+data maintenance
+ibm somers office complex
+comparison of graphics file formats
+threading (manufacturing)
+rdbms software for linux
+programming language topics
+database schema
+135 film
+international organization for standardization
+ibm mashup center
+alain belda
+sgml
+iso 2014
+iso 2015
+service-oriented architecture
+ibm research â€“ tokyo
+comparison of application virtual machines
+interface control document
+electronic funds transfer
+actionscript
+armstrong's axioms
+key management
+iso 31000
+history of operating systems
+procedural programming languages
+database testing
+programming languages
+ras syndrome
+universal relation assumption
+central intelligence agency
+iso/iec 4909
+iso 15924
+fixed-point combinator
+data vault modeling
+list of group-0 isbn publisher codes
+iso/iec 18004
+document file format
+iso/iec 18000
+indexing
+markup language stubs
+acronyms in healthcare
+digital identity
+component object model
+virtual synchrony
+database design
+business process management
+javascript
+windows database-related software
+metalinguistic abstraction
+servant (corba)
+jovial
+html5
+iso 15919
+candidate key (template)
+globally integrated enterprise
+database administration and automation
+4gl
+accounting intelligence
+bonobo (computing)
+ibm system r
+image registration
+database management systems
+data visualization
+iso 128
+lccn
+history of computer companies
+gt.m
+customary units of measurement in the united states
+transitive closure
+typescript
+back-of-the-envelope calculation
+contextual query language
+international standard
+list of archive formats
+from (sql)
+optimistic replication
+navigational database
+ibm building, johannesburg
+data integration
+linked data
+data mining extensions
+data mart
+ibm db2
+iec standards
+distributed computing
+massachusetts general hospital
+.net framework
+1960 in computer science
+hierarchical and recursive queries in sql
+vocabulary onesource
+data warehousing
+data center
+general anesthetics
+data mining
+declarative programming
+ravenscar profile
+java (programming language)
+ottoql
+gaba analogues
+spark (programming language)
+international standard book number
+relational model
+scheme (programming language)
+iso 10487
+t. william olle
+computing terminology
+ibm system object model
+semantic web
+list of file systems
+iso 233
+technology stubs
+iso 6438
+list of iec technical committees
+nielsen theory
+inter-process communication
+list of iso standards
+ibm developerworks
+data manipulation language
+iso 6344
+piping
+iso 6346
+iso/iec 19770
+brake specific fuel consumption
+list of abbreviations in photography
+index locking
+e-commerce
+distributed component object model
+universal identifiers
+euphoriants
+iso 11940-2
+ilog
+domain-specific programming languages
+candidate key
+index (search engine)
+quantification
+gabab receptor agonists
+datalog
+iso 9000
+georeference
+list of document markup languages
+equilibrium point
+information security forum
+sys.sysobjects
+common language infrastructure
+case (sql)
+multivalue
+iso 428
+xpcom
+online transaction processing
+standards organizations
+ibm connections
+fact constellation
+openair
+internet standard organisations
+deductive database
+internet communications engine
+history of programming languages
+boolean logic
+cobol
+world wide web consortium standards
+file (command)
+domain-specific entertainment language
+future proofing
+executive information system
+remote procedure call
+cognitive dimensions of notations
+iso 14750
+file format
+iso 13485
+workflow technology
+iso 9564
+2002 software
+request for comments
+water resistant mark
+functional software architecture
+category:ibm
+ibm international chess tournament
+iso 5800
+iso/iec 7813
+iso/iec 7812
+iso/iec 7811
+iso/iec 7810
+interbase
+iso/iec 7816
+academic publishing
+business continuity and disaster recovery
+text user interface
+swig
+mã¶bius transformation
+gnu data access
+acronyms in the philippines
+domain-specific multimodeling
+database index techniques
+w3c markup validation service
+iso 2146
+quality management
+ecmascript for xml
+automation
+task forces
+istc
+.properties
+document object model
+iso-8859-8-i
+iso 2047
+technical specifications
+relational algebra
+iso 518
+iso 519
+data control language
+database
+navigation
+iso 12006
+iso 20022
+java database connectivity
+james w. owens
+american inventions
+business terms
+express (data modeling language)
+ecmascript
+three-letter acronym
+named condition
+internet architecture board
+data element
+conditional (programming)
+iso 3166
+qml
+graphics file format summary
+dialect (computing)
+web applications
+a boy and his atom
+nosql
+mccarthy formalism
+directory service
+iso 4217
+dingbat
+iso 20121
+occupation stubs
+thread angle
+british standard whitworth
+plug-in (computing)
+star schema
+iso 10303-22
+iso 80000-13
+greatest fixed point
+unicode
+network model
+distributed data stores
+logic symbols
+query languages
+transaction processing
+gads task force
+operational data store
+data modeling languages
+computer compatibility
+delivery multimedia integration framework
+a-weighting
+data stream processing with sql
+vd 17
+iso 19136
+multi-paradigm programming language
+javascript dialect engines
+fortran
+1990 introductions
+datacite
+online analytical processing
+initialism
+banknote counter
+list of motion and gesture file formats
+secrecy of correspondence
+paper products
+data structure
+comparison of html parsers
+evaluation
+object-oriented programming
+data warehouse
+fieldwork
+recursive acronym
+progressive graphics file
+iso 14031
+iso 10006
+digital object identifier
+semantic html
+iso 31-8
+iso 31-9
+iso 31-6
+iso 31-7
+iso 31-4
+iso 31-5
+iso 31-2
+iso 31-3
+iso 31-0
+iso 31-1
+international standards
+ibm mainframe
+javascript programming language family
+musical tuning
+iso/pas 28000
+standardization
+ettn
+java (software platform)
+internet governance
+microformat
+sony semiconductors
+proprietary database management systems
+automotive technology stubs
+java platform
+iso/iec 19600
+database transaction
+programming paradigms
+microsoft development tools
+javabean
+d4 (programming language)
+iso 26000
+navigational equipment
+stylesheet languages
+ibm building (seattle)
+iso 13567
+searching
+object-relational database
+iso 6385
+phantom withdrawal
+iso 9529
+seamonkey
+iso/iec 11801
+usability testing
+function model
+domain-specific modeling
+software quality
+computer memory
+model-driven engineering
+deep blue (chess computer)
+comparison of structured storage software
+financial cryptography
+reference ellipsoid
+iso 5964
+syllabic abbreviation
+iso/iec standards
+data migration
+persistence (computer science)
+andrew n. liveris
+knowledge representation and reasoning
+guide international
+database apis
+iso/iec 20000
+htsql
+environmental data rescue
+fixed point property
+cluster manager
+common logic
+internet assigned numbers authority
+geocoding
+eigenvector
+doi
+internet media type
+data analysis
+knowledge representation languages
+conditional compilation
+postal history
+acronym
+database theory
+common query language
+list of file signatures
+transcompiler
+case sensitivity
+high efficiency video coding
+os x database-related software
+high bit rate media transport
+run book automation
+iso 29110
+social responsibility organizations
+ibm zurich research laboratory
+501(c)(3) nonprofit organizations
+sound level meter
+verification and validation
+gnome
+iso 4031
+mean effective pressure
+list of film formats
+frank t. cary
+data model
+customer engineer
+iso/iec 8859-8
+iso/iec 8859-9
+criminal reduction utilising statistical history
+iso/iec 8859-2
+iso/iec 8859-3
+iso/iec 8859-1
+iso/iec 8859-6
+iso/iec 8859-7
+iso/iec 8859-4
+iso 31-13
+index (database)
+data cable
+iso 5428
+iso 15926 wip
+database software comparisons
+anchor modeling
+iso 15292
+open service interface definitions
+bookselling
+ibm yamato facility
+audio file format
+sarbanesâ€“oxley act
+1963 introductions
+iso 15926
+iso 10218
+algol 60
+straw man proposal
+c (programming language)
+ada semantic interface specification
+comparison of layout engines (ecmascript)
+log shipping
+database storage structures
+iso 8601
+jdbc
+powerpc microprocessors
+sony toshiba ibm center of competence for the cell processor
+hugh darwen
+issn
+queen anne architecture
+kde
+data presentation architecture
+jpip
+in-memory database
+core architecture data model
+psychoacoustics
+iso/iec jtc 1/sc 27
+iso 10160
+iso 10161
+electronic documents
+relational database management systems
+ibm research â€“ brazil
+international organisation for standardisation
+is-is
+computer science portal
+î“-hydroxyvaleric acid
+data scraping
+webm
+pmid
+yawl
+david farr
+comparison of database tools
+fixed points (mathematics)
+downgrade attack
+iso 732
+snowflake schema
+packaging
+fault-tolerant computer systems
+engineering occupations
+library science
+double-chance function
+ibm business system 12
+conditional constructs
+jscript
+ginni rometty
+pure tone audiometry
+iso 639
+object-role modeling
+cell be architecture
+diagrams
+cambridge scientific center
+workflow
+iso 226
+business process modeling
+cadaster
+iso/iec 8652
+hawker siddeley
+iso 13407
+cash register
+watches
+european units of measurement directives
+computer graphics metafile
+data governance
+format rot
+ibm public license
+list of declarative programming languages
+structured storage
+neurotransmitters
+iso/iec 11179
+history of software
+ibm personal computer
+information assurance
+internet-related organizations
+ibm pulse conference
+data publication
+digital cinema
+programming language topic stubs
+entityâ€“relationship model
+iso 2852
+sici
+american national standards institute
+ghb receptor agonists
+programming languages with an iso standard
+iso/iec 15693
+coden
+converged infrastructure
+4th dimension (software)
+units of power
+iso 3103
+java platform, enterprise edition
+postal system
+develothon
+recurrence relation
+alter (sql)
+writing system
+ibm cascon
+quicktime
+internet standard
+iso 11783
+sql
+dram
+iso 19092-1
+iso 19092-2
+330 north wabash
+list of group-1 isbn publisher codes
+application programming interfaces
+first-order logic
+list of logic symbols
+disk file systems
+disaster recovery
+iso 14000
+internet engineering steering group
+compound key
+process group
+stationary point
+iso 19439
+cloud computing
+edgar f. codd
+cluster (computing)
+calling convention
+garden hose
+ibm research â€“ australia
+scientific literature
+federal government of the united states
+registration authority
+iso 14698
+fixed-point theorem
+imperative programming
+cap theorem
+h.264/mpeg-4 avc
+junction table
+list of languages
