@@ -41,16 +41,16 @@ Slides (in .pdf) available at
 https://drive.google.com/open?id=0BzIRZROJtylBbmF0R1hvZi1mNXc
 
 Demo videos are available at:
-1)
+1.
 https://drive.google.com/open?id=0BzIRZROJtylBU3E4Q3E4dWk2anM ; (a
 general overview of the recommender system),
 
-2)
+2.
 https://drive.google.com/open?id=0BzIRZROJtylBWkFNZXc0alJqNnc ; (an
 example of query expansion using Wiki-MetaSemantik a.k.a.
 SemanticMSE),
 
-3)
+3.
 https://drive.google.com/open?id=0BzIRZROJtylBbExXVUItVlhxSE0 (an
 example of query expansion using baselines of WordNet and online
 thesauruses).
