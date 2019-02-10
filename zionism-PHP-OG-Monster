@@ -1,0 +1,109 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
+automation science fair
+Repositories0
+Code72K
+Commits0
+Issues86
+Marketplace0
+Topics0
+Wikis34
+Users0
+Language
+
+Sort
+
+Showing 72,090 available code results 
+@FudanYuan
+FudanYuan/neo4j – 2010_infocom_-4464524319994376386.json
+Showing the top two matches
+Last indexed on Nov 25, 2018
+JSON
+{"title": "Fair Scheduling in Cellular Systems in the Presence of Noncooperative Mobiles.", "fields": ["incentive compatibility", "nash equilibrium", "game theory", "channel allocation schemes", "mobile station", "telecommunications link", "signaling game", "channel"], "abstract": "We consider the problem of centrally controlled 'fair' scheduling of resources to one of the many mobile stations connected to a base station (BS). The BS is the only entity making decisions in this framework based on truthful information from the mobiles on their radio channel. We study the well-known family of parametric \u03b1-fair scheduling problems from a game-theoretic perspective in which some of the mobiles may be noncooperative. We first show that if the BS is unaware of the noncooperative behavior from the mobiles, the noncooperative mobiles become successful in snatching the resources from the other cooperative mobiles, resulting in unfair allocations. If the BS is aware of the noncooperative mobiles, a new game arises with BS as an additional player. It can then do better by neglecting the signals from the noncooperative mobiles. The BS, however, becomes successful in eliciting the truthful signals from the mobiles only when it uses additional information (signal statistics). This new policy along with the truthful signals from mobiles forms a Nash Equilibrium (NE) called a Truth Revealing Equilibrium. Finally, we propose new iterative algorithms to implement fair scheduling policies that robustify the otherwise non-robust (in presence of noncooperation) \u03b1-fair scheduling algorithms.", "citation": "Citations (9)", "departments": ["French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation", "University of Avignon", "Indian Institute of Science", "Indian Institute of Technology Bombay", "French Institute for Research in Computer Science and Automation", "University of Avignon", "Indian Institute of Science"], "authors": ["Veeraruna Kavitha.....http://dblp.org/pers/hd/k/Kavitha:Veeraruna", "Eitan Altman.....http://dblp.org/pers/hd/a/Altman:Eitan", "Rachid El Azouzi.....http://dblp.org/pers/hd/a/Azouzi:Rachid_El", "Rajesh Sundaresan.....http://dblp.org/pers/hd/s/Sundaresan:Rajesh"], "conf": "infocom", "year": "2010", "pages": 9}
+@luosichengx
+luosichengx/myplace – 2010_infocom_-4464524319994376386.json
+Showing the top two matches
+Last indexed on Dec 15, 2018
+JSON
+{"title": "Fair Scheduling in Cellular Systems in the Presence of Noncooperative Mobiles.", "fields": ["incentive compatibility", "nash equilibrium", "game theory", "channel allocation schemes", "mobile station", "telecommunications link", "signaling game", "channel"], "abstract": "We consider the problem of centrally controlled 'fair' scheduling of resources to one of the many mobile stations connected to a base station (BS). The BS is the only entity making decisions in this framework based on truthful information from the mobiles on their radio channel. We study the well-known family of parametric \u03b1-fair scheduling problems from a game-theoretic perspective in which some of the mobiles may be noncooperative. We first show that if the BS is unaware of the noncooperative behavior from the mobiles, the noncooperative mobiles become successful in snatching the resources from the other cooperative mobiles, resulting in unfair allocations. If the BS is aware of the noncooperative mobiles, a new game arises with BS as an additional player. It can then do better by neglecting the signals from the noncooperative mobiles. The BS, however, becomes successful in eliciting the truthful signals from the mobiles only when it uses additional information (signal statistics). This new policy along with the truthful signals from mobiles forms a Nash Equilibrium (NE) called a Truth Revealing Equilibrium. Finally, we propose new iterative algorithms to implement fair scheduling policies that robustify the otherwise non-robust (in presence of noncooperation) \u03b1-fair scheduling algorithms.", "citation": "Citations (9)", "departments": ["French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation", "University of Avignon", "Indian Institute of Science", "Indian Institute of Technology Bombay", "French Institute for Research in Computer Science and Automation", "University of Avignon", "Indian Institute of Science"], "authors": ["Veeraruna Kavitha.....http://dblp.org/pers/hd/k/Kavitha:Veeraruna", "Eitan Altman.....http://dblp.org/pers/hd/a/Altman:Eitan", "Rachid El Azouzi.....http://dblp.org/pers/hd/a/Azouzi:Rachid_El", "Rajesh Sundaresan.....http://dblp.org/pers/hd/s/Sundaresan:Rajesh"], "conf": "infocom", "year": "2010", "pages": 9}
+@MitchellPuls
+MitchellPuls/Thesis – Bibliography.tex
+Showing the top match
+Last indexed on Oct 31, 2018
+TeX
+~~~~ Ansible, Red Hat Ansible, n.d., IT Automation with Ansible, online accessed at April 25, retrieved from \\https://www.ansible.com/overview/it-automation\\
+
+Apache Zookeeper, 2017, online accessed at July 2, retrieved from \\http://zookeeper.apache.org/\\
+@FudanYuan
+FudanYuan/neo4j – 2009_infocom_-3707136520716131507.json
+Showing the top two matches
+Last indexed on Nov 25, 2018
+JSON
+{"title": "Fair and Efficient User-Network Association Algorithm for Multi-Technology Wireless Networks.", "fields": ["network packet", "heuristics", "vertical handover", "wimax", "distributed algorithm"], "abstract": "Recent mobile equipment (as well as the norm IEEE 802.21) offers the possibility for users to switch from one technology to another (vertical handover). This allows flexibility in resource assignments and, consequently, increases the potential throughput allocated to each user. In this paper, we design a fully distributed algorithm based on trial and error mechanisms that exploits the benefits of vertical handover by finding fair and efficient assignment schemes. On the one hand, mobiles gradually update the fraction of data packets they send to each network based on the rewards they receive from the stations. On the other hand, network stations send rewards to each mobile that represent the impact each mobile has on the cell throughput. This reward function is closely related to the concept of marginal cost in the pricing literature. Both the station and the mobile algorithms are simple enough to be implemented in current standard equipment. Based on tools from evolutionary games, potential games and replicator dynamics, we analytically show the convergence of the algorithm to fair and efficient solutions. Moreover, we show that after convergence, each user is connected to a single network cell which avoids costly repeated vertical handovers. To achieve fast convergence, several simple heuristics based on this algorithm are proposed and tested. Indeed, for implementation purposes, the number of iterations should remain in the order of a few tens.", "citation": "Citations (72)", "departments": ["French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation"], "authors": ["Pierre Coucheney.....http://dblp.org/pers/hd/c/Coucheney:Pierre", "Corinne Touati.....http://dblp.org/pers/hd/t/Touati:Corinne", "Bruno Gaujal.....http://dblp.org/pers/hd/g/Gaujal:Bruno"], "conf": "infocom", "year": "2009", "pages": 5}
+@luosichengx
+luosichengx/myplace – 2009_infocom_-3707136520716131507.json
+Showing the top two matches
+Last indexed on Dec 15, 2018
+JSON
+{"title": "Fair and Efficient User-Network Association Algorithm for Multi-Technology Wireless Networks.", "fields": ["network packet", "heuristics", "vertical handover", "wimax", "distributed algorithm"], "abstract": "Recent mobile equipment (as well as the norm IEEE 802.21) offers the possibility for users to switch from one technology to another (vertical handover). This allows flexibility in resource assignments and, consequently, increases the potential throughput allocated to each user. In this paper, we design a fully distributed algorithm based on trial and error mechanisms that exploits the benefits of vertical handover by finding fair and efficient assignment schemes. On the one hand, mobiles gradually update the fraction of data packets they send to each network based on the rewards they receive from the stations. On the other hand, network stations send rewards to each mobile that represent the impact each mobile has on the cell throughput. This reward function is closely related to the concept of marginal cost in the pricing literature. Both the station and the mobile algorithms are simple enough to be implemented in current standard equipment. Based on tools from evolutionary games, potential games and replicator dynamics, we analytically show the convergence of the algorithm to fair and efficient solutions. Moreover, we show that after convergence, each user is connected to a single network cell which avoids costly repeated vertical handovers. To achieve fast convergence, several simple heuristics based on this algorithm are proposed and tested. Indeed, for implementation purposes, the number of iterations should remain in the order of a few tens.", "citation": "Citations (72)", "departments": ["French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation"], "authors": ["Pierre Coucheney.....http://dblp.org/pers/hd/c/Coucheney:Pierre", "Corinne Touati.....http://dblp.org/pers/hd/t/Touati:Corinne", "Bruno Gaujal.....http://dblp.org/pers/hd/g/Gaujal:Bruno"], "conf": "infocom", "year": "2009", "pages": 5}
+@hvopen
+hvopen/hvopen-website – 2017-07-19-mad-science-fair.md
+Showing the top three matches
+Last indexed on Jun 30, 2018
+Markdown
+location: Lourdes High School Auditorium
+mhvlug_url: /meetings/2017/mad-science-fair
+presenter: null
+redirect_from:
+- /meetings/2017/mad-science-fair
+title: Mad Science Fair
+type: meeting
+---
+
+
+Every July we gather together in a special MHVLUG event we call the Mad Science Fair. People are encouraged to bring their hardware and software hacking projects in a show and tell forum. We'll have tables set up with power available. We kick off the evening with a short inspirational video, and then proceed to interactive discussions with people showing what they've got. Everyone is welcomed to come and enjoy, even if you don't have something to exhibit.
+@vintageplayer
+vintageplayer/SciBase-ACMTemp – references.txt
+Showing the top match
+Last indexed on Jul 2, 2018
+Text
+Böhringer, K. F. 2004. Towards optimal strategies for moving droplets in digital microfluidic systems. In Proceedings of the IEEE International Conference on Robotics and Automation. 1468--1474.
+Burns, M. A., Johnson, B. N., Brahmasandra, S. N., and Handique, K. 1998. An integrated nanoliter DNA analysis device. Science 282, 484--487.
+Raul Camposano, Behavioral synthesis, Proceedings of the 33rd annual Design Automation Conference, p.33-34, June 03-07, 1996, Las Vegas, Nevada, USA[doi>10.1145/240518.240524]
+@zjsteyn
+zjsteyn/cc – KatrinLeinweber-bio.md
+Showing the top two matches
+Last indexed on Jul 15, 2018
+Markdown
+**Short bio**
+
+Studied biochemistry, arctic ecology & geology. PhD'ed in biofilm assay automation. 
+Worked in tech support at Prezi.com and in a pharma industry's lab automation project. 
+Now at the Leibniz Information Centre for Science and Technology and University Library 
+@FudanYuan
+FudanYuan/neo4j – 2009_icde_3521218332913657044.json
+Showing the top two matches
+Last indexed on Nov 25, 2018
+JSON
+{"title": "SbQA: A Self-Adaptable Query Allocation Process.", "fields": ["data mining", "web query classification", "information system", "resource management", "load balancing"], "abstract": "We present a flexible query allocation framework, called Satisfaction-based Query Allocation (SbQA for short), for distributed information systems where both consumers and providers (the participants) have special interests towards queries. A particularity of SbQA is that it allocates queries while considering both query load and participants' interests. To be fair, it dynamically trades consumers' interests for providers' interests based on their satisfaction. In this demo we illustrate the flexibility and efficiency of SbQA to allocate queries on the Berkeley Open Infrastructure for Network Computing (BOINC). We also demonstrate that SbQA is self-adaptable to the participants' expectations. Finally, we demonstrate that SbQA can be adapted to different kinds of applications by varying its parameters.", "citation": "Not cited", "departments": ["French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation"], "authors": ["Jorge-Arnulfo Quian\u00e9-Ruiz.....http://dblp.org/pers/hd/q/Quian=eacute==Ruiz:Jorge=Arnulfo", "Philippe Lamarre.....http://dblp.org/pers/hd/l/Lamarre:Philippe", "Patrick Valduriez.....http://dblp.org/pers/hd/v/Valduriez:Patrick"], "conf": "icde", "year": "2009", "pages": 4}
+@luosichengx
+luosichengx/myplace – 2009_icde_3521218332913657044.json
+Showing the top two matches
+Last indexed on Dec 15, 2018
+JSON
+{"title": "SbQA: A Self-Adaptable Query Allocation Process.", "fields": ["data mining", "web query classification", "information system", "resource management", "load balancing"], "abstract": "We present a flexible query allocation framework, called Satisfaction-based Query Allocation (SbQA for short), for distributed information systems where both consumers and providers (the participants) have special interests towards queries. A particularity of SbQA is that it allocates queries while considering both query load and participants' interests. To be fair, it dynamically trades consumers' interests for providers' interests based on their satisfaction. In this demo we illustrate the flexibility and efficiency of SbQA to allocate queries on the Berkeley Open Infrastructure for Network Computing (BOINC). We also demonstrate that SbQA is self-adaptable to the participants' expectations. Finally, we demonstrate that SbQA can be adapted to different kinds of applications by varying its parameters.", "citation": "Not cited", "departments": ["French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation", "French Institute for Research in Computer Science and Automation"], "authors": ["Jorge-Arnulfo Quian\u00e9-Ruiz.....http://dblp.org/pers/hd/q/Quian=eacute==Ruiz:Jorge=Arnulfo", "Philippe Lamarre.....http://dblp.org/pers/hd/l/Lamarre:Philippe", "Patrick Valduriez.....http://dblp.org/pers/hd/v/Valduriez:Patrick"], "conf": "icde", "year": "2009", "pages": 4}
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
